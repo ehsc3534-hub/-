@@ -3,12 +3,11 @@ import random
 
 import question_gen
 import seo
-import sfx  # noqa: F401
 import timeline
 import tts
 import video
 import youtube_upload
-from config import (OUT_DIR, QUESTIONS_PER_VIDEO, MAX_BLOCK, MAX_TOTAL, SR, TOPICS)
+from config import OUT_DIR, QUESTIONS_PER_VIDEO, MAX_TOTAL, SR, TOPICS
 
 LETTERS = "ABCD"
 DRY_RUN = os.getenv("DRY_RUN", "").lower() == "true"
@@ -39,30 +38,35 @@ def main():
 
     intro_clip = tts.speak("Welcome to Quiz Time! Five questions, ten seconds each. Ready? Let's go!", "intro")
     outro_clip = tts.speak("How many did you get right? Comment your score, and subscribe for more quizzes!", "outro")
+    fixed = len(intro_clip) / SR + len(outro_clip) / SR + 2.0
 
     topics = random.sample(TOPICS, QUESTIONS_PER_VIDEO)
-    blocks, attempts = [], 0
-    while len(blocks) < QUESTIONS_PER_VIDEO and attempts < 50:
+    blocks, attempts, used = [], 0, 0.0
+    while len(blocks) < QUESTIONS_PER_VIDEO and attempts < 60:
         attempts += 1
+        left = QUESTIONS_PER_VIDEO - len(blocks)
+        limit = (MAX_TOTAL - fixed - used) / left       # dynamic time budget
         q = question_gen.generate(topics[len(blocks)], hist)
         if not q:
             continue
         n = len(blocks) + 1
         clips, durs = make_clips(q, n)
-        if timeline.plan_block(durs, 0)["end"] > MAX_BLOCK:
-            print("Question too long, regenerating...")
+        dur = timeline.plan_block(durs, 0)["end"]
+        if dur > limit:
+            print(f"Too long ({dur:.1f}s > {limit:.1f}s), regenerating...")
             continue
         blocks.append({"q": q, "clips": clips, "durs": durs})
+        used += dur
         question_gen.register(hist, q)
-        print(f"[{n}/{QUESTIONS_PER_VIDEO}] {q['question']}")
+        print(f"[{n}/{QUESTIONS_PER_VIDEO}] {q['question']} ({dur:.1f}s)")
 
     if len(blocks) < QUESTIONS_PER_VIDEO:
         raise SystemExit("Could not generate enough valid questions.")
 
     tl = timeline.build(len(intro_clip) / SR, blocks, len(outro_clip) / SR)
-    if tl["total"] > MAX_TOTAL:
-        raise SystemExit(f"Video too long: {tl['total']:.1f}s")
     print(f"Total duration: {tl['total']:.1f}s")
+    if tl["total"] > 179:
+        raise SystemExit(f"Video too long: {tl['total']:.1f}s")
 
     audio_path = f"{OUT_DIR}/audio.wav"
     out_path = f"{OUT_DIR}/quiz_short.mp4"
