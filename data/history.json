@@ -9,7 +9,10 @@
 "7a3818ac89243911193e0afe6dbcc5981e9838d9",
 "001633a6136a665509fb02bd58eb71d78bba94a5",
 "3e30f97910d6f7542bb625e725b3a84dbc12394d",
-"d15e2029c9c435dd83d38c7bc2003dad3dfe59e6"
+"d15e2029c9c435dd83d38c7bc2003dad3dfe59e6",
+"a969cae4acc0e52eef9b8208694c2f0ab4d259b6",
+"a69197c94f094576c8e6253b15ad09ce40039e74",
+"c1930aa8f9e9566343d1ba628836740e047d5872"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -21,6 +24,29 @@
 "What number comes after 9?",
 "What electric car was invented in France?",
 "Which famous tech CEO founded Tesla?",
-"What is the first digit of pi?"
-]
+"What is the first digit of pi?",
+"Who painted Les Demoiselles d'Avignon?",
+"What did IKEA founder create in 1943?",
+"Which Russian avant-garde artist created 'Starry Night'??"
+],
+"answers": [
+"picasso",
+"chair",
+"vincent whitney"
+],
+"subjects": [
+"cubism",
+"ikea",
+"russian avantgarde"
+],
+"subtopics": {
+"World History": 1,
+"Business and Trade": 1,
+"Art and Painting": 1
+},
+"cats": {
+"History": 1,
+"Finance": 1,
+"Pop Culture": 1
+}
 }
