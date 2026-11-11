@@ -6,7 +6,7 @@ from functools import lru_cache
 
 import requests
 
-from config import (OLLAMA_URL, OLLAMA_MODEL, ANGLES, HISTORY_FILE, CATEGORIES, FINANCE_CAT)
+from config import OLLAMA_URL, OLLAMA_MODEL, ANGLES, HISTORY_FILE, CATEGORIES
 
 STOP = set("""what which who whom whose where when why how is are was were the a an of in on at to for from by
 with and or as that this these those it its into than then does do did has have had be been first most one
@@ -68,13 +68,9 @@ def register(h, q):
 
 # ------------------------------------------------------------------ rotation
 def pick_categories(h, n):
-    """n-1 least-used normal categories + exactly one Finance category, in random order."""
     cnt = h["cats"]
-    others = [c for c in CATEGORIES if c != FINANCE_CAT]
-    others.sort(key=lambda c: cnt.get(c, 0) + random.random() * 0.9)
-    chosen = others[:n - 1]
-    chosen.insert(random.randint(0, n - 1), FINANCE_CAT)
-    return chosen
+    cats = sorted(CATEGORIES.keys(), key=lambda c: cnt.get(c, 0) + random.random() * 0.9)
+    return cats[:n]
 
 
 def pick_subtopic(cat, h):
@@ -149,7 +145,7 @@ def _fetch_subjects(subtopic, h):
     used_txt = ", ".join(used) if used else "(none)"
     prompt = f"""List 20 different, specific, well-known quiz subjects about "{subtopic}".
 Mix different countries, eras and difficulty levels. Each subject is 1 to 4 words
-(a person, place, object, event, animal, element, invention, term, institution, etc.).
+(a person, place, object, event, animal, element, invention, etc.).
 Do NOT list any of these already used subjects: {used_txt}
 Return ONLY JSON: {{"subjects": ["...", "..."]}}"""
     try:
@@ -186,23 +182,19 @@ def _prompt(subtopic, subject, h):
         focus = f'The question MUST be specifically about this subject: "{subject}" (topic area: {subtopic}).'
     else:
         focus = f"Topic area: {subtopic}. Angle for variety: {random.choice(ANGLES)}."
-    fin = ""
-    if subtopic in CATEGORIES[FINANCE_CAT]:
-        fin = ("- This is a FINANCE knowledge question: ask about a fact, term, institution, history or "
-               "number. NEVER give investment advice, predictions or tips.\n")
-    return f"""You write general knowledge quiz questions for a very short YouTube Shorts quiz.
+    return f"""You write general knowledge quiz questions for a YouTube Shorts quiz.
 {focus}
 Difficulty: {diff}
 
 Rules:
-- One well-known, factual, unambiguous question, maximum 10 words, ending with a question mark.
+- One well-known, factual, unambiguous question, maximum 14 words, ending with a question mark.
 - Never write negative questions (no "NOT", no "EXCEPT"). Never ask about opinions, estimates or averages.
 - Exactly one correct answer, maximum 3 words.
 - Exactly three wrong answers, plausible but clearly wrong, maximum 3 words each, all different.
 - Never use "all of the above" or "none of the above".
-- Explanation: ONE short sentence, maximum 10 words, giving an interesting accurate fact.
+- Explanation: ONE short sentence, maximum 18 words, giving an interesting accurate fact.
   The explanation MUST NOT state or contain the correct answer and must not mention any option.
-{fin}- Do NOT repeat or paraphrase any of these earlier questions:
+- Do NOT repeat or paraphrase any of these earlier questions:
 {avoid_txt}
 
 Return ONLY valid JSON in this exact shape:
@@ -221,12 +213,12 @@ def _validate(d, h, subject):
         return None
     if not q.endswith("?"):
         return None
-    if len(q.split()) > 13 or len(e.split()) > 14:
+    if len(q.split()) > 18 or len(e.split()) > 24:
         return None
     if set(norm(q).split()) & BAD_WORDS:
         return None
     opts = [c] + w
-    if any(len(o.split()) > 3 or len(o) > 26 for o in opts):
+    if any(len(o.split()) > 4 or len(o) > 32 for o in opts):
         return None
     if len({norm(o) for o in opts}) != 4 or any(not norm(o) for o in opts):
         return None
@@ -251,7 +243,7 @@ def generate(subtopic, h, tries=6):
     for _ in range(tries):
         subject = _next_subject(subtopic, h)
         try:
-            d = _ollama(_prompt(subtopic, subject, h), 0.8, 240)
+            d = _ollama(_prompt(subtopic, subject, h), 0.8, 260)
         except Exception as ex:
             print("LLM error:", ex)
             continue
