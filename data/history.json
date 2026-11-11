@@ -17,7 +17,12 @@
 "ed692b1fd8964c5e9fce6ec38063f9b4a6c92e7f",
 "28fe5a9ad9fa9cfc08c22ca63a9a52297e306e3e",
 "39f1db3983b9fabe245d4e869d1c6ffb110da1ed",
-"e7d818a45362db2536866a5d3d359beee42e7464"
+"e7d818a45362db2536866a5d3d359beee42e7464",
+"71cb66b877ee91f49ba84582e1f120660e083c4c",
+"adac70e11d63f230cc5855179d839d9f41275f9e",
+"ce678f1a13cfb3b1dc3151209095969e84c05fc6",
+"c45f180812963e1dd846da9489b7696451d5b753",
+"d7176d283e9657a2f406cc7afe36aa4b1d222d14"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -37,7 +42,12 @@
 "What language uses the Hangul alphabet?",
 "What type of pass is known as a 'through ball'?",
 "What is the chemical symbol for potassium?",
-"What formed the Grand Canyon?"
+"What formed the Grand Canyon?",
+"What grows on Yucca plants in dry climates?",
+"What engine type powers the Mercedes-Benz S-Class?",
+"What is printed on the front of a United States dollar bill?",
+"What powers the Northern Lights in the Arctic?",
+"What invention did Hokusai create?"
 ],
 "answers": [
 "picasso",
@@ -47,7 +57,12 @@
 "korean",
 "crossed",
 "k",
-"rivers"
+"rivers",
+"yucca seeds",
+"v8",
+"usa",
+"magnetism",
+"ukiyoe prints"
 ],
 "subjects": [
 "cubism",
@@ -57,7 +72,12 @@
 "korean",
 "football pass",
 "alkali",
-"tyrannosaurus rex"
+"tyrannosaurus rex",
+"yucca seeds",
+"mercedesbenz sclass",
+"dollar bill",
+"winds power",
+"hokusai wave"
 ],
 "subtopics": {
 "World History": 1,
@@ -67,16 +87,23 @@
 "Languages and Alphabets": 1,
 "Sports and Olympics": 1,
 "Chemistry": 1,
-"Oceans, Rivers and Mountains": 1
+"Oceans, Rivers and Mountains": 1,
+"Plants and Trees": 1,
+"Transport and Vehicles": 1,
+"Currencies and Flags": 1,
+"Everyday Science": 1,
+"Famous Inventions": 1
 },
 "cats": {
-"History": 1,
+"History": 2,
 "Finance": 1,
 "Pop Culture": 1,
 "Math": 1,
 "Food & Culture": 1,
 "Sports": 1,
-"Science": 1,
-"Geography": 1
+"Science": 2,
+"Geography": 2,
+"Nature": 1,
+"Technology": 1
 }
 }
