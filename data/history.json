@@ -27,7 +27,12 @@
 "5ed3b874d26f0caa26aec5c0329d83858aa1a9e1",
 "9a61515646cc1aac645615c8773bbfcc8c40124b",
 "b591079b93021e686dab547d0f896249bf433218",
-"ec2960f0bdb0d021daa63e8acb6d2cd89cb9af72"
+"ec2960f0bdb0d021daa63e8acb6d2cd89cb9af72",
+"793bda98b141f4f40802c74dfd0f45896c65efb2",
+"eb7238e0ed0c2fe96b8311980a87b791e6726f5f",
+"cbcfdbb5a21b4bb37d83c20a0fabf97599c649a3",
+"f8f80fb9f3591b73e09d6b92f195f7e13d48098a",
+"d7d8343489a5d2185ee215cec565f280f8987973"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -57,7 +62,12 @@
 "How many stones were used to build Stonehenge?",
 "What causes a cloudy day?",
 "Who wrote the hit song 'Stairway to Heaven'?",
-"What is the tallest column in the Parthenon?"
+"What is the tallest column in the Parthenon?",
+"What is the sine of 90 degrees?",
+"What do orangutans primarily eat in the wild?",
+"What causes a pneumothorax in the lungs?",
+"What is stored in a smart contract?",
+"What fractal did Benoit Mandelbrot study extensively?"
 ],
 "answers": [
 "picasso",
@@ -77,7 +87,12 @@
 "50",
 "cloud formation",
 "led zeppelin",
-"mycenus"
+"mycenus",
+"1",
+"fruits",
+"air bubbles",
+"data",
+"mandelbrot set"
 ],
 "subjects": [
 "cubism",
@@ -97,13 +112,18 @@
 "stonehenge",
 "cloudy day",
 "rock band",
-"parthenon"
+"parthenon",
+"sine function",
+"orangutan",
+"pneumothorax",
+"nfts",
+"benot mandelbrot"
 ],
 "subtopics": {
 "World History": 1,
 "Business and Trade": 1,
 "Art and Painting": 1,
-"Mathematics": 1,
+"Mathematics": 2,
 "Languages and Alphabets": 1,
 "Sports and Olympics": 1,
 "Chemistry": 1,
@@ -117,18 +137,22 @@
 "World Records": 1,
 "Weather and Climate": 1,
 "Music": 1,
-"Architecture and Landmarks": 1
+"Architecture and Landmarks": 1,
+"Animals and Wildlife": 1,
+"Human Body": 1,
+"Technology and Computers": 1,
+"Famous Scientists": 1
 },
 "cats": {
-"History": 2,
+"History": 3,
 "Finance": 1,
 "Pop Culture": 2,
-"Math": 1,
+"Math": 2,
 "Food & Culture": 2,
 "Sports": 2,
-"Science": 2,
+"Science": 3,
 "Geography": 2,
-"Nature": 2,
-"Technology": 2
+"Nature": 3,
+"Technology": 3
 }
 }
