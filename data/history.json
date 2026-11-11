@@ -12,7 +12,12 @@
 "d15e2029c9c435dd83d38c7bc2003dad3dfe59e6",
 "a969cae4acc0e52eef9b8208694c2f0ab4d259b6",
 "a69197c94f094576c8e6253b15ad09ce40039e74",
-"c1930aa8f9e9566343d1ba628836740e047d5872"
+"c1930aa8f9e9566343d1ba628836740e047d5872",
+"945b00e0e91cd032ea2debd7b389e86999c5481a",
+"ed692b1fd8964c5e9fce6ec38063f9b4a6c92e7f",
+"28fe5a9ad9fa9cfc08c22ca63a9a52297e306e3e",
+"39f1db3983b9fabe245d4e869d1c6ffb110da1ed",
+"e7d818a45362db2536866a5d3d359beee42e7464"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -27,26 +32,51 @@
 "What is the first digit of pi?",
 "Who painted Les Demoiselles d'Avignon?",
 "What did IKEA founder create in 1943?",
-"Which Russian avant-garde artist created 'Starry Night'??"
+"Which Russian avant-garde artist created 'Starry Night'??",
+"What is the derivative of x^2?",
+"What language uses the Hangul alphabet?",
+"What type of pass is known as a 'through ball'?",
+"What is the chemical symbol for potassium?",
+"What formed the Grand Canyon?"
 ],
 "answers": [
 "picasso",
 "chair",
-"vincent whitney"
+"vincent whitney",
+"2x",
+"korean",
+"crossed",
+"k",
+"rivers"
 ],
 "subjects": [
 "cubism",
 "ikea",
-"russian avantgarde"
+"russian avantgarde",
+"calculus",
+"korean",
+"football pass",
+"alkali",
+"tyrannosaurus rex"
 ],
 "subtopics": {
 "World History": 1,
 "Business and Trade": 1,
-"Art and Painting": 1
+"Art and Painting": 1,
+"Mathematics": 1,
+"Languages and Alphabets": 1,
+"Sports and Olympics": 1,
+"Chemistry": 1,
+"Oceans, Rivers and Mountains": 1
 },
 "cats": {
 "History": 1,
 "Finance": 1,
-"Pop Culture": 1
+"Pop Culture": 1,
+"Math": 1,
+"Food & Culture": 1,
+"Sports": 1,
+"Science": 1,
+"Geography": 1
 }
 }
