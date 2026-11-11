@@ -1,5 +1,4 @@
 import os
-import random
 
 import question_gen
 import seo
@@ -7,8 +6,7 @@ import timeline
 import tts
 import video
 import youtube_upload
-from config import (OUT_DIR, QUESTIONS_PER_VIDEO, MAX_TOTAL, SR, CATEGORIES,
-                    SUB_CLICK)
+from config import OUT_DIR, QUESTIONS_PER_VIDEO, MAX_TOTAL, SR, SUB_CLICK
 
 LETTERS = "ABCD"
 DRY_RUN = os.getenv("DRY_RUN", "").lower() == "true"
@@ -39,21 +37,22 @@ def make_clips(q, n):
 def main():
     os.makedirs(OUT_DIR, exist_ok=True)
     hist = question_gen.load_history()
+    print(f"History: {len(hist['questions'])} old questions, {len(hist['subjects'])} old subjects")
 
     intro_clip = tts.speak(HOOK_TEXT, "intro")
     outro_clip = tts.speak(OUTRO_TEXT, "outro")
     outro_len = max(len(outro_clip) / SR + 0.5, SUB_CLICK + 2.0)
     fixed = len(intro_clip) / SR + 0.5 + outro_len + 0.5
 
-    # 5 different categories, one question from each
-    cats = random.sample(list(CATEGORIES.keys()), QUESTIONS_PER_VIDEO)
+    # least-used 5 different categories
+    cats = question_gen.pick_categories(hist, QUESTIONS_PER_VIDEO)
     blocks, attempts, used = [], 0, 0.0
-    while len(blocks) < QUESTIONS_PER_VIDEO and attempts < 60:
+    while len(blocks) < QUESTIONS_PER_VIDEO and attempts < 80:
         attempts += 1
         left = QUESTIONS_PER_VIDEO - len(blocks)
         limit = (MAX_TOTAL - fixed - used) / left       # dynamic time budget
         cat = cats[len(blocks)]
-        sub = random.choice(CATEGORIES[cat])
+        sub = question_gen.pick_subtopic(cat, hist)
         q = question_gen.generate(sub, hist)
         if not q:
             continue
@@ -67,7 +66,7 @@ def main():
         blocks.append({"q": q, "clips": clips, "durs": durs})
         used += dur
         question_gen.register(hist, q)
-        print(f"[{n}/{QUESTIONS_PER_VIDEO}] ({cat}) {q['question']} ({dur:.1f}s)")
+        print(f"[{n}/{QUESTIONS_PER_VIDEO}] ({cat} / {sub} / {q['subject']}) {q['question']} ({dur:.1f}s)")
 
     if len(blocks) < QUESTIONS_PER_VIDEO:
         raise SystemExit("Could not generate enough valid questions.")
@@ -89,9 +88,10 @@ def main():
         print("DRY RUN: skipping upload and history save.")
         return
 
-    youtube_upload.upload(out_path, meta)
+    # save history BEFORE upload, so these questions never come again
     question_gen.save_history(hist)
     print("History saved.")
+    youtube_upload.upload(out_path, meta)
 
 
 if __name__ == "__main__":
