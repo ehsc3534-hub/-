@@ -7,10 +7,14 @@ import timeline
 import tts
 import video
 import youtube_upload
-from config import OUT_DIR, QUESTIONS_PER_VIDEO, MAX_TOTAL, SR, TOPICS
+from config import (OUT_DIR, QUESTIONS_PER_VIDEO, MAX_TOTAL, SR, CATEGORIES,
+                    SUB_CLICK)
 
 LETTERS = "ABCD"
 DRY_RUN = os.getenv("DRY_RUN", "").lower() == "true"
+
+HOOK_TEXT = "Ninety percent of people get three of these five questions wrong! Can you beat it?"
+OUTRO_TEXT = "How many did you get right? Comment your score, and subscribe for more quizzes!"
 
 
 def make_clips(q, n):
@@ -36,19 +40,24 @@ def main():
     os.makedirs(OUT_DIR, exist_ok=True)
     hist = question_gen.load_history()
 
-    intro_clip = tts.speak("Welcome to Quiz Time! Five questions, ten seconds each. Ready? Let's go!", "intro")
-    outro_clip = tts.speak("How many did you get right? Comment your score, and subscribe for more quizzes!", "outro")
-    fixed = len(intro_clip) / SR + len(outro_clip) / SR + 2.0
+    intro_clip = tts.speak(HOOK_TEXT, "intro")
+    outro_clip = tts.speak(OUTRO_TEXT, "outro")
+    outro_len = max(len(outro_clip) / SR + 0.5, SUB_CLICK + 2.0)
+    fixed = len(intro_clip) / SR + 0.5 + outro_len + 0.5
 
-    topics = random.sample(TOPICS, QUESTIONS_PER_VIDEO)
+    # 5 different categories, one question from each
+    cats = random.sample(list(CATEGORIES.keys()), QUESTIONS_PER_VIDEO)
     blocks, attempts, used = [], 0, 0.0
     while len(blocks) < QUESTIONS_PER_VIDEO and attempts < 60:
         attempts += 1
         left = QUESTIONS_PER_VIDEO - len(blocks)
         limit = (MAX_TOTAL - fixed - used) / left       # dynamic time budget
-        q = question_gen.generate(topics[len(blocks)], hist)
+        cat = cats[len(blocks)]
+        sub = random.choice(CATEGORIES[cat])
+        q = question_gen.generate(sub, hist)
         if not q:
             continue
+        q["category"] = cat
         n = len(blocks) + 1
         clips, durs = make_clips(q, n)
         dur = timeline.plan_block(durs, 0)["end"]
@@ -58,7 +67,7 @@ def main():
         blocks.append({"q": q, "clips": clips, "durs": durs})
         used += dur
         question_gen.register(hist, q)
-        print(f"[{n}/{QUESTIONS_PER_VIDEO}] {q['question']} ({dur:.1f}s)")
+        print(f"[{n}/{QUESTIONS_PER_VIDEO}] ({cat}) {q['question']} ({dur:.1f}s)")
 
     if len(blocks) < QUESTIONS_PER_VIDEO:
         raise SystemExit("Could not generate enough valid questions.")
