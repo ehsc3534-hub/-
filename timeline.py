@@ -2,7 +2,7 @@ import wave
 import numpy as np
 
 import sfx
-from config import SR, TIMER, REVEAL_STEP
+from config import SR, TIMER, REVEAL_STEP, SUB_APPEAR, SUB_CLICK
 
 
 def plan_block(d, off):
@@ -35,10 +35,12 @@ def build(intro_d, blocks, outro_d):
     for b in blocks:
         b["p"] = plan_block(b["durs"], cursor)
         cursor = b["p"]["end"]
+    outro_len = max(outro_d + 0.5, SUB_CLICK + 2.0)
     return {
         "intro_end": intro_end,
         "outro_start": cursor,
-        "total": cursor + outro_d + 1.0,
+        "outro_len": outro_len,
+        "total": cursor + outro_len,
     }
 
 
@@ -54,26 +56,26 @@ def mix_audio(tl, intro_clip, blocks, outro_clip, path):
         buf[i:j] += x[: j - i] * g
 
     buf += sfx.bgm(n / SR)[:n]
+
+    # hook: big "90%" pops in
     put(sfx.whoosh(), 0.0, 0.6)
+    put(sfx.pop(), 0.02, 1.0)
     put(intro_clip, 0.15)
 
     for b in blocks:
         p, c, q = b["p"], b["clips"], b["q"]
         put(sfx.whoosh(0.4), p["q"][0] - 0.05, 0.5)
         put(c["question"], p["q"][0])
-        put(sfx.scribble(p["q"][1] - p["q"][0]), p["q"][0])
         for i in range(4):
             s, e = p["opts"][i]
             put(sfx.pop(), s - 0.02, 0.8)
             put(c["opts"][i], s)
-            put(sfx.scribble(e - s), s)
         put(c["prompt"], p["prompt"][0])
         ts = p["timer"][0]
         for k in range(TIMER):
             put(sfx.tick(1400 if k < TIMER - 3 else 2000, 0.35), ts + k)
         put(sfx.timeup(), p["timer"][1] - 0.05, 0.8)
         put(c["expl"], p["expl"][0])
-        put(sfx.scribble(p["expl"][1] - p["expl"][0]), p["expl"][0])
         put(sfx.whoosh(0.4), p["reveal"][0] - 0.4, 0.5)
         for i in range(4):
             if i == q["answer"]:
@@ -83,9 +85,13 @@ def mix_audio(tl, intro_clip, blocks, outro_clip, path):
         put(sfx.success(), p["answer"][0], 0.25)
         put(c["answer"], p["answer"][0])
 
-    put(sfx.whoosh(0.4), tl["outro_start"], 0.5)
-    put(outro_clip, tl["outro_start"] + 0.2)
-    put(sfx.pop(), tl["outro_start"] + 2.0, 1.0)
+    o = tl["outro_start"]
+    put(sfx.whoosh(0.4), o, 0.5)
+    put(outro_clip, o + 0.2)
+    put(sfx.pop(), o + SUB_APPEAR, 1.0)       # subscribe button pops up
+    put(sfx.pop(), o + SUB_CLICK, 1.0)        # click
+    put(sfx.success(), o + SUB_CLICK + 0.05, 0.6)
+    put(sfx.ding(), o + SUB_CLICK + 0.25, 0.5)  # bell
 
     peak = float(np.abs(buf).max())
     if peak > 0.92:
