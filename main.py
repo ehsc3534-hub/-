@@ -11,18 +11,18 @@ from config import OUT_DIR, QUESTIONS_PER_VIDEO, MAX_TOTAL, SR, SUB_CLICK
 LETTERS = "ABCD"
 DRY_RUN = os.getenv("DRY_RUN", "").lower() == "true"
 
-HOOK_TEXT = "Ninety percent of people get three of these five questions wrong! Can you beat it?"
-OUTRO_TEXT = "How many did you get right? Comment your score, and subscribe for more quizzes!"
+HOOK_TEXT = "Ninety percent of people fail this quiz! Can you beat it?"
+OUTRO_TEXT = "Comment your score, and subscribe!"
 
 
 def make_clips(q, n):
     clips = {
-        "question": tts.speak(f"Question {n}. {q['question']}", f"q{n}"),
+        "question": tts.speak(q["question"], f"q{n}"),
         "opts": [tts.speak(f"{LETTERS[i]}. {o}", f"q{n}_o{i}") for i, o in enumerate(q["options"])],
-        "prompt": tts.speak("Ten seconds. Go!", f"q{n}_p"),
+        "prompt": tts.speak("Go!", f"q{n}_p"),
         "expl": tts.speak(q["explanation"], f"q{n}_e"),
         "answer": tts.speak(
-            f"The correct answer is {LETTERS[q['answer']]}. {q['options'][q['answer']]}.", f"q{n}_a"),
+            f"Answer {LETTERS[q['answer']]}. {q['options'][q['answer']]}.", f"q{n}_a"),
     }
     durs = {
         "question": len(clips["question"]) / SR,
@@ -41,13 +41,14 @@ def main():
 
     intro_clip = tts.speak(HOOK_TEXT, "intro")
     outro_clip = tts.speak(OUTRO_TEXT, "outro")
-    outro_len = max(len(outro_clip) / SR + 0.5, SUB_CLICK + 2.0)
-    fixed = len(intro_clip) / SR + 0.5 + outro_len + 0.5
+    outro_len = max(len(outro_clip) / SR + 0.3, SUB_CLICK + 1.5)
+    fixed = len(intro_clip) / SR + 0.3 + outro_len
 
-    # least-used 5 different categories
+    # 2 least-used categories + 1 Finance (random position)
     cats = question_gen.pick_categories(hist, QUESTIONS_PER_VIDEO)
+    print("Categories:", cats)
     blocks, attempts, used = [], 0, 0.0
-    while len(blocks) < QUESTIONS_PER_VIDEO and attempts < 80:
+    while len(blocks) < QUESTIONS_PER_VIDEO and attempts < 120:
         attempts += 1
         left = QUESTIONS_PER_VIDEO - len(blocks)
         limit = (MAX_TOTAL - fixed - used) / left       # dynamic time budget
@@ -73,8 +74,8 @@ def main():
 
     tl = timeline.build(len(intro_clip) / SR, blocks, len(outro_clip) / SR)
     print(f"Total duration: {tl['total']:.1f}s")
-    if tl["total"] > 179:
-        raise SystemExit(f"Video too long: {tl['total']:.1f}s")
+    if tl["total"] > 59.8:
+        raise SystemExit(f"Video too long: {tl['total']:.1f}s (limit 60s)")
 
     audio_path = f"{OUT_DIR}/audio.wav"
     out_path = f"{OUT_DIR}/quiz_short.mp4"
