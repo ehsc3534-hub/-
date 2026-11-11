@@ -22,7 +22,12 @@
 "adac70e11d63f230cc5855179d839d9f41275f9e",
 "ce678f1a13cfb3b1dc3151209095969e84c05fc6",
 "c45f180812963e1dd846da9489b7696451d5b753",
-"d7176d283e9657a2f406cc7afe36aa4b1d222d14"
+"d7176d283e9657a2f406cc7afe36aa4b1d222d14",
+"8d3a0d3e10d254a9af4900032e1f28521af2054b",
+"5ed3b874d26f0caa26aec5c0329d83858aa1a9e1",
+"9a61515646cc1aac645615c8773bbfcc8c40124b",
+"b591079b93021e686dab547d0f896249bf433218",
+"ec2960f0bdb0d021daa63e8acb6d2cd89cb9af72"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -47,7 +52,12 @@
 "What engine type powers the Mercedes-Benz S-Class?",
 "What is printed on the front of a United States dollar bill?",
 "What powers the Northern Lights in the Arctic?",
-"What invention did Hokusai create?"
+"What invention did Hokusai create?",
+"What country is the breadfruit originally from?",
+"How many stones were used to build Stonehenge?",
+"What causes a cloudy day?",
+"Who wrote the hit song 'Stairway to Heaven'?",
+"What is the tallest column in the Parthenon?"
 ],
 "answers": [
 "picasso",
@@ -62,7 +72,12 @@
 "v8",
 "usa",
 "magnetism",
-"ukiyoe prints"
+"ukiyoe prints",
+"tahiti",
+"50",
+"cloud formation",
+"led zeppelin",
+"mycenus"
 ],
 "subjects": [
 "cubism",
@@ -77,7 +92,12 @@
 "mercedesbenz sclass",
 "dollar bill",
 "winds power",
-"hokusai wave"
+"hokusai wave",
+"breadfruit",
+"stonehenge",
+"cloudy day",
+"rock band",
+"parthenon"
 ],
 "subtopics": {
 "World History": 1,
@@ -92,18 +112,23 @@
 "Transport and Vehicles": 1,
 "Currencies and Flags": 1,
 "Everyday Science": 1,
-"Famous Inventions": 1
+"Famous Inventions": 1,
+"Food and Drinks": 1,
+"World Records": 1,
+"Weather and Climate": 1,
+"Music": 1,
+"Architecture and Landmarks": 1
 },
 "cats": {
 "History": 2,
 "Finance": 1,
-"Pop Culture": 1,
+"Pop Culture": 2,
 "Math": 1,
-"Food & Culture": 1,
-"Sports": 1,
+"Food & Culture": 2,
+"Sports": 2,
 "Science": 2,
 "Geography": 2,
-"Nature": 1,
-"Technology": 1
+"Nature": 2,
+"Technology": 2
 }
 }
