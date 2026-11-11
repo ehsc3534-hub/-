@@ -1,6 +1,9 @@
 import os
 
-W, H, FPS = 1080, 1920, 24
+SCALE = 2                          # 2 = 4K (2160x3840). Use 1 for 1080p.
+DW, DH = 1080, 1920                # design size (layout units)
+W, H = DW * SCALE, DH * SCALE
+FPS = 24
 SR = 44100
 QUESTIONS_PER_VIDEO = 5
 TIMER = 10
@@ -8,7 +11,7 @@ REVEAL_STEP = 0.8
 MAX_TOTAL = 176.0         # whole video budget in seconds (Shorts limit is 180)
 
 SUB_APPEAR = 2.6          # seconds after outro start: subscribe button pops up
-SUB_CLICK = 4.0           # seconds after outro start: hand clicks the button
+SUB_CLICK = 4.0           # seconds after outro start: button is clicked
 
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://127.0.0.1:11434/api/generate")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "qwen2.5:3b")
