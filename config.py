@@ -5,8 +5,7 @@ SR = 44100
 QUESTIONS_PER_VIDEO = 5
 TIMER = 10
 REVEAL_STEP = 0.8
-MAX_BLOCK = 33.0          # max seconds for one question block (keeps video under 3 min)
-MAX_TOTAL = 178.0
+MAX_TOTAL = 176.0         # whole video budget in seconds (Shorts limit is 180)
 
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://127.0.0.1:11434/api/generate")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "qwen2.5:3b")
