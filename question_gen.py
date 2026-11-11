@@ -7,6 +7,8 @@ import requests
 from config import OLLAMA_URL, OLLAMA_MODEL, ANGLES, HISTORY_FILE
 
 LETTERS = "ABCD"
+BAD_WORDS = {"not", "except", "typical", "typically", "approximately", "average",
+             "usually", "generally", "roughly", "about", "most likely", "best"}
 
 
 def norm(s):
@@ -62,11 +64,12 @@ Difficulty: {diff}
 Angle for variety: {angle}
 
 Rules:
-- One factual, unambiguous question, maximum 18 words, ending with a question mark.
-- Exactly one correct answer, maximum 4 words.
-- Exactly three wrong answers, plausible but clearly wrong, maximum 4 words each, all different.
+- One well-known, factual, unambiguous question, maximum 14 words, ending with a question mark.
+- Never write negative questions (no "NOT", no "EXCEPT"). Never ask about opinions, estimates or averages.
+- Exactly one correct answer, maximum 3 words.
+- Exactly three wrong answers, plausible but clearly wrong, maximum 3 words each, all different.
 - Never use "all of the above" or "none of the above".
-- Explanation: 1 or 2 short sentences, maximum 25 words, giving an interesting accurate fact related to the question.
+- Explanation: ONE short sentence, maximum 18 words, giving an interesting accurate fact.
   The explanation MUST NOT state or contain the correct answer and must not mention any option.
 - Do NOT repeat or paraphrase any of these earlier questions:
 {avoid_txt}
@@ -87,10 +90,13 @@ def _validate(d, h):
         return None
     if not q.endswith("?"):
         return None
-    if len(q.split()) > 24 or len(e.split()) > 32:
+    if len(q.split()) > 18 or len(e.split()) > 24:
+        return None
+    qwords = set(norm(q).split())
+    if qwords & BAD_WORDS or "most likely" in norm(q):
         return None
     opts = [c] + w
-    if any(len(o.split()) > 5 or len(o) > 40 for o in opts):
+    if any(len(o.split()) > 4 or len(o) > 32 for o in opts):
         return None
     if len({norm(o) for o in opts}) != 4 or any(not norm(o) for o in opts):
         return None
@@ -121,9 +127,9 @@ def generate(topic, h, tries=6):
                     "stream": False,
                     "format": "json",
                     "options": {
-                        "temperature": 0.95,
-                        "top_p": 0.95,
-                        "num_predict": 320,
+                        "temperature": 0.8,
+                        "top_p": 0.9,
+                        "num_predict": 260,
                         "seed": random.randint(1, 10**9),
                     },
                 },
