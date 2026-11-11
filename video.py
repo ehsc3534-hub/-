@@ -267,7 +267,7 @@ def draw_timer(img, left, acc):
     d = ImageDraw.Draw(img)
     cx, cy, r = DW / 2, 1500, 95
     d.ellipse(R(cx - r, cy - r, cx + r, cy + r), fill=WHITE, outline=(225, 220, 205), width=s(14))
-    col = RED if left <= 2 else acc
+    col = RED if left <= 3 else acc
     frac = clip(left / TIMER)
     if frac > 0:
         d.arc(R(cx - r, cy - r, cx + r, cy + r), -90, -90 + 360 * frac, fill=col, width=s(14))
@@ -357,12 +357,13 @@ def render(tl, blocks, audio_path, out_path):
     prepare(blocks)
     intro = {
         "bg": make_paper(ACCENTS[0], "CHALLENGE!"),
-        "l1": Hand("OF PEOPLE FAIL THIS QUIZ!", 84, 900, INK),
+        "l1": Hand("OF PEOPLE GET 3 OF THESE 5 QUESTIONS WRONG!", 84, 900, INK),
         "l2": Hand("Can YOU beat it?", 100, 900, GREEN),
     }
     outro = {
         "bg": make_paper(ACCENTS[1], "THANKS FOR PLAYING!"),
-        "l1": Hand("Comment your score!", 96, 900, INK),
+        "l1": Hand("How many did you get right?", 90, 900, INK),
+        "l2": Hand("Comment your score below!", 72, 900, ACCENTS[0]),
         "l3": Hand("New quizzes every day!", 66, 900, GREEN),
     }
 
@@ -370,12 +371,12 @@ def render(tl, blocks, audio_path, out_path):
         img = intro["bg"].copy()
         d = ImageDraw.Draw(img)
         tips = []
-        sc = pop_scale(t / 0.3)
+        sc = pop_scale(t / 0.35)
         T(d, DW / 2, 430, "90%", max(10, int(360 * sc)), RED)
-        intro["l1"].draw(img, DW / 2, 640, (t - 0.2) / 1.0, center=True, tips=tips)
-        intro["l2"].draw(img, DW / 2, 1180, (t - 1.3) / 0.8, center=True, tips=tips)
-        if t > 2.1:
-            s2 = pop_scale((t - 2.1) / 0.4) * (1 + 0.05 * math.sin(t * 8))
+        intro["l1"].draw(img, DW / 2, 640, (t - 0.3) / 1.7, center=True, tips=tips)
+        intro["l2"].draw(img, DW / 2, 1180, (t - 2.2) / 1.0, center=True, tips=tips)
+        if t > 3.2:
+            s2 = pop_scale((t - 3.2) / 0.5) * (1 + 0.05 * math.sin(t * 8))
             T(d, DW / 2, 1550, "?", max(10, int(380 * s2)), ACCENTS[0])
         finish(img, tips)
         return img
@@ -385,13 +386,14 @@ def render(tl, blocks, audio_path, out_path):
         img = outro["bg"].copy()
         d = ImageDraw.Draw(img)
         tips = []
-        outro["l1"].draw(img, DW / 2, 420, u / 0.9, center=True, tips=tips)
+        outro["l1"].draw(img, DW / 2, 330, u / 1.4, center=True, tips=tips)
+        outro["l2"].draw(img, DW / 2, 640, (u - 1.4) / 1.0, center=True, tips=tips)
         cx, cy = DW / 2, 1100
         clicked = u >= SUB_CLICK
         c = u - SUB_CLICK
 
         if u >= SUB_APPEAR:
-            sc = pop_scale((u - SUB_APPEAR) / 0.4)
+            sc = pop_scale((u - SUB_APPEAR) / 0.5)
             if not clicked:
                 sc *= 1 + 0.035 * math.sin(u * 9)
             else:
@@ -419,8 +421,8 @@ def render(tl, blocks, audio_path, out_path):
                                  bx + r2 * math.cos(a), by + r2 * math.sin(a)),
                                fill=ACCENTS[k % 5], width=s(9))
 
-        if u >= SUB_CLICK + 0.2:
-            outro["l3"].draw(img, DW / 2, 1400, (u - SUB_CLICK - 0.2) / 0.8, center=True, tips=tips)
+        if u >= SUB_CLICK + 0.3:
+            outro["l3"].draw(img, DW / 2, 1400, (u - SUB_CLICK - 0.3) / 1.0, center=True, tips=tips)
         finish(img, tips)
         return img
 
@@ -445,7 +447,7 @@ def render(tl, blocks, audio_path, out_path):
     print(f"Rendering {n} frames at {W}x{H} ...")
     for f in range(n):
         proc.stdin.write(frame_at(f / FPS).tobytes())
-        if f % 200 == 0:
+        if f % 500 == 0:
             print(f"  frame {f}/{n}", flush=True)
     proc.stdin.close()
     proc.wait()
