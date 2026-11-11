@@ -3,19 +3,20 @@ import re
 
 HOOKS = [
     "90% Fail This Quiz!",
-    "Only 1% Can Score 5/5!",
+    "Only 1% Can Score 3/3!",
     "Can You Beat This Quiz?",
     "Test Your Brain in 60 Seconds!",
     "Genius Level Quiz Challenge!",
     "How Smart Are You?",
-    "Think Fast! 10 Seconds Only!",
-    "Can You Get All 5 Right?",
+    "Think Fast! 60 Second Quiz!",
+    "Can You Get All 3 Right?",
 ]
 
 BASE_TAGS = [
     "quiz", "trivia", "general knowledge", "gk quiz", "quiz shorts", "trivia shorts",
     "brain test", "can you answer", "test your knowledge", "iq test", "quiz challenge",
-    "learn something new", "fun facts", "shorts", "5 question quiz", "90% fail quiz",
+    "learn something new", "fun facts", "shorts", "3 question quiz", "90% fail quiz",
+    "finance quiz", "money quiz", "60 second quiz",
 ]
 
 
@@ -30,18 +31,19 @@ def build_seo(questions):
         if c not in cats:
             cats.append(c)
     hook = random.choice(HOOKS)
-    title = f"{hook} {cats[0]} & More Quiz #Shorts"
+    title = f"{hook} Finance & {cats[0] if cats[0] != 'Finance' else cats[-1]} Quiz #Shorts"
     if len(title) > 100:
         title = f"{hook} Quiz #Shorts"
     title = title[:100]
 
     tag_line = " ".join(_tag(c) for c in cats[:3])
     desc = (
-        f"{hook} Test your general knowledge with 5 quick quiz questions from 5 different categories. "
-        f"You get 10 seconds for each question. Pause, think, and comment your score!\n\n"
+        f"{hook} Test your general knowledge with 3 quick quiz questions, including one finance question. "
+        f"You get a few seconds for each question. Pause, think, and comment your score!\n\n"
         f"Categories in this quiz: {', '.join(cats)}.\n\n"
+        f"Finance questions are for general knowledge only, not financial advice.\n\n"
         f"Subscribe for new quiz Shorts every day!\n\n"
-        f"#shorts #quiz #trivia #generalknowledge #brainteaser #quizchallenge {tag_line}"
+        f"#shorts #quiz #trivia #generalknowledge #financequiz #brainteaser #quizchallenge {tag_line}"
     )
     tags, total = [], 0
     for t in BASE_TAGS + [x.lower() for x in cats]:
