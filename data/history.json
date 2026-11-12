@@ -62,7 +62,12 @@
 "4dccf1f09ea35e0d215134c3dca5d065ecdad178",
 "04188e0e6f54d60705591d89db6d71152815cfef",
 "e0966c0e45a8a70366eb026b3808d49f74e955d6",
-"87fd783360e71dda27dde666a37125d90794aba9"
+"87fd783360e71dda27dde666a37125d90794aba9",
+"76db4efe24c860e0654ed2dacf0568e300417055",
+"d8c1344320baafa433182fb66a89315b7eb5bb5c",
+"9cf9e7ba824d3825f7b854dd4ee0cd7bc9950106",
+"89d049d3841d7cbb6a6d706b151513c9e57b7b20",
+"bb8d8c1f7ed01c144018344a46b83a7d084ef843"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -127,7 +132,12 @@
 "Who was the ancient Egyptian sun god Horus?",
 "What is the longest ice hockey stick in the world?",
 "What modifies DNA during genetic engineering?",
-"What is the smallest positive integer that can be divided by both 5 and 7?"
+"What is the smallest positive integer that can be divided by both 5 and 7?",
+"What did Claude Shannon invent?",
+"What does a cherry blossom symbolize in Japanese haiku?",
+"What mythological creature's head turned anyone who looked at it to stone?",
+"When does the full moon appear in the night sky?",
+"What ancient civilization designed the Archimedes Screw?"
 ],
 "answers": [
 "picasso",
@@ -182,7 +192,12 @@
 "ra",
 "1024 meters",
 "restructures",
-"35"
+"35",
+"coding theory",
+"natures beauty",
+"gorgon",
+"new moon",
+"ancient greeks"
 ],
 "subjects": [
 "cubism",
@@ -237,13 +252,18 @@
 "horus sun",
 "ice hockey stick",
 "genetic engineering",
-"bzouts identity"
+"bzouts identity",
+"claude shannon",
+"japanese haiku",
+"gorgons head",
+"moon phase",
+"archimedes screw"
 ],
 "subtopics": {
 "World History": 1,
 "Business and Trade": 1,
-"Art and Painting": 1,
-"Mathematics": 6,
+"Art and Painting": 2,
+"Mathematics": 7,
 "Languages and Alphabets": 2,
 "Sports and Olympics": 3,
 "Chemistry": 1,
@@ -251,7 +271,7 @@
 "Plants and Trees": 2,
 "Transport and Vehicles": 2,
 "Currencies and Flags": 2,
-"Everyday Science": 1,
+"Everyday Science": 2,
 "Famous Inventions": 1,
 "Food and Drinks": 2,
 "World Records": 3,
@@ -261,10 +281,10 @@
 "Animals and Wildlife": 2,
 "Human Body": 1,
 "Technology and Computers": 2,
-"Famous Scientists": 1,
+"Famous Scientists": 2,
 "World Geography": 1,
 "Literature and Authors": 2,
-"Mythology": 2,
+"Mythology": 3,
 "Countries and Capitals": 2,
 "Movies and Cinema (general)": 1,
 "Ancient Civilizations": 2,
@@ -273,13 +293,13 @@
 "Biology": 1
 },
 "cats": {
-"History": 5,
+"History": 6,
 "Finance": 1,
-"Pop Culture": 5,
-"Math": 6,
-"Food & Culture": 6,
+"Pop Culture": 6,
+"Math": 7,
+"Food & Culture": 7,
 "Sports": 6,
-"Science": 6,
+"Science": 7,
 "Geography": 6,
 "Nature": 6,
 "Technology": 6
