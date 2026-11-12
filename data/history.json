@@ -57,7 +57,12 @@
 "ef6b16325d7cf61727398f5c8468211a8df30af1",
 "8e4fb2e307ffa465cb3e1156ea155920cb5192dd",
 "3053c233fa4c2ddd0ccc917b4d9077ea018c1fbd",
-"deccd6c68d8627e7a1d4d0a8a667df22fb2f234d"
+"deccd6c68d8627e7a1d4d0a8a667df22fb2f234d",
+"5a250c965fdb63a46c704fff5db6713d3e2a0bca",
+"4dccf1f09ea35e0d215134c3dca5d065ecdad178",
+"04188e0e6f54d60705591d89db6d71152815cfef",
+"e0966c0e45a8a70366eb026b3808d49f74e955d6",
+"87fd783360e71dda27dde666a37125d90794aba9"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -117,7 +122,12 @@
 "What ancient civilization created the Sphinx?",
 "What imaginary part makes a complex number imaginary?",
 "What currency is represented by the rupee symbol (₹)?",
-"What do elephants use their 'trunk' for?"
+"What do elephants use their 'trunk' for?",
+"Which Hanging Garden was the most famous?",
+"Who was the ancient Egyptian sun god Horus?",
+"What is the longest ice hockey stick in the world?",
+"What modifies DNA during genetic engineering?",
+"What is the smallest positive integer that can be divided by both 5 and 7?"
 ],
 "answers": [
 "picasso",
@@ -167,7 +177,12 @@
 "egyptians",
 "i",
 "indian rupee",
-"breathing and drinking"
+"breathing and drinking",
+"assur gardens",
+"ra",
+"1024 meters",
+"restructures",
+"35"
 ],
 "subjects": [
 "cubism",
@@ -217,13 +232,18 @@
 "sphinx",
 "complex numbers",
 "rupee bill",
-"elephant trunk"
+"elephant trunk",
+"hanging gardens of babylon",
+"horus sun",
+"ice hockey stick",
+"genetic engineering",
+"bzouts identity"
 ],
 "subtopics": {
 "World History": 1,
 "Business and Trade": 1,
 "Art and Painting": 1,
-"Mathematics": 5,
+"Mathematics": 6,
 "Languages and Alphabets": 2,
 "Sports and Olympics": 3,
 "Chemistry": 1,
@@ -234,33 +254,34 @@
 "Everyday Science": 1,
 "Famous Inventions": 1,
 "Food and Drinks": 2,
-"World Records": 2,
+"World Records": 3,
 "Weather and Climate": 2,
 "Music": 1,
-"Architecture and Landmarks": 1,
+"Architecture and Landmarks": 2,
 "Animals and Wildlife": 2,
 "Human Body": 1,
 "Technology and Computers": 2,
 "Famous Scientists": 1,
 "World Geography": 1,
 "Literature and Authors": 2,
-"Mythology": 1,
+"Mythology": 2,
 "Countries and Capitals": 2,
 "Movies and Cinema (general)": 1,
 "Ancient Civilizations": 2,
 "Space and Astronomy": 1,
-"Physics": 1
+"Physics": 1,
+"Biology": 1
 },
 "cats": {
 "History": 5,
 "Finance": 1,
 "Pop Culture": 5,
-"Math": 5,
-"Food & Culture": 5,
-"Sports": 5,
-"Science": 5,
+"Math": 6,
+"Food & Culture": 6,
+"Sports": 6,
+"Science": 6,
 "Geography": 6,
 "Nature": 6,
-"Technology": 5
+"Technology": 6
 }
 }
