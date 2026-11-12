@@ -32,7 +32,12 @@
 "eb7238e0ed0c2fe96b8311980a87b791e6726f5f",
 "cbcfdbb5a21b4bb37d83c20a0fabf97599c649a3",
 "f8f80fb9f3591b73e09d6b92f195f7e13d48098a",
-"d7d8343489a5d2185ee215cec565f280f8987973"
+"d7d8343489a5d2185ee215cec565f280f8987973",
+"3759a76c187915ccde94bb9771690ec5b3716572",
+"ebb982a21038c8886f7ac3886afb46a8413c390c",
+"357f0dedbd180706bf60c486359d191ce430a074",
+"8b8a39896ebf8deca40a73406b865e69bb083403",
+"100c12604696a4f5633171b748b89b2a8d49add9"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -67,7 +72,12 @@
 "What do orangutans primarily eat in the wild?",
 "What causes a pneumothorax in the lungs?",
 "What is stored in a smart contract?",
-"What fractal did Benoit Mandelbrot study extensively?"
+"What fractal did Benoit Mandelbrot study extensively?",
+"What type of cave is known as a 'sea cave' in Iceland?",
+"Which author wrote 'Starry Night'??",
+"What does an Egyptian scarab represent in mythology?",
+"What is the correct stance for a rugby scrum?",
+"What Fibonacci sequence number is closest to the golden ratio?"
 ],
 "answers": [
 "picasso",
@@ -92,7 +102,12 @@
 "fruits",
 "air bubbles",
 "data",
-"mandelbrot set"
+"mandelbrot set",
+"stromboli",
+"vincent van gogh",
+"kingship",
+"face to face",
+"8"
 ],
 "subjects": [
 "cubism",
@@ -117,15 +132,20 @@
 "orangutan",
 "pneumothorax",
 "nfts",
-"benot mandelbrot"
+"benot mandelbrot",
+"icelandic cave",
+"van gogh starry night",
+"egyptian scarab",
+"rugby scrum",
+"golden ratio"
 ],
 "subtopics": {
 "World History": 1,
 "Business and Trade": 1,
 "Art and Painting": 1,
-"Mathematics": 2,
+"Mathematics": 3,
 "Languages and Alphabets": 1,
-"Sports and Olympics": 1,
+"Sports and Olympics": 2,
 "Chemistry": 1,
 "Oceans, Rivers and Mountains": 1,
 "Plants and Trees": 1,
@@ -141,17 +161,20 @@
 "Animals and Wildlife": 1,
 "Human Body": 1,
 "Technology and Computers": 1,
-"Famous Scientists": 1
+"Famous Scientists": 1,
+"World Geography": 1,
+"Literature and Authors": 1,
+"Mythology": 1
 },
 "cats": {
 "History": 3,
 "Finance": 1,
-"Pop Culture": 2,
-"Math": 2,
-"Food & Culture": 2,
-"Sports": 2,
+"Pop Culture": 3,
+"Math": 3,
+"Food & Culture": 3,
+"Sports": 3,
 "Science": 3,
-"Geography": 2,
+"Geography": 3,
 "Nature": 3,
 "Technology": 3
 }
