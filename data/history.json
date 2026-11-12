@@ -42,7 +42,12 @@
 "77d3122e1674655a2c1ea1a6f148eff9a26dfaaf",
 "8af22a496eeab864ccc4b0d772aecd1c69ece6ac",
 "986991cf7fa61e338f401e9411d0092f3d940c9f",
-"23b697c0b21fdf3c7fc5e62b0f38262b85f1e97f"
+"23b697c0b21fdf3c7fc5e62b0f38262b85f1e97f",
+"f68c8eda3ed8ad7983e6d596f4360f6bb4246e50",
+"c61b71c8f4915961897a6e191c2458b452081769",
+"2ca20fe979391dc316e2712049120ce6371dc1ef",
+"4b2c80e985ab863c0d6552046af039eda24eb03a",
+"f121959827d536d847e32783c6be6661a43b4b9c"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -87,7 +92,12 @@
 "Which country has a sun as its national symbol?",
 "What movie stars a man who's also a dog?",
 "What kind of battery is commonly used in smartwatches?",
-"What is the ratio of the height to the base side in the Pyramids of Giza?"
+"What is the ratio of the height to the base side in the Pyramids of Giza?",
+"What did the Olmecs use for their colossal heads?",
+"What long jump record was broken in 2018?",
+"What formed the first generation of stars in the universe?",
+"What does teppanyaki mean in Japanese?",
+"What European capital is known for its Napoleonic code?"
 ],
 "answers": [
 "picasso",
@@ -122,7 +132,12 @@
 "philippines",
 "up",
 "liion",
-"14"
+"14",
+"marble",
+"shakira",
+"gaseous clouds",
+"grill plate",
+"paris"
 ],
 "subjects": [
 "cubism",
@@ -157,7 +172,12 @@
 "philippine sun",
 "hollywood",
 "smartwatch",
-"pyramids of giza"
+"pyramids of giza",
+"olmec colossal heads",
+"long jump",
+"galaxy formation",
+"teppanyaki grill",
+"napoleon"
 ],
 "subtopics": {
 "World History": 1,
@@ -173,8 +193,8 @@
 "Currencies and Flags": 1,
 "Everyday Science": 1,
 "Famous Inventions": 1,
-"Food and Drinks": 1,
-"World Records": 1,
+"Food and Drinks": 2,
+"World Records": 2,
 "Weather and Climate": 1,
 "Music": 1,
 "Architecture and Landmarks": 1,
@@ -185,18 +205,20 @@
 "World Geography": 1,
 "Literature and Authors": 1,
 "Mythology": 1,
-"Countries and Capitals": 1,
-"Movies and Cinema (general)": 1
+"Countries and Capitals": 2,
+"Movies and Cinema (general)": 1,
+"Ancient Civilizations": 1,
+"Space and Astronomy": 1
 },
 "cats": {
-"History": 3,
+"History": 4,
 "Finance": 1,
 "Pop Culture": 4,
 "Math": 4,
-"Food & Culture": 3,
-"Sports": 3,
-"Science": 3,
-"Geography": 4,
+"Food & Culture": 4,
+"Sports": 4,
+"Science": 4,
+"Geography": 5,
 "Nature": 4,
 "Technology": 4
 }
