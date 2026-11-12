@@ -52,7 +52,12 @@
 "2066c8231883ba614ae7483e42040d371d5ee00f",
 "b7424a04412a4f72df4f3c5df2d1850a45ac37c8",
 "f5ed36d169987864ba7ce75845bf7bf6dbead79b",
-"a5f1c54058611966585ec4f141a3eb21001e5f07"
+"a5f1c54058611966585ec4f141a3eb21001e5f07",
+"4a455f1e5011770507caeb3e94f2fff9a54db115",
+"ef6b16325d7cf61727398f5c8468211a8df30af1",
+"8e4fb2e307ffa465cb3e1156ea155920cb5192dd",
+"3053c233fa4c2ddd0ccc917b4d9077ea018c1fbd",
+"deccd6c68d8627e7a1d4d0a8a667df22fb2f234d"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -107,7 +112,12 @@
 "What team scored the first rugby try in history?",
 "What causes the extreme heat during a heat wave?",
 "What causes a solar eclipse?",
-"What causes cars to stop in a traffic jam?"
+"What causes cars to stop in a traffic jam?",
+"What did Dostoievsky explore in his essay 'Notes from Underground'?",
+"What ancient civilization created the Sphinx?",
+"What imaginary part makes a complex number imaginary?",
+"What currency is represented by the rupee symbol (₹)?",
+"What do elephants use their 'trunk' for?"
 ],
 "answers": [
 "picasso",
@@ -152,7 +162,12 @@
 "ireland",
 "high pressure systems",
 "suns shadow",
-"stopping"
+"stopping",
+"human nature",
+"egyptians",
+"i",
+"indian rupee",
+"breathing and drinking"
 ],
 "subjects": [
 "cubism",
@@ -197,20 +212,25 @@
 "rugby try",
 "heat wave",
 "solar eclipse",
-"traffic jam"
+"traffic jam",
+"dostoievsky essay",
+"sphinx",
+"complex numbers",
+"rupee bill",
+"elephant trunk"
 ],
 "subtopics": {
 "World History": 1,
 "Business and Trade": 1,
 "Art and Painting": 1,
-"Mathematics": 4,
+"Mathematics": 5,
 "Languages and Alphabets": 2,
 "Sports and Olympics": 3,
 "Chemistry": 1,
 "Oceans, Rivers and Mountains": 1,
 "Plants and Trees": 2,
 "Transport and Vehicles": 2,
-"Currencies and Flags": 1,
+"Currencies and Flags": 2,
 "Everyday Science": 1,
 "Famous Inventions": 1,
 "Food and Drinks": 2,
@@ -218,29 +238,29 @@
 "Weather and Climate": 2,
 "Music": 1,
 "Architecture and Landmarks": 1,
-"Animals and Wildlife": 1,
+"Animals and Wildlife": 2,
 "Human Body": 1,
 "Technology and Computers": 2,
 "Famous Scientists": 1,
 "World Geography": 1,
-"Literature and Authors": 1,
+"Literature and Authors": 2,
 "Mythology": 1,
 "Countries and Capitals": 2,
 "Movies and Cinema (general)": 1,
-"Ancient Civilizations": 1,
+"Ancient Civilizations": 2,
 "Space and Astronomy": 1,
 "Physics": 1
 },
 "cats": {
-"History": 4,
+"History": 5,
 "Finance": 1,
-"Pop Culture": 4,
-"Math": 4,
+"Pop Culture": 5,
+"Math": 5,
 "Food & Culture": 5,
 "Sports": 5,
 "Science": 5,
-"Geography": 5,
-"Nature": 5,
+"Geography": 6,
+"Nature": 6,
 "Technology": 5
 }
 }
