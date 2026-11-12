@@ -47,7 +47,12 @@
 "c61b71c8f4915961897a6e191c2458b452081769",
 "2ca20fe979391dc316e2712049120ce6371dc1ef",
 "4b2c80e985ab863c0d6552046af039eda24eb03a",
-"f121959827d536d847e32783c6be6661a43b4b9c"
+"f121959827d536d847e32783c6be6661a43b4b9c",
+"961742dd0927cc3a8d86c87997f36592b0c5bdbf",
+"2066c8231883ba614ae7483e42040d371d5ee00f",
+"b7424a04412a4f72df4f3c5df2d1850a45ac37c8",
+"f5ed36d169987864ba7ce75845bf7bf6dbead79b",
+"a5f1c54058611966585ec4f141a3eb21001e5f07"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -97,7 +102,12 @@
 "What long jump record was broken in 2018?",
 "What formed the first generation of stars in the universe?",
 "What does teppanyaki mean in Japanese?",
-"What European capital is known for its Napoleonic code?"
+"What European capital is known for its Napoleonic code?",
+"What do Brahmins primarily use Devanagari script for?",
+"What team scored the first rugby try in history?",
+"What causes the extreme heat during a heat wave?",
+"What causes a solar eclipse?",
+"What causes cars to stop in a traffic jam?"
 ],
 "answers": [
 "picasso",
@@ -137,7 +147,12 @@
 "shakira",
 "gaseous clouds",
 "grill plate",
-"paris"
+"paris",
+"write",
+"ireland",
+"high pressure systems",
+"suns shadow",
+"stopping"
 ],
 "subjects": [
 "cubism",
@@ -177,25 +192,30 @@
 "long jump",
 "galaxy formation",
 "teppanyaki grill",
-"napoleon"
+"napoleon",
+"devanagari script",
+"rugby try",
+"heat wave",
+"solar eclipse",
+"traffic jam"
 ],
 "subtopics": {
 "World History": 1,
 "Business and Trade": 1,
 "Art and Painting": 1,
 "Mathematics": 4,
-"Languages and Alphabets": 1,
-"Sports and Olympics": 2,
+"Languages and Alphabets": 2,
+"Sports and Olympics": 3,
 "Chemistry": 1,
 "Oceans, Rivers and Mountains": 1,
 "Plants and Trees": 2,
-"Transport and Vehicles": 1,
+"Transport and Vehicles": 2,
 "Currencies and Flags": 1,
 "Everyday Science": 1,
 "Famous Inventions": 1,
 "Food and Drinks": 2,
 "World Records": 2,
-"Weather and Climate": 1,
+"Weather and Climate": 2,
 "Music": 1,
 "Architecture and Landmarks": 1,
 "Animals and Wildlife": 1,
@@ -208,18 +228,19 @@
 "Countries and Capitals": 2,
 "Movies and Cinema (general)": 1,
 "Ancient Civilizations": 1,
-"Space and Astronomy": 1
+"Space and Astronomy": 1,
+"Physics": 1
 },
 "cats": {
 "History": 4,
 "Finance": 1,
 "Pop Culture": 4,
 "Math": 4,
-"Food & Culture": 4,
-"Sports": 4,
-"Science": 4,
+"Food & Culture": 5,
+"Sports": 5,
+"Science": 5,
 "Geography": 5,
-"Nature": 4,
-"Technology": 4
+"Nature": 5,
+"Technology": 5
 }
 }
