@@ -92,7 +92,12 @@
 "d88d8be55fb5a9722108027fb5baa55dbac6c88b",
 "62fc46224434ae048c7b862cdf92da1c3531b00f",
 "d96ead7ad854f5903ebdc150a655002c1d7119e1",
-"90b718c6e0a0c2a1cf42083622a49646b0b93cc8"
+"90b718c6e0a0c2a1cf42083622a49646b0b93cc8",
+"cca578ca90099a1c7512175987705a09deda3030",
+"b2a26cf615ac330c06d57f67dd36882007310b83",
+"0cd4f4ea3b818ebb994833badff86b85f656ebad",
+"8c7e3aedd329a5d571ae9619d66f4d46b1fe5515",
+"c76c1643dec25a0cafee44bbbe79b80de04e1f2b"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -187,7 +192,12 @@
 "What type of dwellings are tulou?",
 "What poetic device is used in Shakespeare's 'Shall I compare thee to a summer's day'?",
 "What record did Kangxi Emperor set in population control?",
-"What alchemical symbol represents sulfur?"
+"What alchemical symbol represents sulfur?",
+"What part of the pig is used to make cracklings?",
+"What unique beak shape did Darwin observe on different finch species?",
+"Which athlete won the most gold medals in Canoe Sprint?",
+"What language is primarily used for game development?",
+"What is the name of Monet's bridge in Giverny?"
 ],
 "answers": [
 "picasso",
@@ -272,7 +282,12 @@
 "earth buildings",
 "metaphor",
 "0",
-"s"
+"s",
+"pork belly",
+"concave",
+"coster",
+"c",
+"waterlily bridge"
 ],
 "subjects": [
 "cubism",
@@ -357,15 +372,20 @@
 "tulou",
 "shakespeare sonnet",
 "kangxi emperor",
-"alchemical symbols"
+"alchemical symbols",
+"pork knuckle",
+"darwins finches",
+"canoe sprint",
+"game dev",
+"claude monet bridge"
 ],
 "subtopics": {
 "World History": 2,
 "Business and Trade": 1,
-"Art and Painting": 2,
+"Art and Painting": 3,
 "Mathematics": 9,
 "Languages and Alphabets": 3,
-"Sports and Olympics": 4,
+"Sports and Olympics": 5,
 "Chemistry": 2,
 "Oceans, Rivers and Mountains": 2,
 "Plants and Trees": 3,
@@ -373,15 +393,15 @@
 "Currencies and Flags": 3,
 "Everyday Science": 2,
 "Famous Inventions": 2,
-"Food and Drinks": 3,
+"Food and Drinks": 4,
 "World Records": 5,
 "Weather and Climate": 3,
 "Music": 2,
 "Architecture and Landmarks": 3,
 "Animals and Wildlife": 3,
 "Human Body": 1,
-"Technology and Computers": 3,
-"Famous Scientists": 2,
+"Technology and Computers": 4,
+"Famous Scientists": 3,
 "World Geography": 2,
 "Literature and Authors": 3,
 "Mythology": 3,
@@ -393,15 +413,15 @@
 "Biology": 2
 },
 "cats": {
-"History": 9,
+"History": 10,
 "Finance": 1,
-"Pop Culture": 9,
+"Pop Culture": 10,
 "Math": 9,
-"Food & Culture": 9,
-"Sports": 9,
+"Food & Culture": 10,
+"Sports": 10,
 "Science": 10,
 "Geography": 9,
 "Nature": 9,
-"Technology": 9
+"Technology": 10
 }
 }
