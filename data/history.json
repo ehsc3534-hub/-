@@ -77,7 +77,12 @@
 "3d1b8c74249016a3b13cc4fb8014608a80d1e19e",
 "04191e2e683885d348ede70ecde900e206fac670",
 "a21f35bdbdbcf833d8afbae67503ce1cb13c9d78",
-"2830d0349cc06df15692d9c000c20496763a9019"
+"2830d0349cc06df15692d9c000c20496763a9019",
+"7b8ccddb65ed1827efd6c90a44eb476644e82735",
+"d6fbb33e8593b98306abef9d0f51be6997b2b392",
+"f2e431f3d9258e7c9a51ed67defcc9f8c4c9bf07",
+"0619ab600106f1284389dbda8215cbcea8a1de29",
+"2eb98d71b74c7baa1e5236ecc624396d11e9c45f"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -157,7 +162,12 @@
 "What vehicle was used to transport the stones for the pyramids?",
 "What ancient city is considered the birthplace of Sumerian civilization?",
 "What does 'wheat' mean in Greek?",
-"Who abolished the samurai class in Japan?"
+"Who abolished the samurai class in Japan?",
+"What number is divisible by both 2 and 5?",
+"What is the world's largest ice sculpture?",
+"What is the function of cactus spines?",
+"What note is played on the first day of a new oboe performance?",
+"What type of plant can be found growing near Machu Picchu?"
 ],
 "answers": [
 "picasso",
@@ -227,7 +237,12 @@
 "cart",
 "ur",
 "kuklos",
-"tokugawa iemushimasa"
+"tokugawa iemushimasa",
+"10",
+"22 meters",
+"water storage",
+"do",
+"cactus"
 ],
 "subjects": [
 "cubism",
@@ -297,26 +312,31 @@
 "egyptian pyramid",
 "mesopotamia",
 "wheat field",
-"tokugawa shogunate"
+"tokugawa shogunate",
+"binary system",
+"ice sculpture",
+"cactus spines",
+"oboe melody",
+"machu picchu"
 ],
 "subtopics": {
 "World History": 2,
 "Business and Trade": 1,
 "Art and Painting": 2,
-"Mathematics": 7,
+"Mathematics": 8,
 "Languages and Alphabets": 2,
 "Sports and Olympics": 4,
 "Chemistry": 1,
 "Oceans, Rivers and Mountains": 2,
-"Plants and Trees": 2,
+"Plants and Trees": 3,
 "Transport and Vehicles": 3,
 "Currencies and Flags": 2,
 "Everyday Science": 2,
 "Famous Inventions": 2,
 "Food and Drinks": 3,
-"World Records": 3,
+"World Records": 4,
 "Weather and Climate": 2,
-"Music": 1,
+"Music": 2,
 "Architecture and Landmarks": 2,
 "Animals and Wildlife": 3,
 "Human Body": 1,
@@ -330,18 +350,18 @@
 "Ancient Civilizations": 2,
 "Space and Astronomy": 1,
 "Physics": 1,
-"Biology": 1
+"Biology": 2
 },
 "cats": {
 "History": 8,
 "Finance": 1,
-"Pop Culture": 7,
-"Math": 7,
+"Pop Culture": 8,
+"Math": 8,
 "Food & Culture": 8,
-"Sports": 7,
-"Science": 7,
+"Sports": 8,
+"Science": 8,
 "Geography": 8,
-"Nature": 7,
+"Nature": 8,
 "Technology": 8
 }
 }
