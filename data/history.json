@@ -87,7 +87,12 @@
 "67b93bd710ec48eaabd4736f22f0e24423a5ba6c",
 "25d7284810635381ce59cb2e1320c989e0b25b12",
 "c927861d82010c392b9254dcebf0561d942990a2",
-"37ec0c7f9c20f528ccd76caf4d72be7fde70538c"
+"37ec0c7f9c20f528ccd76caf4d72be7fde70538c",
+"cd61eec59772306bb5580ccae0b376cc534e0820",
+"d88d8be55fb5a9722108027fb5baa55dbac6c88b",
+"62fc46224434ae048c7b862cdf92da1c3531b00f",
+"d96ead7ad854f5903ebdc150a655002c1d7119e1",
+"90b718c6e0a0c2a1cf42083622a49646b0b93cc8"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -177,7 +182,12 @@
 "What Yoruba word means 'medicine'?",
 "What is the dew point temperature?",
 "Which country uses the Peso as its currency?",
-"What celestial phenomenon creates the Orion Nebula?"
+"What celestial phenomenon creates the Orion Nebula?",
+"What is the solution to x + 5 = 12?",
+"What type of dwellings are tulou?",
+"What poetic device is used in Shakespeare's 'Shall I compare thee to a summer's day'?",
+"What record did Kangxi Emperor set in population control?",
+"What alchemical symbol represents sulfur?"
 ],
 "answers": [
 "picasso",
@@ -257,7 +267,12 @@
 "gb",
 "68 degrees",
 "mexico",
-"star formation"
+"star formation",
+"5",
+"earth buildings",
+"metaphor",
+"0",
+"s"
 ],
 "subjects": [
 "cubism",
@@ -337,16 +352,21 @@
 "yoruba language",
 "dew point",
 "peso",
-"nebula"
+"nebula",
+"algebra",
+"tulou",
+"shakespeare sonnet",
+"kangxi emperor",
+"alchemical symbols"
 ],
 "subtopics": {
 "World History": 2,
 "Business and Trade": 1,
 "Art and Painting": 2,
-"Mathematics": 8,
+"Mathematics": 9,
 "Languages and Alphabets": 3,
 "Sports and Olympics": 4,
-"Chemistry": 1,
+"Chemistry": 2,
 "Oceans, Rivers and Mountains": 2,
 "Plants and Trees": 3,
 "Transport and Vehicles": 3,
@@ -354,16 +374,16 @@
 "Everyday Science": 2,
 "Famous Inventions": 2,
 "Food and Drinks": 3,
-"World Records": 4,
+"World Records": 5,
 "Weather and Climate": 3,
 "Music": 2,
-"Architecture and Landmarks": 2,
+"Architecture and Landmarks": 3,
 "Animals and Wildlife": 3,
 "Human Body": 1,
 "Technology and Computers": 3,
 "Famous Scientists": 2,
 "World Geography": 2,
-"Literature and Authors": 2,
+"Literature and Authors": 3,
 "Mythology": 3,
 "Countries and Capitals": 2,
 "Movies and Cinema (general)": 2,
@@ -375,13 +395,13 @@
 "cats": {
 "History": 9,
 "Finance": 1,
-"Pop Culture": 8,
-"Math": 8,
+"Pop Culture": 9,
+"Math": 9,
 "Food & Culture": 9,
-"Sports": 8,
-"Science": 9,
+"Sports": 9,
+"Science": 10,
 "Geography": 9,
 "Nature": 9,
-"Technology": 8
+"Technology": 9
 }
 }
