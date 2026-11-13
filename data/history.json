@@ -72,7 +72,12 @@
 "56f0e51a6c2e3db3160a5783ff905e14d5672029",
 "209673306d9228a9960df6fe2249a6441c8947cf",
 "7db60a3d63ac6feb78824d185250204cb9a879f7",
-"8532d640521bfc651d9768a676ee63bb6ca11f27"
+"8532d640521bfc651d9768a676ee63bb6ca11f27",
+"3d066cf8dc00aafbea223c00937bba081b1997c4",
+"3d1b8c74249016a3b13cc4fb8014608a80d1e19e",
+"04191e2e683885d348ede70ecde900e206fac670",
+"a21f35bdbdbcf833d8afbae67503ce1cb13c9d78",
+"2830d0349cc06df15692d9c000c20496763a9019"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -147,7 +152,12 @@
 "What material is used for quantum locks?",
 "What movie has a main character named Tony?",
 "What geological feature borders the Mediterranean Sea on the west?",
-"Which event did Jules Verne participate in?"
+"Which event did Jules Verne participate in?",
+"What sound do dolphins use to locate prey?",
+"What vehicle was used to transport the stones for the pyramids?",
+"What ancient city is considered the birthplace of Sumerian civilization?",
+"What does 'wheat' mean in Greek?",
+"Who abolished the samurai class in Japan?"
 ],
 "answers": [
 "picasso",
@@ -212,7 +222,12 @@
 "silicon",
 "titanic",
 "a peninsula",
-"rowing"
+"rowing",
+"bottlenose dolphin whine",
+"cart",
+"ur",
+"kuklos",
+"tokugawa iemushimasa"
 ],
 "subjects": [
 "cubism",
@@ -277,10 +292,15 @@
 "quantum lock",
 "bladesofsteel",
 "mediterranean sea",
-"jules verne"
+"jules verne",
+"dolphin language",
+"egyptian pyramid",
+"mesopotamia",
+"wheat field",
+"tokugawa shogunate"
 ],
 "subtopics": {
-"World History": 1,
+"World History": 2,
 "Business and Trade": 1,
 "Art and Painting": 2,
 "Mathematics": 7,
@@ -289,20 +309,20 @@
 "Chemistry": 1,
 "Oceans, Rivers and Mountains": 2,
 "Plants and Trees": 2,
-"Transport and Vehicles": 2,
+"Transport and Vehicles": 3,
 "Currencies and Flags": 2,
 "Everyday Science": 2,
 "Famous Inventions": 2,
-"Food and Drinks": 2,
+"Food and Drinks": 3,
 "World Records": 3,
 "Weather and Climate": 2,
 "Music": 1,
 "Architecture and Landmarks": 2,
-"Animals and Wildlife": 2,
+"Animals and Wildlife": 3,
 "Human Body": 1,
 "Technology and Computers": 3,
 "Famous Scientists": 2,
-"World Geography": 1,
+"World Geography": 2,
 "Literature and Authors": 2,
 "Mythology": 3,
 "Countries and Capitals": 2,
@@ -313,15 +333,15 @@
 "Biology": 1
 },
 "cats": {
-"History": 7,
+"History": 8,
 "Finance": 1,
 "Pop Culture": 7,
 "Math": 7,
-"Food & Culture": 7,
+"Food & Culture": 8,
 "Sports": 7,
 "Science": 7,
-"Geography": 7,
-"Nature": 6,
-"Technology": 7
+"Geography": 8,
+"Nature": 7,
+"Technology": 8
 }
 }
