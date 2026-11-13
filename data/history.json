@@ -67,7 +67,12 @@
 "d8c1344320baafa433182fb66a89315b7eb5bb5c",
 "9cf9e7ba824d3825f7b854dd4ee0cd7bc9950106",
 "89d049d3841d7cbb6a6d706b151513c9e57b7b20",
-"bb8d8c1f7ed01c144018344a46b83a7d084ef843"
+"bb8d8c1f7ed01c144018344a46b83a7d084ef843",
+"ffd71a80de00f15679998c778490ebe64d85a830",
+"56f0e51a6c2e3db3160a5783ff905e14d5672029",
+"209673306d9228a9960df6fe2249a6441c8947cf",
+"7db60a3d63ac6feb78824d185250204cb9a879f7",
+"8532d640521bfc651d9768a676ee63bb6ca11f27"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -137,7 +142,12 @@
 "What does a cherry blossom symbolize in Japanese haiku?",
 "What mythological creature's head turned anyone who looked at it to stone?",
 "When does the full moon appear in the night sky?",
-"What ancient civilization designed the Archimedes Screw?"
+"What ancient civilization designed the Archimedes Screw?",
+"What did the Gothic Cathedrals primarily celebrate?",
+"What material is used for quantum locks?",
+"What movie has a main character named Tony?",
+"What geological feature borders the Mediterranean Sea on the west?",
+"Which event did Jules Verne participate in?"
 ],
 "answers": [
 "picasso",
@@ -197,7 +207,12 @@
 "natures beauty",
 "gorgon",
 "new moon",
-"ancient greeks"
+"ancient greeks",
+"divinity",
+"silicon",
+"titanic",
+"a peninsula",
+"rowing"
 ],
 "subjects": [
 "cubism",
@@ -257,7 +272,12 @@
 "japanese haiku",
 "gorgons head",
 "moon phase",
-"archimedes screw"
+"archimedes screw",
+"gothic cathedral",
+"quantum lock",
+"bladesofsteel",
+"mediterranean sea",
+"jules verne"
 ],
 "subtopics": {
 "World History": 1,
@@ -265,14 +285,14 @@
 "Art and Painting": 2,
 "Mathematics": 7,
 "Languages and Alphabets": 2,
-"Sports and Olympics": 3,
+"Sports and Olympics": 4,
 "Chemistry": 1,
-"Oceans, Rivers and Mountains": 1,
+"Oceans, Rivers and Mountains": 2,
 "Plants and Trees": 2,
 "Transport and Vehicles": 2,
 "Currencies and Flags": 2,
 "Everyday Science": 2,
-"Famous Inventions": 1,
+"Famous Inventions": 2,
 "Food and Drinks": 2,
 "World Records": 3,
 "Weather and Climate": 2,
@@ -280,28 +300,28 @@
 "Architecture and Landmarks": 2,
 "Animals and Wildlife": 2,
 "Human Body": 1,
-"Technology and Computers": 2,
+"Technology and Computers": 3,
 "Famous Scientists": 2,
 "World Geography": 1,
 "Literature and Authors": 2,
 "Mythology": 3,
 "Countries and Capitals": 2,
-"Movies and Cinema (general)": 1,
+"Movies and Cinema (general)": 2,
 "Ancient Civilizations": 2,
 "Space and Astronomy": 1,
 "Physics": 1,
 "Biology": 1
 },
 "cats": {
-"History": 6,
+"History": 7,
 "Finance": 1,
-"Pop Culture": 6,
+"Pop Culture": 7,
 "Math": 7,
 "Food & Culture": 7,
-"Sports": 6,
+"Sports": 7,
 "Science": 7,
-"Geography": 6,
+"Geography": 7,
 "Nature": 6,
-"Technology": 6
+"Technology": 7
 }
 }
