@@ -97,7 +97,12 @@
 "b2a26cf615ac330c06d57f67dd36882007310b83",
 "0cd4f4ea3b818ebb994833badff86b85f656ebad",
 "8c7e3aedd329a5d571ae9619d66f4d46b1fe5515",
-"c76c1643dec25a0cafee44bbbe79b80de04e1f2b"
+"c76c1643dec25a0cafee44bbbe79b80de04e1f2b",
+"12fd0d8866b032034a6bf8bfcb6f543d420ac4ae",
+"a594cb97c60018fa76fc222fb96a5f072e3b7800",
+"307ae23be2c9ee6632f12a62986ec14b006721a8",
+"825a9077aaf8c12137b108bbec01dddc0d1ccb66",
+"40ce3db8cbc5d45e2af4def8c5a969afad37245a"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -197,7 +202,12 @@
 "What unique beak shape did Darwin observe on different finch species?",
 "Which athlete won the most gold medals in Canoe Sprint?",
 "What language is primarily used for game development?",
-"What is the name of Monet's bridge in Giverny?"
+"What is the name of Monet's bridge in Giverny?",
+"What ancient civilization built the Taj Mahal?",
+"What unique feature does a tortoise have in its shell?",
+"What Roman numeral represents 5?",
+"How many sabertooth tigers are in the wild today?",
+"Which key on a blues harp is known for its soulful sound?"
 ],
 "answers": [
 "picasso",
@@ -287,7 +297,12 @@
 "concave",
 "coster",
 "c",
-"waterlily bridge"
+"waterlily bridge",
+"mughals",
+"tortoise shell",
+"v",
+"none",
+"bb"
 ],
 "subjects": [
 "cubism",
@@ -377,13 +392,18 @@
 "darwins finches",
 "canoe sprint",
 "game dev",
-"claude monet bridge"
+"claude monet bridge",
+"india heritage",
+"tortoise",
+"roman numerals",
+"sabertooth tiger",
+"blues harp"
 ],
 "subtopics": {
 "World History": 2,
 "Business and Trade": 1,
 "Art and Painting": 3,
-"Mathematics": 9,
+"Mathematics": 10,
 "Languages and Alphabets": 3,
 "Sports and Olympics": 5,
 "Chemistry": 2,
@@ -394,18 +414,18 @@
 "Everyday Science": 2,
 "Famous Inventions": 2,
 "Food and Drinks": 4,
-"World Records": 5,
+"World Records": 6,
 "Weather and Climate": 3,
-"Music": 2,
+"Music": 3,
 "Architecture and Landmarks": 3,
-"Animals and Wildlife": 3,
+"Animals and Wildlife": 4,
 "Human Body": 1,
 "Technology and Computers": 4,
 "Famous Scientists": 3,
 "World Geography": 2,
 "Literature and Authors": 3,
 "Mythology": 3,
-"Countries and Capitals": 2,
+"Countries and Capitals": 3,
 "Movies and Cinema (general)": 2,
 "Ancient Civilizations": 3,
 "Space and Astronomy": 2,
@@ -415,13 +435,13 @@
 "cats": {
 "History": 10,
 "Finance": 1,
-"Pop Culture": 10,
-"Math": 9,
+"Pop Culture": 11,
+"Math": 10,
 "Food & Culture": 10,
-"Sports": 10,
+"Sports": 11,
 "Science": 10,
-"Geography": 9,
-"Nature": 9,
+"Geography": 10,
+"Nature": 10,
 "Technology": 10
 }
 }
