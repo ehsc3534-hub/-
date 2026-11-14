@@ -107,7 +107,12 @@
 "5dd317991c1c00f110898aba5d3038f6ecde8091",
 "9d885c20c18dc152d37976ffefff680ca22aa3cb",
 "15c9ab4c7e562f38679b2fb82d4534d4a2b571a9",
-"e2f0511defdc3954eeb969b9aa9b2b2ce9532fc4"
+"e2f0511defdc3954eeb969b9aa9b2b2ce9532fc4",
+"bf9a9ab7a68b30a87bb3decc7dab533170a0a57a",
+"b1bc48152c4220af2cd38ca78d0d7c11dab32e6a",
+"b71406aced63a70c277b3dcc01cda035d7c44f33",
+"c5824aab4f34de0d7eeedc8884921aa839c9012e",
+"ab2fd15f018e356abda71341c99a248fa704c9ca"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -217,7 +222,12 @@
 "What language is written in Sanskrit sutras?",
 "What does dark matter interact with gravitationally?",
 "What type of vehicle is a flying car concept?",
-"What mountain range runs along the west coast of South America?"
+"What mountain range runs along the west coast of South America?",
+"Who invented the printing press?",
+"What weather phenomenon is called a Blizzard?",
+"What does 'Juno' refer to in movies?",
+"What structure is inside the Sagrada Familia?",
+"Which rowing event was won by New Zealand in 2016?"
 ],
 "answers": [
 "picasso",
@@ -317,7 +327,12 @@
 "hinduism",
 "particles",
 "airplane",
-"andes mountains"
+"andes mountains",
+"johannes gutenberg",
+"snowstorm",
+"love interest",
+"cathedral",
+"k4"
 ],
 "subjects": [
 "cubism",
@@ -417,7 +432,12 @@
 "sanskrit sutras",
 "dark matter",
 "flying car concept",
-"andes mountains"
+"andes mountains",
+"printing press",
+"blizzard",
+"juno",
+"sagrada familia",
+"rowing boat"
 ],
 "subtopics": {
 "World History": 2,
@@ -425,19 +445,19 @@
 "Art and Painting": 3,
 "Mathematics": 11,
 "Languages and Alphabets": 4,
-"Sports and Olympics": 5,
+"Sports and Olympics": 6,
 "Chemistry": 2,
 "Oceans, Rivers and Mountains": 3,
 "Plants and Trees": 3,
 "Transport and Vehicles": 4,
 "Currencies and Flags": 3,
 "Everyday Science": 2,
-"Famous Inventions": 2,
+"Famous Inventions": 3,
 "Food and Drinks": 4,
 "World Records": 6,
-"Weather and Climate": 3,
+"Weather and Climate": 4,
 "Music": 3,
-"Architecture and Landmarks": 3,
+"Architecture and Landmarks": 4,
 "Animals and Wildlife": 4,
 "Human Body": 1,
 "Technology and Computers": 4,
@@ -446,22 +466,22 @@
 "Literature and Authors": 3,
 "Mythology": 3,
 "Countries and Capitals": 3,
-"Movies and Cinema (general)": 2,
+"Movies and Cinema (general)": 3,
 "Ancient Civilizations": 3,
 "Space and Astronomy": 2,
 "Physics": 2,
 "Biology": 2
 },
 "cats": {
-"History": 10,
+"History": 11,
 "Finance": 1,
-"Pop Culture": 11,
+"Pop Culture": 12,
 "Math": 11,
 "Food & Culture": 11,
-"Sports": 11,
+"Sports": 12,
 "Science": 11,
 "Geography": 11,
-"Nature": 10,
-"Technology": 11
+"Nature": 11,
+"Technology": 12
 }
 }
