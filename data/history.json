@@ -102,7 +102,12 @@
 "a594cb97c60018fa76fc222fb96a5f072e3b7800",
 "307ae23be2c9ee6632f12a62986ec14b006721a8",
 "825a9077aaf8c12137b108bbec01dddc0d1ccb66",
-"40ce3db8cbc5d45e2af4def8c5a969afad37245a"
+"40ce3db8cbc5d45e2af4def8c5a969afad37245a",
+"eac2dfd303cb1a55e3f4260d321faa38538f4ae1",
+"5dd317991c1c00f110898aba5d3038f6ecde8091",
+"9d885c20c18dc152d37976ffefff680ca22aa3cb",
+"15c9ab4c7e562f38679b2fb82d4534d4a2b571a9",
+"e2f0511defdc3954eeb969b9aa9b2b2ce9532fc4"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -207,7 +212,12 @@
 "What unique feature does a tortoise have in its shell?",
 "What Roman numeral represents 5?",
 "How many sabertooth tigers are in the wild today?",
-"Which key on a blues harp is known for its soulful sound?"
+"Which key on a blues harp is known for its soulful sound?",
+"What is the 5th Catalan number?",
+"What language is written in Sanskrit sutras?",
+"What does dark matter interact with gravitationally?",
+"What type of vehicle is a flying car concept?",
+"What mountain range runs along the west coast of South America?"
 ],
 "answers": [
 "picasso",
@@ -302,7 +312,12 @@
 "tortoise shell",
 "v",
 "none",
-"bb"
+"bb",
+"42",
+"hinduism",
+"particles",
+"airplane",
+"andes mountains"
 ],
 "subjects": [
 "cubism",
@@ -397,19 +412,24 @@
 "tortoise",
 "roman numerals",
 "sabertooth tiger",
-"blues harp"
+"blues harp",
+"catalan number",
+"sanskrit sutras",
+"dark matter",
+"flying car concept",
+"andes mountains"
 ],
 "subtopics": {
 "World History": 2,
 "Business and Trade": 1,
 "Art and Painting": 3,
-"Mathematics": 10,
-"Languages and Alphabets": 3,
+"Mathematics": 11,
+"Languages and Alphabets": 4,
 "Sports and Olympics": 5,
 "Chemistry": 2,
-"Oceans, Rivers and Mountains": 2,
+"Oceans, Rivers and Mountains": 3,
 "Plants and Trees": 3,
-"Transport and Vehicles": 3,
+"Transport and Vehicles": 4,
 "Currencies and Flags": 3,
 "Everyday Science": 2,
 "Famous Inventions": 2,
@@ -429,19 +449,19 @@
 "Movies and Cinema (general)": 2,
 "Ancient Civilizations": 3,
 "Space and Astronomy": 2,
-"Physics": 1,
+"Physics": 2,
 "Biology": 2
 },
 "cats": {
 "History": 10,
 "Finance": 1,
 "Pop Culture": 11,
-"Math": 10,
-"Food & Culture": 10,
+"Math": 11,
+"Food & Culture": 11,
 "Sports": 11,
-"Science": 10,
-"Geography": 10,
+"Science": 11,
+"Geography": 11,
 "Nature": 10,
-"Technology": 10
+"Technology": 11
 }
 }
