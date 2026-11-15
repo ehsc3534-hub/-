@@ -112,7 +112,12 @@
 "b1bc48152c4220af2cd38ca78d0d7c11dab32e6a",
 "b71406aced63a70c277b3dcc01cda035d7c44f33",
 "c5824aab4f34de0d7eeedc8884921aa839c9012e",
-"ab2fd15f018e356abda71341c99a248fa704c9ca"
+"ab2fd15f018e356abda71341c99a248fa704c9ca",
+"95432a664b519eec2527202ea14f604e91387eaa",
+"7310d4da61dd48242fd28d2b9ff8597aa331a998",
+"0b7b79395b56ff3bcaf926b89b4bb9194f302c25",
+"02078e181603086ef54925affa33e99c1dc3f82e",
+"de74379851502602bb7082bd1356cd9c3972fd16"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -227,7 +232,12 @@
 "What weather phenomenon is called a Blizzard?",
 "What does 'Juno' refer to in movies?",
 "What structure is inside the Sagrada Familia?",
-"Which rowing event was won by New Zealand in 2016?"
+"Which rowing event was won by New Zealand in 2016?",
+"Which country had the Berlin Wall built through its territory?",
+"What causes frostbite in human skin?",
+"Which country controls the Kashgar Hot Springs?",
+"What prime number is the base of Fermat's Little Theorem for 3?",
+"What part of the coca plant contains cocaine?"
 ],
 "answers": [
 "picasso",
@@ -332,7 +342,12 @@
 "snowstorm",
 "love interest",
 "cathedral",
-"k4"
+"k4",
+"germany",
+"cold temperatures",
+"china",
+"2",
+"leaves"
 ],
 "subjects": [
 "cubism",
@@ -437,18 +452,23 @@
 "blizzard",
 "juno",
 "sagrada familia",
-"rowing boat"
+"rowing boat",
+"berlin wall",
+"permafrost",
+"xinjiang uyghur autonomous region",
+"fermats little theorem",
+"coca leaf"
 ],
 "subtopics": {
-"World History": 2,
+"World History": 3,
 "Business and Trade": 1,
 "Art and Painting": 3,
-"Mathematics": 11,
+"Mathematics": 12,
 "Languages and Alphabets": 4,
 "Sports and Olympics": 6,
 "Chemistry": 2,
 "Oceans, Rivers and Mountains": 3,
-"Plants and Trees": 3,
+"Plants and Trees": 4,
 "Transport and Vehicles": 4,
 "Currencies and Flags": 3,
 "Everyday Science": 2,
@@ -459,10 +479,10 @@
 "Music": 3,
 "Architecture and Landmarks": 4,
 "Animals and Wildlife": 4,
-"Human Body": 1,
+"Human Body": 2,
 "Technology and Computers": 4,
 "Famous Scientists": 3,
-"World Geography": 2,
+"World Geography": 3,
 "Literature and Authors": 3,
 "Mythology": 3,
 "Countries and Capitals": 3,
@@ -473,15 +493,15 @@
 "Biology": 2
 },
 "cats": {
-"History": 11,
+"History": 12,
 "Finance": 1,
 "Pop Culture": 12,
-"Math": 11,
+"Math": 12,
 "Food & Culture": 11,
 "Sports": 12,
-"Science": 11,
-"Geography": 11,
-"Nature": 11,
+"Science": 12,
+"Geography": 12,
+"Nature": 12,
 "Technology": 12
 }
 }
