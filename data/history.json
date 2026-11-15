@@ -132,7 +132,12 @@
 "8352196f8443c9356cf391f380513e0423e2bf5d",
 "f970d80e9f9a33b716636c8871d7aa0f62b65cbe",
 "239976851eefb924b59c433ff48869826e5f95b0",
-"28e9d036d3c0670f885d74ffe11f94b4688d0d6a"
+"28e9d036d3c0670f885d74ffe11f94b4688d0d6a",
+"82c51cca42e9b5c04256b6f653c06932965fe5d2",
+"f8c5b02c46200bccb4f114a4ca319b4341463d9b",
+"fa1fdc756b49e10fa8f568323e222a13189eda8b",
+"34e493231636821746c0d1aa7bc1a8b90170afd3",
+"a4eb3b9042eb3ebc22a183fc1866928951ae933c"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -267,7 +272,12 @@
 "What does the pound sign represent in UK currency?",
 "What is the square of the hypotenuse in a 3-4-5 right triangle?",
 "What victory sign record is held by the longest person?",
-"What tree is associated with the Egyptian sarcophagus?"
+"What tree is associated with the Egyptian sarcophagus?",
+"What material was Edison's first successful light bulb made of?",
+"What causes gallstones in the gallbladder?",
+"What did Ogham script use for vowels?",
+"What type of vehicle was the DeLorean DMC-12?",
+"What did the punk movement influence in music?"
 ],
 "answers": [
 "picasso",
@@ -392,7 +402,12 @@
 "gbp",
 "13",
 "710",
-"palm tree"
+"palm tree",
+"copper",
+"obstruction of bile flow",
+"ba",
+"time machine",
+"punk drums"
 ],
 "subjects": [
 "cubism",
@@ -517,29 +532,34 @@
 "pound coin",
 "pythagorean theorem",
 "victory sign",
-"egyptian sarcophagus"
+"egyptian sarcophagus",
+"light bulb",
+"gall bladder disease",
+"ogham stone",
+"autocar",
+"punk drums"
 ],
 "subtopics": {
 "World History": 4,
 "Business and Trade": 1,
 "Art and Painting": 4,
 "Mathematics": 14,
-"Languages and Alphabets": 4,
+"Languages and Alphabets": 5,
 "Sports and Olympics": 7,
 "Chemistry": 2,
 "Oceans, Rivers and Mountains": 3,
 "Plants and Trees": 5,
-"Transport and Vehicles": 4,
+"Transport and Vehicles": 5,
 "Currencies and Flags": 4,
 "Everyday Science": 2,
-"Famous Inventions": 3,
+"Famous Inventions": 4,
 "Food and Drinks": 5,
 "World Records": 7,
 "Weather and Climate": 5,
-"Music": 3,
+"Music": 4,
 "Architecture and Landmarks": 4,
 "Animals and Wildlife": 4,
-"Human Body": 2,
+"Human Body": 3,
 "Technology and Computers": 5,
 "Famous Scientists": 3,
 "World Geography": 4,
@@ -553,15 +573,15 @@
 "Biology": 2
 },
 "cats": {
-"History": 13,
+"History": 14,
 "Finance": 1,
-"Pop Culture": 14,
+"Pop Culture": 15,
 "Math": 14,
-"Food & Culture": 13,
+"Food & Culture": 14,
 "Sports": 14,
-"Science": 13,
+"Science": 14,
 "Geography": 14,
 "Nature": 14,
-"Technology": 13
+"Technology": 14
 }
 }
