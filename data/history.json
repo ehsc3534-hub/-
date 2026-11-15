@@ -127,7 +127,12 @@
 "fc13a33f61cae77669c92b67e3bd79049b8ead23",
 "516c47347c16d7d4aeeb8d7e0a05360d7e6a658a",
 "29f05f8e4331fde9ac0867f59adb22a0929d95d7",
-"4fae9bf249a6e91af7a92c86fcd1d855dc47a384"
+"4fae9bf249a6e91af7a92c86fcd1d855dc47a384",
+"5e197304b1990a0ee2f7a9f6e90ae524f3a240a9",
+"8352196f8443c9356cf391f380513e0423e2bf5d",
+"f970d80e9f9a33b716636c8871d7aa0f62b65cbe",
+"239976851eefb924b59c433ff48869826e5f95b0",
+"28e9d036d3c0670f885d74ffe11f94b4688d0d6a"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -257,7 +262,12 @@
 "What do nori sheets wrap around in sushi rolls?",
 "Who wrote the novel 'The Black Order'?",
 "What causes a heat dome in the summer?",
-"What property of light explains diffraction around a small obstacle?"
+"What property of light explains diffraction around a small obstacle?",
+"Who painted the 'Birth of Venus' fresco?",
+"What does the pound sign represent in UK currency?",
+"What is the square of the hypotenuse in a 3-4-5 right triangle?",
+"What victory sign record is held by the longest person?",
+"What tree is associated with the Egyptian sarcophagus?"
 ],
 "answers": [
 "picasso",
@@ -377,7 +387,12 @@
 "veggies",
 "joseph gillin",
 "high pressure system",
-"wavelength"
+"wavelength",
+"mino da fiesole",
+"gbp",
+"13",
+"710",
+"palm tree"
 ],
 "subjects": [
 "cubism",
@@ -497,24 +512,29 @@
 "sushi roll",
 "marvel villain",
 "heat dome",
-"feynmans path"
+"feynmans path",
+"renaissance fresco",
+"pound coin",
+"pythagorean theorem",
+"victory sign",
+"egyptian sarcophagus"
 ],
 "subtopics": {
 "World History": 4,
 "Business and Trade": 1,
-"Art and Painting": 3,
-"Mathematics": 13,
+"Art and Painting": 4,
+"Mathematics": 14,
 "Languages and Alphabets": 4,
 "Sports and Olympics": 7,
 "Chemistry": 2,
 "Oceans, Rivers and Mountains": 3,
-"Plants and Trees": 4,
+"Plants and Trees": 5,
 "Transport and Vehicles": 4,
-"Currencies and Flags": 3,
+"Currencies and Flags": 4,
 "Everyday Science": 2,
 "Famous Inventions": 3,
 "Food and Drinks": 5,
-"World Records": 6,
+"World Records": 7,
 "Weather and Climate": 5,
 "Music": 3,
 "Architecture and Landmarks": 4,
@@ -535,13 +555,13 @@
 "cats": {
 "History": 13,
 "Finance": 1,
-"Pop Culture": 13,
-"Math": 13,
+"Pop Culture": 14,
+"Math": 14,
 "Food & Culture": 13,
-"Sports": 13,
+"Sports": 14,
 "Science": 13,
-"Geography": 13,
-"Nature": 13,
+"Geography": 14,
+"Nature": 14,
 "Technology": 13
 }
 }
