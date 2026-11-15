@@ -117,7 +117,12 @@
 "7310d4da61dd48242fd28d2b9ff8597aa331a998",
 "0b7b79395b56ff3bcaf926b89b4bb9194f302c25",
 "02078e181603086ef54925affa33e99c1dc3f82e",
-"de74379851502602bb7082bd1356cd9c3972fd16"
+"de74379851502602bb7082bd1356cd9c3972fd16",
+"95c93daf66234964944d78e2e7332764d44817f8",
+"1fce084ffedf8a31565497b8f91f8301bcc5fb57",
+"139a2a7efbb88d6d0b06071c33be2a2e7e1d20d3",
+"210e2ede77d1495469c1e8d2c7d76c3b5e20a07a",
+"658d12a40f8fd3bac44a8670d23ea51d97a3d7a9"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -237,7 +242,12 @@
 "What causes frostbite in human skin?",
 "Which country controls the Kashgar Hot Springs?",
 "What prime number is the base of Fermat's Little Theorem for 3?",
-"What part of the coca plant contains cocaine?"
+"What part of the coca plant contains cocaine?",
+"What creature do Greeks associate with wisdom in myths?",
+"How many bridges are part of the Golden Gate Bridge Highway and Transportation District?",
+"Which hacker group used the name 'L9'?",
+"What is the deepest point in the Arctic Ocean?",
+"What German fighter won gold at the 1936 Olympics?"
 ],
 "answers": [
 "picasso",
@@ -347,7 +357,12 @@
 "cold temperatures",
 "china",
 "2",
-"leaves"
+"leaves",
+"wise owl",
+"three",
+"l9",
+"challenger deep",
+"joachim weyher"
 ],
 "subjects": [
 "cubism",
@@ -457,15 +472,20 @@
 "permafrost",
 "xinjiang uyghur autonomous region",
 "fermats little theorem",
-"coca leaf"
+"coca leaf",
+"wise owl",
+"golden gate bridge",
+"hacker group",
+"arctic ocean",
+"german fighter"
 ],
 "subtopics": {
 "World History": 3,
 "Business and Trade": 1,
 "Art and Painting": 3,
-"Mathematics": 12,
+"Mathematics": 13,
 "Languages and Alphabets": 4,
-"Sports and Olympics": 6,
+"Sports and Olympics": 7,
 "Chemistry": 2,
 "Oceans, Rivers and Mountains": 3,
 "Plants and Trees": 4,
@@ -480,11 +500,11 @@
 "Architecture and Landmarks": 4,
 "Animals and Wildlife": 4,
 "Human Body": 2,
-"Technology and Computers": 4,
+"Technology and Computers": 5,
 "Famous Scientists": 3,
-"World Geography": 3,
+"World Geography": 4,
 "Literature and Authors": 3,
-"Mythology": 3,
+"Mythology": 4,
 "Countries and Capitals": 3,
 "Movies and Cinema (general)": 3,
 "Ancient Civilizations": 3,
@@ -496,12 +516,12 @@
 "History": 12,
 "Finance": 1,
 "Pop Culture": 12,
-"Math": 12,
-"Food & Culture": 11,
-"Sports": 12,
+"Math": 13,
+"Food & Culture": 12,
+"Sports": 13,
 "Science": 12,
-"Geography": 12,
+"Geography": 13,
 "Nature": 12,
-"Technology": 12
+"Technology": 13
 }
 }
