@@ -157,7 +157,12 @@
 "33eb384f98663d0ec2547c5621bbd2640e3b2df5",
 "6df4d1d4f702cb7cb33c201679a4f172f1da2154",
 "54587368233091f578f89e00c9ba3f7456818a0a",
-"11af61d4517495cc80334798be6981eb03bac3d0"
+"11af61d4517495cc80334798be6981eb03bac3d0",
+"6efbf8eeb5817866709843463409578827b13b3d",
+"d913e2eaccb5daa5cbec731df6ac22af0c36b00d",
+"8c615d58da58240c5639fa99761a98ae78499a8a",
+"a327b39312aa4a95dc4847dbabc34215d11038f1",
+"16167c1346389c4295022465b83a25eecc7be28d"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -317,7 +322,12 @@
 "What vehicle model started with the series 'M'?",
 "What causes the geothermal activity in Yellowstone Park?",
 "Who composed the piece titled 'Heaven and Earth'?",
-"Who built the Inca road system?"
+"Who built the Inca road system?",
+"What type of precipitation is common in icy tundras?",
+"Who won the women's 100m freestyle at the 2016 Olympics?",
+"What powered the Soviet Energia rocket?",
+"What is carbon dioxide's chemical formula?",
+"Which Mayan glyph represents the number ten?"
 ],
 "answers": [
 "picasso",
@@ -467,7 +477,12 @@
 "m3",
 "magma movement",
 "zhang heng",
-"incans"
+"incans",
+"snowfall",
+"natalie coughlin",
+"n2",
+"co2",
+"b"
 ],
 "subjects": [
 "cubism",
@@ -617,16 +632,21 @@
 "bmw",
 "yellow stone park",
 "yin yang symbol",
-"inca empire"
+"inca empire",
+"icy tundra",
+"swimsuit speed",
+"russian rocket",
+"carbon dioxide",
+"mayan glyphs"
 ],
 "subtopics": {
 "World History": 5,
 "Business and Trade": 1,
 "Art and Painting": 4,
 "Mathematics": 16,
-"Languages and Alphabets": 5,
-"Sports and Olympics": 8,
-"Chemistry": 2,
+"Languages and Alphabets": 6,
+"Sports and Olympics": 9,
+"Chemistry": 3,
 "Oceans, Rivers and Mountains": 5,
 "Plants and Trees": 5,
 "Transport and Vehicles": 6,
@@ -635,12 +655,12 @@
 "Famous Inventions": 4,
 "Food and Drinks": 6,
 "World Records": 8,
-"Weather and Climate": 5,
+"Weather and Climate": 6,
 "Music": 5,
 "Architecture and Landmarks": 5,
 "Animals and Wildlife": 6,
 "Human Body": 3,
-"Technology and Computers": 5,
+"Technology and Computers": 6,
 "Famous Scientists": 4,
 "World Geography": 4,
 "Literature and Authors": 4,
@@ -657,11 +677,11 @@
 "Finance": 1,
 "Pop Culture": 17,
 "Math": 16,
-"Food & Culture": 16,
-"Sports": 16,
-"Science": 16,
+"Food & Culture": 17,
+"Sports": 17,
+"Science": 17,
 "Geography": 17,
-"Nature": 16,
-"Technology": 16
+"Nature": 17,
+"Technology": 17
 }
 }
