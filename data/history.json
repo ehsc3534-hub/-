@@ -147,7 +147,12 @@
 "93f738b3ce87ba0c757fffe7ac9b6d89468644f7",
 "bfb125e5b41281a4ed47dc022c06cdee0e158e91",
 "97451036cefd0806b785aae7aabfc2cfbdc57152",
-"823b28c0793fbc3baeabb45b52a795fe71206573"
+"823b28c0793fbc3baeabb45b52a795fe71206573",
+"3e0222cec47633b80ce522ce77bc27eac11d051b",
+"e9a41d1b8f47490615c9b3d23156a429cd68be5e",
+"d7cb01fb5b4a60bed743ffab56b14b0fc4ab5ff0",
+"458b66cd79201e03ca6224bf931566a79518516a",
+"3c61f0a3e53a349009f5cfcd86611c6cf792d197"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -297,7 +302,12 @@
 "What type of castle is Windsor Castle?",
 "What do hippos use to protect their ears?",
 "What country has the tallest building in the world?",
-"What actor played Steve McQueen in The Great Escape?"
+"What actor played Steve McQueen in The Great Escape?",
+"Who proved the Riemann Hypothesis in 2013?",
+"What do polar bears use to catch seals?",
+"What mathematical constant did Tartaglia discover the value of?",
+"What ingredient is used to make Chang Beer?",
+"What does a golf tee do?"
 ],
 "answers": [
 "picasso",
@@ -437,7 +447,12 @@
 "royal",
 "water",
 "united arab emirates",
-"mcconaughey"
+"mcconaughey",
+"no one",
+"polar bear claws",
+"pi",
+"maltose",
+"supports ball"
 ],
 "subjects": [
 "cubism",
@@ -577,15 +592,20 @@
 "british castle",
 "hippopotamus",
 "burj khalifa",
-"the great escape"
+"the great escape",
+"riemann",
+"polar bear",
+"niccol fontana tartaglia",
+"chang beer",
+"golf tee shot"
 ],
 "subtopics": {
 "World History": 4,
 "Business and Trade": 1,
 "Art and Painting": 4,
-"Mathematics": 15,
+"Mathematics": 16,
 "Languages and Alphabets": 5,
-"Sports and Olympics": 7,
+"Sports and Olympics": 8,
 "Chemistry": 2,
 "Oceans, Rivers and Mountains": 4,
 "Plants and Trees": 5,
@@ -593,15 +613,15 @@
 "Currencies and Flags": 4,
 "Everyday Science": 3,
 "Famous Inventions": 4,
-"Food and Drinks": 5,
+"Food and Drinks": 6,
 "World Records": 8,
 "Weather and Climate": 5,
 "Music": 4,
 "Architecture and Landmarks": 5,
-"Animals and Wildlife": 5,
+"Animals and Wildlife": 6,
 "Human Body": 3,
 "Technology and Computers": 5,
-"Famous Scientists": 3,
+"Famous Scientists": 4,
 "World Geography": 4,
 "Literature and Authors": 4,
 "Mythology": 5,
@@ -613,15 +633,15 @@
 "Biology": 2
 },
 "cats": {
-"History": 15,
+"History": 16,
 "Finance": 1,
 "Pop Culture": 16,
-"Math": 15,
-"Food & Culture": 15,
-"Sports": 15,
+"Math": 16,
+"Food & Culture": 16,
+"Sports": 16,
 "Science": 15,
 "Geography": 16,
-"Nature": 15,
+"Nature": 16,
 "Technology": 15
 }
 }
