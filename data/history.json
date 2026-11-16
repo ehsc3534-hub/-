@@ -152,7 +152,12 @@
 "e9a41d1b8f47490615c9b3d23156a429cd68be5e",
 "d7cb01fb5b4a60bed743ffab56b14b0fc4ab5ff0",
 "458b66cd79201e03ca6224bf931566a79518516a",
-"3c61f0a3e53a349009f5cfcd86611c6cf792d197"
+"3c61f0a3e53a349009f5cfcd86611c6cf792d197",
+"9a20817d81b1597b706514910019d943256b37ff",
+"33eb384f98663d0ec2547c5621bbd2640e3b2df5",
+"6df4d1d4f702cb7cb33c201679a4f172f1da2154",
+"54587368233091f578f89e00c9ba3f7456818a0a",
+"11af61d4517495cc80334798be6981eb03bac3d0"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -307,7 +312,12 @@
 "What do polar bears use to catch seals?",
 "What mathematical constant did Tartaglia discover the value of?",
 "What ingredient is used to make Chang Beer?",
-"What does a golf tee do?"
+"What does a golf tee do?",
+"What does a Tibetan mandala represent?",
+"What vehicle model started with the series 'M'?",
+"What causes the geothermal activity in Yellowstone Park?",
+"Who composed the piece titled 'Heaven and Earth'?",
+"Who built the Inca road system?"
 ],
 "answers": [
 "picasso",
@@ -452,7 +462,12 @@
 "polar bear claws",
 "pi",
 "maltose",
-"supports ball"
+"supports ball",
+"biology",
+"m3",
+"magma movement",
+"zhang heng",
+"incans"
 ],
 "subjects": [
 "cubism",
@@ -597,26 +612,31 @@
 "polar bear",
 "niccol fontana tartaglia",
 "chang beer",
-"golf tee shot"
+"golf tee shot",
+"tibetan mandala",
+"bmw",
+"yellow stone park",
+"yin yang symbol",
+"inca empire"
 ],
 "subtopics": {
-"World History": 4,
+"World History": 5,
 "Business and Trade": 1,
 "Art and Painting": 4,
 "Mathematics": 16,
 "Languages and Alphabets": 5,
 "Sports and Olympics": 8,
 "Chemistry": 2,
-"Oceans, Rivers and Mountains": 4,
+"Oceans, Rivers and Mountains": 5,
 "Plants and Trees": 5,
-"Transport and Vehicles": 5,
+"Transport and Vehicles": 6,
 "Currencies and Flags": 4,
 "Everyday Science": 3,
 "Famous Inventions": 4,
 "Food and Drinks": 6,
 "World Records": 8,
 "Weather and Climate": 5,
-"Music": 4,
+"Music": 5,
 "Architecture and Landmarks": 5,
 "Animals and Wildlife": 6,
 "Human Body": 3,
@@ -630,18 +650,18 @@
 "Ancient Civilizations": 4,
 "Space and Astronomy": 2,
 "Physics": 3,
-"Biology": 2
+"Biology": 3
 },
 "cats": {
-"History": 16,
+"History": 17,
 "Finance": 1,
-"Pop Culture": 16,
+"Pop Culture": 17,
 "Math": 16,
 "Food & Culture": 16,
 "Sports": 16,
-"Science": 15,
-"Geography": 16,
+"Science": 16,
+"Geography": 17,
 "Nature": 16,
-"Technology": 15
+"Technology": 16
 }
 }
