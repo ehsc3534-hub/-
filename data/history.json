@@ -142,7 +142,12 @@
 "942636439809f276e942a2cfe98f3840e94b86fb",
 "18885aa864599631d088430418d2e49d545c9ffb",
 "d5b13ea65218758e6ad6c8accb31cece0968c312",
-"ddace9a499970bd7e40208b6c6ecc6c5d31bd20e"
+"ddace9a499970bd7e40208b6c6ecc6c5d31bd20e",
+"8654eef51a7cfed622548979c0799ea38384c553",
+"93f738b3ce87ba0c757fffe7ac9b6d89468644f7",
+"bfb125e5b41281a4ed47dc022c06cdee0e158e91",
+"97451036cefd0806b785aae7aabfc2cfbdc57152",
+"823b28c0793fbc3baeabb45b52a795fe71206573"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -287,7 +292,12 @@
 "What animal has the longest nose?",
 "What do water buffalo use their horns for?",
 "What does a Mayan round sign represent?",
-"What realm is Hades known for in Greek mythology?"
+"What realm is Hades known for in Greek mythology?",
+"What number is Archimedes' lower bound for pi closest to?",
+"What type of castle is Windsor Castle?",
+"What do hippos use to protect their ears?",
+"What country has the tallest building in the world?",
+"What actor played Steve McQueen in The Great Escape?"
 ],
 "answers": [
 "picasso",
@@ -422,7 +432,12 @@
 "rhinoceros",
 "protecting themselves",
 "count",
-"underworld"
+"underworld",
+"3",
+"royal",
+"water",
+"united arab emirates",
+"mcconaughey"
 ],
 "subjects": [
 "cubism",
@@ -557,13 +572,18 @@
 "longest nose",
 "water buffalo",
 "mayan calendar",
-"hades underworld"
+"hades underworld",
+"archimedes approximations",
+"british castle",
+"hippopotamus",
+"burj khalifa",
+"the great escape"
 ],
 "subtopics": {
 "World History": 4,
 "Business and Trade": 1,
 "Art and Painting": 4,
-"Mathematics": 14,
+"Mathematics": 15,
 "Languages and Alphabets": 5,
 "Sports and Olympics": 7,
 "Chemistry": 2,
@@ -577,16 +597,16 @@
 "World Records": 8,
 "Weather and Climate": 5,
 "Music": 4,
-"Architecture and Landmarks": 4,
-"Animals and Wildlife": 4,
+"Architecture and Landmarks": 5,
+"Animals and Wildlife": 5,
 "Human Body": 3,
 "Technology and Computers": 5,
 "Famous Scientists": 3,
 "World Geography": 4,
 "Literature and Authors": 4,
 "Mythology": 5,
-"Countries and Capitals": 3,
-"Movies and Cinema (general)": 3,
+"Countries and Capitals": 4,
+"Movies and Cinema (general)": 4,
 "Ancient Civilizations": 4,
 "Space and Astronomy": 2,
 "Physics": 3,
@@ -595,13 +615,13 @@
 "cats": {
 "History": 15,
 "Finance": 1,
-"Pop Culture": 15,
-"Math": 14,
+"Pop Culture": 16,
+"Math": 15,
 "Food & Culture": 15,
 "Sports": 15,
 "Science": 15,
-"Geography": 15,
-"Nature": 14,
-"Technology": 14
+"Geography": 16,
+"Nature": 15,
+"Technology": 15
 }
 }
