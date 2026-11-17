@@ -187,7 +187,12 @@
 "1594a1640465e281a73c39d2413901ce9c169be2",
 "688fd1856f87a626c36823a11b6e7eb2b2d7abea",
 "9c22144bc1043f059d6a767441e7c5006e0e3155",
-"81085d64e8ceeefdab47cfe99756be04622f2696"
+"81085d64e8ceeefdab47cfe99756be04622f2696",
+"07c020ca2a0309b14d9d94c514d5afda33eb8007",
+"766eca4f3a4de8f33f11c37c10ec855ffe2246fc",
+"84e6aac3ab4e46ee24b0a7f6525e512d5c02d0dd",
+"3f041a83da7d1a83be3293c2ac60747cab6bac69",
+"e3845d065dc546e3173ad341d88a6cd0a0d45b65"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -377,7 +382,12 @@
 "What is the hour hand pointing to on a Surrealist clock?",
 "What celestial body did ancient Greeks worship as Eos?",
 "What did the ancient Greeks honor on Palm Sunday?",
-"What subway line runs through New York City's Financial District?"
+"What subway line runs through New York City's Financial District?",
+"What is the Borel circle in complex analysis?",
+"What is the Leaning Tower of Pisa famous for?",
+"What drives the formation of ocean gyres?",
+"What genetic trait causes curly hair in humans?",
+"Who won the gold medal for the men's 100m sprint at Tokyo 2020?"
 ],
 "answers": [
 "picasso",
@@ -557,7 +567,12 @@
 "four",
 "the dawn",
 "jesus christ",
-"f"
+"f",
+"unit circle",
+"tilted",
+"wind currents",
+"curliness",
+"joshua long"
 ],
 "subjects": [
 "cubism",
@@ -737,15 +752,20 @@
 "surrealist clock",
 "eos",
 "palm sunday",
-"subway line"
+"subway line",
+"borel circle",
+"italy leaning tower",
+"ocean currents",
+"genetic diversity",
+"tokyo 2020"
 ],
 "subtopics": {
 "World History": 5,
 "Business and Trade": 1,
 "Art and Painting": 5,
-"Mathematics": 19,
+"Mathematics": 20,
 "Languages and Alphabets": 7,
-"Sports and Olympics": 10,
+"Sports and Olympics": 11,
 "Chemistry": 3,
 "Oceans, Rivers and Mountains": 5,
 "Plants and Trees": 7,
@@ -755,14 +775,14 @@
 "Famous Inventions": 5,
 "Food and Drinks": 6,
 "World Records": 10,
-"Weather and Climate": 6,
+"Weather and Climate": 7,
 "Music": 5,
 "Architecture and Landmarks": 6,
 "Animals and Wildlife": 6,
 "Human Body": 3,
 "Technology and Computers": 7,
 "Famous Scientists": 5,
-"World Geography": 4,
+"World Geography": 5,
 "Literature and Authors": 5,
 "Mythology": 7,
 "Countries and Capitals": 5,
@@ -770,18 +790,18 @@
 "Ancient Civilizations": 5,
 "Space and Astronomy": 4,
 "Physics": 4,
-"Biology": 3
+"Biology": 4
 },
 "cats": {
 "History": 20,
 "Finance": 1,
 "Pop Culture": 20,
-"Math": 19,
+"Math": 20,
 "Food & Culture": 20,
-"Sports": 20,
-"Science": 20,
-"Geography": 19,
-"Nature": 19,
+"Sports": 21,
+"Science": 21,
+"Geography": 20,
+"Nature": 20,
 "Technology": 20
 }
 }
