@@ -167,7 +167,12 @@
 "964b0fcee8138258df1f96300398c598caa0eea1",
 "2560f21bcf9786c739d157e4b0d3c1edbc10808e",
 "c63c08f24d135d5c7fc98786aa27bbe62b7110ff",
-"b64efe57c89dbee4cfe36be72114ece9cb4de54f"
+"b64efe57c89dbee4cfe36be72114ece9cb4de54f",
+"02373713271df0829cc2765eb986ddf60d69f0dd",
+"47ee0b2375b9c244f31ae4459266372ed7d7d462",
+"a98f4b97487ab54ad048b25726420cc948162417",
+"a3efbec9ed48e79f0379849f72d7d3d0dc1557ab",
+"c3ee47d4dfe9121834436fa19fa48abfaaebb4d3"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -337,7 +342,12 @@
 "Which euro coin has a picture of Europa on it?",
 "What did the immortal Gilgamesh seek?",
 "What cosmic phenomenon forms a supernova remnant?",
-"What is the longest move in chess?"
+"What is the longest move in chess?",
+"What city in Blade Runner has no name?",
+"What does a Turing machine do?",
+"What do mangrove roots help prevent during high tide?",
+"What type of structure are pagodas traditionally?",
+"What Tibetan Buddhist practice involves circling a stupa?"
 ],
 "answers": [
 "picasso",
@@ -497,7 +507,12 @@
 "20cent coin",
 "extending life",
 "supersonic winds",
-"34 moves"
+"34 moves",
+"los angeles",
+"computes functions",
+"saltwater intrusion",
+"chinese temple",
+"chanting mantras"
 ],
 "subjects": [
 "cubism",
@@ -657,18 +672,23 @@
 "euro coin",
 "fates of immortals",
 "supernova remnant",
-"chess knight"
+"chess knight",
+"blade runner city",
+"turing completeness",
+"mangrove",
+"pagoda",
+"tibetan buddhism"
 ],
 "subtopics": {
 "World History": 5,
 "Business and Trade": 1,
 "Art and Painting": 4,
-"Mathematics": 17,
+"Mathematics": 18,
 "Languages and Alphabets": 6,
 "Sports and Olympics": 9,
 "Chemistry": 3,
 "Oceans, Rivers and Mountains": 5,
-"Plants and Trees": 5,
+"Plants and Trees": 6,
 "Transport and Vehicles": 6,
 "Currencies and Flags": 5,
 "Everyday Science": 3,
@@ -677,7 +697,7 @@
 "World Records": 9,
 "Weather and Climate": 6,
 "Music": 5,
-"Architecture and Landmarks": 5,
+"Architecture and Landmarks": 6,
 "Animals and Wildlife": 6,
 "Human Body": 3,
 "Technology and Computers": 6,
@@ -686,22 +706,22 @@
 "Literature and Authors": 4,
 "Mythology": 6,
 "Countries and Capitals": 4,
-"Movies and Cinema (general)": 4,
-"Ancient Civilizations": 4,
+"Movies and Cinema (general)": 5,
+"Ancient Civilizations": 5,
 "Space and Astronomy": 3,
 "Physics": 3,
 "Biology": 3
 },
 "cats": {
-"History": 17,
+"History": 18,
 "Finance": 1,
-"Pop Culture": 17,
-"Math": 17,
+"Pop Culture": 18,
+"Math": 18,
 "Food & Culture": 18,
 "Sports": 18,
 "Science": 18,
 "Geography": 18,
-"Nature": 17,
-"Technology": 17
+"Nature": 18,
+"Technology": 18
 }
 }
