@@ -177,7 +177,12 @@
 "bf8dfade7e5ab0a6a13738901f045e3406ba4282",
 "ba2ecafd3c7cf55833ced622124d2b1e12775935",
 "847d3e769135339e9ccb22f6147411e7ed44e160",
-"a160738c4ed38e1a312b36169c0a7b84f867e15f"
+"a160738c4ed38e1a312b36169c0a7b84f867e15f",
+"7a27031872cd76087cee1c94f5f906ab11681c8c",
+"197226500440faf5794ffd82470b8dede2bdfed6",
+"d3aef0d9463e1ec393623aa0473c4e05ace1b510",
+"be2ce161b9b7a94d14869f98137449fd808a713a",
+"1f1145d8cd1d1bedbc1cb584e1954ce4fd7df0cd"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -357,7 +362,12 @@
 "Which Indian author wrote 'The God of Small Things'??",
 "What color is the yellow belt in Judo?",
 "What symbol represents the vowel 'u' in hiragana?",
-"What pattern is found in Pascal's triangle that predicts prime numbers?"
+"What pattern is found in Pascal's triangle that predicts prime numbers?",
+"What is the Schwarzschild radius of a black hole?",
+"Which country uses the Suez Canal for maritime trade?",
+"What does AR glasses use to track your face?",
+"What type of texture does the bark of a pine tree have?",
+"What ancient invention used by Velociraptors was discovered in Mongolia?"
 ],
 "answers": [
 "picasso",
@@ -527,7 +537,12 @@
 "shirley jackson",
 "kigaram",
 "u",
-"fibonacci sequence"
+"fibonacci sequence",
+"3 km",
+"egypt",
+"ir sensors",
+"serrated",
+"scythe claw fossil"
 ],
 "subjects": [
 "cubism",
@@ -697,7 +712,12 @@
 "indian art",
 "judo belt",
 "hiragana",
-"pascals triangle"
+"pascals triangle",
+"black hole event",
+"suez canal",
+"ar glasses",
+"tree bark texture",
+"velociraptor fossil"
 ],
 "subtopics": {
 "World History": 5,
@@ -708,11 +728,11 @@
 "Sports and Olympics": 10,
 "Chemistry": 3,
 "Oceans, Rivers and Mountains": 5,
-"Plants and Trees": 6,
+"Plants and Trees": 7,
 "Transport and Vehicles": 6,
 "Currencies and Flags": 5,
 "Everyday Science": 3,
-"Famous Inventions": 4,
+"Famous Inventions": 5,
 "Food and Drinks": 6,
 "World Records": 9,
 "Weather and Climate": 6,
@@ -720,28 +740,28 @@
 "Architecture and Landmarks": 6,
 "Animals and Wildlife": 6,
 "Human Body": 3,
-"Technology and Computers": 6,
+"Technology and Computers": 7,
 "Famous Scientists": 5,
 "World Geography": 4,
 "Literature and Authors": 5,
 "Mythology": 6,
-"Countries and Capitals": 4,
+"Countries and Capitals": 5,
 "Movies and Cinema (general)": 5,
 "Ancient Civilizations": 5,
-"Space and Astronomy": 3,
+"Space and Astronomy": 4,
 "Physics": 3,
 "Biology": 3
 },
 "cats": {
-"History": 19,
+"History": 20,
 "Finance": 1,
 "Pop Culture": 19,
 "Math": 19,
 "Food & Culture": 19,
 "Sports": 19,
-"Science": 18,
-"Geography": 18,
-"Nature": 18,
-"Technology": 18
+"Science": 19,
+"Geography": 19,
+"Nature": 19,
+"Technology": 19
 }
 }
