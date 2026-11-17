@@ -172,7 +172,12 @@
 "47ee0b2375b9c244f31ae4459266372ed7d7d462",
 "a98f4b97487ab54ad048b25726420cc948162417",
 "a3efbec9ed48e79f0379849f72d7d3d0dc1557ab",
-"c3ee47d4dfe9121834436fa19fa48abfaaebb4d3"
+"c3ee47d4dfe9121834436fa19fa48abfaaebb4d3",
+"708ea0e3e4a1191f3b4cc8de28f0ee96db16aa49",
+"bf8dfade7e5ab0a6a13738901f045e3406ba4282",
+"ba2ecafd3c7cf55833ced622124d2b1e12775935",
+"847d3e769135339e9ccb22f6147411e7ed44e160",
+"a160738c4ed38e1a312b36169c0a7b84f867e15f"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -347,7 +352,12 @@
 "What does a Turing machine do?",
 "What do mangrove roots help prevent during high tide?",
 "What type of structure are pagodas traditionally?",
-"What Tibetan Buddhist practice involves circling a stupa?"
+"What Tibetan Buddhist practice involves circling a stupa?",
+"Who is known for the cat paradox?",
+"Which Indian author wrote 'The God of Small Things'??",
+"What color is the yellow belt in Judo?",
+"What symbol represents the vowel 'u' in hiragana?",
+"What pattern is found in Pascal's triangle that predicts prime numbers?"
 ],
 "answers": [
 "picasso",
@@ -512,7 +522,12 @@
 "computes functions",
 "saltwater intrusion",
 "chinese temple",
-"chanting mantras"
+"chanting mantras",
+"schrodinger",
+"shirley jackson",
+"kigaram",
+"u",
+"fibonacci sequence"
 ],
 "subjects": [
 "cubism",
@@ -677,15 +692,20 @@
 "turing completeness",
 "mangrove",
 "pagoda",
-"tibetan buddhism"
+"tibetan buddhism",
+"schrodinger q",
+"indian art",
+"judo belt",
+"hiragana",
+"pascals triangle"
 ],
 "subtopics": {
 "World History": 5,
 "Business and Trade": 1,
 "Art and Painting": 4,
-"Mathematics": 18,
-"Languages and Alphabets": 6,
-"Sports and Olympics": 9,
+"Mathematics": 19,
+"Languages and Alphabets": 7,
+"Sports and Olympics": 10,
 "Chemistry": 3,
 "Oceans, Rivers and Mountains": 5,
 "Plants and Trees": 6,
@@ -701,9 +721,9 @@
 "Animals and Wildlife": 6,
 "Human Body": 3,
 "Technology and Computers": 6,
-"Famous Scientists": 4,
+"Famous Scientists": 5,
 "World Geography": 4,
-"Literature and Authors": 4,
+"Literature and Authors": 5,
 "Mythology": 6,
 "Countries and Capitals": 4,
 "Movies and Cinema (general)": 5,
@@ -713,12 +733,12 @@
 "Biology": 3
 },
 "cats": {
-"History": 18,
+"History": 19,
 "Finance": 1,
-"Pop Culture": 18,
-"Math": 18,
-"Food & Culture": 18,
-"Sports": 18,
+"Pop Culture": 19,
+"Math": 19,
+"Food & Culture": 19,
+"Sports": 19,
 "Science": 18,
 "Geography": 18,
 "Nature": 18,
