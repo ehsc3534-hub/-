@@ -182,7 +182,12 @@
 "197226500440faf5794ffd82470b8dede2bdfed6",
 "d3aef0d9463e1ec393623aa0473c4e05ace1b510",
 "be2ce161b9b7a94d14869f98137449fd808a713a",
-"1f1145d8cd1d1bedbc1cb584e1954ce4fd7df0cd"
+"1f1145d8cd1d1bedbc1cb584e1954ce4fd7df0cd",
+"4df38b8493438713d390d22bfdcfc4535d0c80c8",
+"1594a1640465e281a73c39d2413901ce9c169be2",
+"688fd1856f87a626c36823a11b6e7eb2b2d7abea",
+"9c22144bc1043f059d6a767441e7c5006e0e3155",
+"81085d64e8ceeefdab47cfe99756be04622f2696"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -367,7 +372,12 @@
 "Which country uses the Suez Canal for maritime trade?",
 "What does AR glasses use to track your face?",
 "What type of texture does the bark of a pine tree have?",
-"What ancient invention used by Velociraptors was discovered in Mongolia?"
+"What ancient invention used by Velociraptors was discovered in Mongolia?",
+"What does the term 'electron cloud' describe?",
+"What is the hour hand pointing to on a Surrealist clock?",
+"What celestial body did ancient Greeks worship as Eos?",
+"What did the ancient Greeks honor on Palm Sunday?",
+"What subway line runs through New York City's Financial District?"
 ],
 "answers": [
 "picasso",
@@ -542,7 +552,12 @@
 "egypt",
 "ir sensors",
 "serrated",
-"scythe claw fossil"
+"scythe claw fossil",
+"orbitals",
+"four",
+"the dawn",
+"jesus christ",
+"f"
 ],
 "subjects": [
 "cubism",
@@ -717,24 +732,29 @@
 "suez canal",
 "ar glasses",
 "tree bark texture",
-"velociraptor fossil"
+"velociraptor fossil",
+"electron cloud",
+"surrealist clock",
+"eos",
+"palm sunday",
+"subway line"
 ],
 "subtopics": {
 "World History": 5,
 "Business and Trade": 1,
-"Art and Painting": 4,
+"Art and Painting": 5,
 "Mathematics": 19,
 "Languages and Alphabets": 7,
 "Sports and Olympics": 10,
 "Chemistry": 3,
 "Oceans, Rivers and Mountains": 5,
 "Plants and Trees": 7,
-"Transport and Vehicles": 6,
+"Transport and Vehicles": 7,
 "Currencies and Flags": 5,
 "Everyday Science": 3,
 "Famous Inventions": 5,
 "Food and Drinks": 6,
-"World Records": 9,
+"World Records": 10,
 "Weather and Climate": 6,
 "Music": 5,
 "Architecture and Landmarks": 6,
@@ -744,24 +764,24 @@
 "Famous Scientists": 5,
 "World Geography": 4,
 "Literature and Authors": 5,
-"Mythology": 6,
+"Mythology": 7,
 "Countries and Capitals": 5,
 "Movies and Cinema (general)": 5,
 "Ancient Civilizations": 5,
 "Space and Astronomy": 4,
-"Physics": 3,
+"Physics": 4,
 "Biology": 3
 },
 "cats": {
 "History": 20,
 "Finance": 1,
-"Pop Culture": 19,
+"Pop Culture": 20,
 "Math": 19,
-"Food & Culture": 19,
-"Sports": 19,
-"Science": 19,
+"Food & Culture": 20,
+"Sports": 20,
+"Science": 20,
 "Geography": 19,
 "Nature": 19,
-"Technology": 19
+"Technology": 20
 }
 }
