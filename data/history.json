@@ -202,7 +202,12 @@
 "18f99ae25d39b704d96ed883c6d306d54cdf8616",
 "feb0a92e55c3cfff2bf0e0e3b0f29bdaa9ede829",
 "df8f277bc4f347e91721646475af238ffff2ceb8",
-"739e2e7c251323c9ebd01512696f54276ee7ff46"
+"739e2e7c251323c9ebd01512696f54276ee7ff46",
+"75c6fdd51e63ca681aa3653fce0746f95619e0da",
+"c3f5fe543d43e4c8df6b1c0e261941711dc65ae3",
+"ee8dce17cd31cb126432e4c0b266c2abc617a7c2",
+"dfa2bc0c37569bd7326acb2c93570f9a6e156190",
+"4ccdc80ad9f99d2ce89df260a41c9f0dd55f0da3"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -407,7 +412,12 @@
 "What country uses the Norwegian Krone Bill?",
 "What does wind chime vibration stimulate in the body?",
 "What geometric shape has exactly four sides?",
-"Where do koalas sleep during the day?"
+"Where do koalas sleep during the day?",
+"What did Genghis Khan unify?",
+"What can hold the most computer memory in gigabytes?",
+"What shape is the Baltic Sea coastline?",
+"What symbol represents Klingon for 'mother'?",
+"What technology enhances video games with virtual objects in real-time?"
 ],
 "answers": [
 "picasso",
@@ -602,7 +612,12 @@
 "norway",
 "hearts",
 "rectangle",
-"eucalyptus tree forks"
+"eucalyptus tree forks",
+"mongolia",
+"100 gigaflops",
+"sshaped",
+"gha",
+"ar augmented reality"
 ],
 "subjects": [
 "cubism",
@@ -797,30 +812,35 @@
 "norwegian krone bill",
 "wind chime",
 "descartes rules",
-"koala habitat"
+"koala habitat",
+"genghis khan",
+"gigaflop",
+"baltic sea",
+"klingon language",
+"augmented reality"
 ],
 "subtopics": {
-"World History": 5,
+"World History": 6,
 "Business and Trade": 1,
 "Art and Painting": 5,
 "Mathematics": 22,
-"Languages and Alphabets": 7,
+"Languages and Alphabets": 8,
 "Sports and Olympics": 11,
 "Chemistry": 3,
-"Oceans, Rivers and Mountains": 5,
+"Oceans, Rivers and Mountains": 6,
 "Plants and Trees": 7,
 "Transport and Vehicles": 7,
 "Currencies and Flags": 6,
 "Everyday Science": 3,
 "Famous Inventions": 5,
 "Food and Drinks": 7,
-"World Records": 10,
+"World Records": 11,
 "Weather and Climate": 7,
 "Music": 5,
 "Architecture and Landmarks": 7,
 "Animals and Wildlife": 8,
 "Human Body": 4,
-"Technology and Computers": 7,
+"Technology and Computers": 8,
 "Famous Scientists": 5,
 "World Geography": 5,
 "Literature and Authors": 5,
@@ -833,15 +853,15 @@
 "Biology": 4
 },
 "cats": {
-"History": 21,
+"History": 22,
 "Finance": 1,
 "Pop Culture": 21,
 "Math": 22,
-"Food & Culture": 21,
-"Sports": 21,
+"Food & Culture": 22,
+"Sports": 22,
 "Science": 22,
-"Geography": 21,
+"Geography": 22,
 "Nature": 22,
-"Technology": 21
+"Technology": 22
 }
 }
