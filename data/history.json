@@ -207,7 +207,12 @@
 "c3f5fe543d43e4c8df6b1c0e261941711dc65ae3",
 "ee8dce17cd31cb126432e4c0b266c2abc617a7c2",
 "dfa2bc0c37569bd7326acb2c93570f9a6e156190",
-"4ccdc80ad9f99d2ce89df260a41c9f0dd55f0da3"
+"4ccdc80ad9f99d2ce89df260a41c9f0dd55f0da3",
+"4195d4aca4182d683a4a073cf29aec4730eb0527",
+"41c5be64587e2ecf0a903fb40647d044cb579cab",
+"9157afed791093326ac646e65ffe9f40d5191899",
+"4e3fec40fb87b4ec5a7c3f30a10f4265a7970065",
+"663d8d966dcd14a12b18262032115d84d5577881"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -417,7 +422,12 @@
 "What can hold the most computer memory in gigabytes?",
 "What shape is the Baltic Sea coastline?",
 "What symbol represents Klingon for 'mother'?",
-"What technology enhances video games with virtual objects in real-time?"
+"What technology enhances video games with virtual objects in real-time?",
+"What type of dance inspired the Samba music style?",
+"What event broke the sabre toad world record?",
+"What does a catalyst speed up in a chemical reaction?",
+"What is the design inspiration for Sydney Opera House?",
+"What causes the Great Rift Valley's formation?"
 ],
 "answers": [
 "picasso",
@@ -617,7 +627,12 @@
 "100 gigaflops",
 "sshaped",
 "gha",
-"ar augmented reality"
+"ar augmented reality",
+"brazilian",
+"long jump",
+"reactions",
+"whales",
+"tectonic plates"
 ],
 "subjects": [
 "cubism",
@@ -817,7 +832,12 @@
 "gigaflop",
 "baltic sea",
 "klingon language",
-"augmented reality"
+"augmented reality",
+"samba dancer",
+"sabre toad",
+"catalysis",
+"sydney opera",
+"great rift"
 ],
 "subtopics": {
 "World History": 6,
@@ -826,7 +846,7 @@
 "Mathematics": 22,
 "Languages and Alphabets": 8,
 "Sports and Olympics": 11,
-"Chemistry": 3,
+"Chemistry": 4,
 "Oceans, Rivers and Mountains": 6,
 "Plants and Trees": 7,
 "Transport and Vehicles": 7,
@@ -834,15 +854,15 @@
 "Everyday Science": 3,
 "Famous Inventions": 5,
 "Food and Drinks": 7,
-"World Records": 11,
+"World Records": 12,
 "Weather and Climate": 7,
-"Music": 5,
-"Architecture and Landmarks": 7,
+"Music": 6,
+"Architecture and Landmarks": 8,
 "Animals and Wildlife": 8,
 "Human Body": 4,
 "Technology and Computers": 8,
 "Famous Scientists": 5,
-"World Geography": 5,
+"World Geography": 6,
 "Literature and Authors": 5,
 "Mythology": 7,
 "Countries and Capitals": 5,
@@ -855,13 +875,13 @@
 "cats": {
 "History": 22,
 "Finance": 1,
-"Pop Culture": 21,
+"Pop Culture": 22,
 "Math": 22,
 "Food & Culture": 22,
-"Sports": 22,
-"Science": 22,
-"Geography": 22,
+"Sports": 23,
+"Science": 23,
+"Geography": 23,
 "Nature": 22,
-"Technology": 22
+"Technology": 23
 }
 }
