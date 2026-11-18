@@ -217,7 +217,12 @@
 "55d1c269846c0c06115c5481318d7551834401d1",
 "ccf488f38f601d6d7a7f1b3fd418c77cf34da6e1",
 "e6a027e27b30e0c92310bff5605a59caf1a6dfd6",
-"fb800f8a619ed9c607c218b292f722e12580f56e"
+"fb800f8a619ed9c607c218b292f722e12580f56e",
+"19a349e17830f80a338a703c75250b9ed00e50ee",
+"f782636a69cd74a22ba64d821b99c88d579e99d8",
+"cfe9877df833a608bd1319ba1825f398ad78aa69",
+"ae53653d57dc1e15e09d352b00a71d20fb16dd3a",
+"0cf290d1e0b8420463df591f98602d5440e53659"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -437,7 +442,12 @@
 "What causes frost pockets?",
 "What ancient mythological item is shaped like a helmet?",
 "What shape are Koch snowflake borders?",
-"What did Hawking use to calculate black hole entropy?"
+"What did Hawking use to calculate black hole entropy?",
+"Which company first invented the fire extinguisher?",
+"What type of vehicle is known for the term 'scooter'?",
+"What position did Kevin Durant play for Golden State Warriors?",
+"What type of Baozi is commonly served steamed?",
+"What do willow trees do in winter?"
 ],
 "answers": [
 "picasso",
@@ -647,7 +657,12 @@
 "cool air currents",
 "frost giants helmet",
 "hexagons",
-"bekensteinhawking formula"
+"bekensteinhawking formula",
+"ge",
+"electric scooter",
+"sf",
+"steamed baozi",
+"stay green"
 ],
 "subjects": [
 "cubism",
@@ -857,7 +872,12 @@
 "frost pocket",
 "frost giants helmet",
 "koch snowflake",
-"stephen hawking"
+"stephen hawking",
+"fire extinguisher",
+"scooter",
+"golden state warriors",
+"baozi",
+"willow tree"
 ],
 "subtopics": {
 "World History": 6,
@@ -865,15 +885,15 @@
 "Art and Painting": 6,
 "Mathematics": 23,
 "Languages and Alphabets": 8,
-"Sports and Olympics": 11,
+"Sports and Olympics": 12,
 "Chemistry": 4,
 "Oceans, Rivers and Mountains": 6,
-"Plants and Trees": 7,
-"Transport and Vehicles": 7,
+"Plants and Trees": 8,
+"Transport and Vehicles": 8,
 "Currencies and Flags": 6,
 "Everyday Science": 3,
-"Famous Inventions": 5,
-"Food and Drinks": 7,
+"Famous Inventions": 6,
+"Food and Drinks": 8,
 "World Records": 12,
 "Weather and Climate": 8,
 "Music": 6,
@@ -893,15 +913,15 @@
 "Biology": 4
 },
 "cats": {
-"History": 23,
+"History": 24,
 "Finance": 1,
 "Pop Culture": 23,
 "Math": 23,
-"Food & Culture": 23,
-"Sports": 23,
+"Food & Culture": 24,
+"Sports": 24,
 "Science": 23,
 "Geography": 23,
-"Nature": 23,
-"Technology": 23
+"Nature": 24,
+"Technology": 24
 }
 }
