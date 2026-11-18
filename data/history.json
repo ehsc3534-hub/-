@@ -197,7 +197,12 @@
 "cc4718d71dac74886682b45814352d6379d699c7",
 "99e417efa2a25a648a228ca37047595330803ec1",
 "05abad4005912707d89c8ceb17ff5f88dd651c18",
-"e29438eb3ae0a1eaa1c9adb0e2de7787994aa7ef"
+"e29438eb3ae0a1eaa1c9adb0e2de7787994aa7ef",
+"0e900f00a87a8e991f15c895f0325ec66c7770f5",
+"18f99ae25d39b704d96ed883c6d306d54cdf8616",
+"feb0a92e55c3cfff2bf0e0e3b0f29bdaa9ede829",
+"df8f277bc4f347e91721646475af238ffff2ceb8",
+"739e2e7c251323c9ebd01512696f54276ee7ff46"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -397,7 +402,12 @@
 "What is the main cause of Inca mummies?",
 "What material is the Statue of Liberty made of?",
 "What is the main ingredient in Kobe beef?",
-"What connects all vertices in a complete graph with 4 nodes?"
+"What connects all vertices in a complete graph with 4 nodes?",
+"What creature served as the model for the Velociraptor in Jurassic Park?",
+"What country uses the Norwegian Krone Bill?",
+"What does wind chime vibration stimulate in the body?",
+"What geometric shape has exactly four sides?",
+"Where do koalas sleep during the day?"
 ],
 "answers": [
 "picasso",
@@ -587,7 +597,12 @@
 "burial rites",
 "bronze",
 "kobe cattle",
-"6 edges"
+"6 edges",
+"trex",
+"norway",
+"hearts",
+"rectangle",
+"eucalyptus tree forks"
 ],
 "subjects": [
 "cubism",
@@ -777,20 +792,25 @@
 "inca mummies",
 "statue of liberty",
 "kobe beef",
-"graph theory"
+"graph theory",
+"jurassic park",
+"norwegian krone bill",
+"wind chime",
+"descartes rules",
+"koala habitat"
 ],
 "subtopics": {
 "World History": 5,
 "Business and Trade": 1,
 "Art and Painting": 5,
-"Mathematics": 21,
+"Mathematics": 22,
 "Languages and Alphabets": 7,
 "Sports and Olympics": 11,
 "Chemistry": 3,
 "Oceans, Rivers and Mountains": 5,
 "Plants and Trees": 7,
 "Transport and Vehicles": 7,
-"Currencies and Flags": 5,
+"Currencies and Flags": 6,
 "Everyday Science": 3,
 "Famous Inventions": 5,
 "Food and Drinks": 7,
@@ -798,15 +818,15 @@
 "Weather and Climate": 7,
 "Music": 5,
 "Architecture and Landmarks": 7,
-"Animals and Wildlife": 7,
-"Human Body": 3,
+"Animals and Wildlife": 8,
+"Human Body": 4,
 "Technology and Computers": 7,
 "Famous Scientists": 5,
 "World Geography": 5,
 "Literature and Authors": 5,
 "Mythology": 7,
 "Countries and Capitals": 5,
-"Movies and Cinema (general)": 5,
+"Movies and Cinema (general)": 6,
 "Ancient Civilizations": 6,
 "Space and Astronomy": 4,
 "Physics": 4,
@@ -815,13 +835,13 @@
 "cats": {
 "History": 21,
 "Finance": 1,
-"Pop Culture": 20,
-"Math": 21,
+"Pop Culture": 21,
+"Math": 22,
 "Food & Culture": 21,
 "Sports": 21,
-"Science": 21,
-"Geography": 20,
-"Nature": 21,
+"Science": 22,
+"Geography": 21,
+"Nature": 22,
 "Technology": 21
 }
 }
