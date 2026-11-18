@@ -192,7 +192,12 @@
 "766eca4f3a4de8f33f11c37c10ec855ffe2246fc",
 "84e6aac3ab4e46ee24b0a7f6525e512d5c02d0dd",
 "3f041a83da7d1a83be3293c2ac60747cab6bac69",
-"e3845d065dc546e3173ad341d88a6cd0a0d45b65"
+"e3845d065dc546e3173ad341d88a6cd0a0d45b65",
+"edc9781229b31185f41fd7a729a8609770bc85da",
+"cc4718d71dac74886682b45814352d6379d699c7",
+"99e417efa2a25a648a228ca37047595330803ec1",
+"05abad4005912707d89c8ceb17ff5f88dd651c18",
+"e29438eb3ae0a1eaa1c9adb0e2de7787994aa7ef"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -387,7 +392,12 @@
 "What is the Leaning Tower of Pisa famous for?",
 "What drives the formation of ocean gyres?",
 "What genetic trait causes curly hair in humans?",
-"Who won the gold medal for the men's 100m sprint at Tokyo 2020?"
+"Who won the gold medal for the men's 100m sprint at Tokyo 2020?",
+"What do elephant seals use for drinking water?",
+"What is the main cause of Inca mummies?",
+"What material is the Statue of Liberty made of?",
+"What is the main ingredient in Kobe beef?",
+"What connects all vertices in a complete graph with 4 nodes?"
 ],
 "answers": [
 "picasso",
@@ -572,7 +582,12 @@
 "tilted",
 "wind currents",
 "curliness",
-"joshua long"
+"joshua long",
+"fat reserves",
+"burial rites",
+"bronze",
+"kobe cattle",
+"6 edges"
 ],
 "subjects": [
 "cubism",
@@ -757,13 +772,18 @@
 "italy leaning tower",
 "ocean currents",
 "genetic diversity",
-"tokyo 2020"
+"tokyo 2020",
+"elephant seal",
+"inca mummies",
+"statue of liberty",
+"kobe beef",
+"graph theory"
 ],
 "subtopics": {
 "World History": 5,
 "Business and Trade": 1,
 "Art and Painting": 5,
-"Mathematics": 20,
+"Mathematics": 21,
 "Languages and Alphabets": 7,
 "Sports and Olympics": 11,
 "Chemistry": 3,
@@ -773,12 +793,12 @@
 "Currencies and Flags": 5,
 "Everyday Science": 3,
 "Famous Inventions": 5,
-"Food and Drinks": 6,
+"Food and Drinks": 7,
 "World Records": 10,
 "Weather and Climate": 7,
 "Music": 5,
-"Architecture and Landmarks": 6,
-"Animals and Wildlife": 6,
+"Architecture and Landmarks": 7,
+"Animals and Wildlife": 7,
 "Human Body": 3,
 "Technology and Computers": 7,
 "Famous Scientists": 5,
@@ -787,21 +807,21 @@
 "Mythology": 7,
 "Countries and Capitals": 5,
 "Movies and Cinema (general)": 5,
-"Ancient Civilizations": 5,
+"Ancient Civilizations": 6,
 "Space and Astronomy": 4,
 "Physics": 4,
 "Biology": 4
 },
 "cats": {
-"History": 20,
+"History": 21,
 "Finance": 1,
 "Pop Culture": 20,
-"Math": 20,
-"Food & Culture": 20,
+"Math": 21,
+"Food & Culture": 21,
 "Sports": 21,
 "Science": 21,
 "Geography": 20,
-"Nature": 20,
-"Technology": 20
+"Nature": 21,
+"Technology": 21
 }
 }
