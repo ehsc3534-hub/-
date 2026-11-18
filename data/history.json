@@ -212,7 +212,12 @@
 "41c5be64587e2ecf0a903fb40647d044cb579cab",
 "9157afed791093326ac646e65ffe9f40d5191899",
 "4e3fec40fb87b4ec5a7c3f30a10f4265a7970065",
-"663d8d966dcd14a12b18262032115d84d5577881"
+"663d8d966dcd14a12b18262032115d84d5577881",
+"9fa262ee137d3e4e31615ea38eca3c2c70d3c186",
+"55d1c269846c0c06115c5481318d7551834401d1",
+"ccf488f38f601d6d7a7f1b3fd418c77cf34da6e1",
+"e6a027e27b30e0c92310bff5605a59caf1a6dfd6",
+"fb800f8a619ed9c607c218b292f722e12580f56e"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -427,7 +432,12 @@
 "What event broke the sabre toad world record?",
 "What does a catalyst speed up in a chemical reaction?",
 "What is the design inspiration for Sydney Opera House?",
-"What causes the Great Rift Valley's formation?"
+"What causes the Great Rift Valley's formation?",
+"What type of art is the Aztec skull mask?",
+"What causes frost pockets?",
+"What ancient mythological item is shaped like a helmet?",
+"What shape are Koch snowflake borders?",
+"What did Hawking use to calculate black hole entropy?"
 ],
 "answers": [
 "picasso",
@@ -632,7 +642,12 @@
 "long jump",
 "reactions",
 "whales",
-"tectonic plates"
+"tectonic plates",
+"sculpture",
+"cool air currents",
+"frost giants helmet",
+"hexagons",
+"bekensteinhawking formula"
 ],
 "subjects": [
 "cubism",
@@ -837,13 +852,18 @@
 "sabre toad",
 "catalysis",
 "sydney opera",
-"great rift"
+"great rift",
+"aztec skull",
+"frost pocket",
+"frost giants helmet",
+"koch snowflake",
+"stephen hawking"
 ],
 "subtopics": {
 "World History": 6,
 "Business and Trade": 1,
-"Art and Painting": 5,
-"Mathematics": 22,
+"Art and Painting": 6,
+"Mathematics": 23,
 "Languages and Alphabets": 8,
 "Sports and Olympics": 11,
 "Chemistry": 4,
@@ -855,16 +875,16 @@
 "Famous Inventions": 5,
 "Food and Drinks": 7,
 "World Records": 12,
-"Weather and Climate": 7,
+"Weather and Climate": 8,
 "Music": 6,
 "Architecture and Landmarks": 8,
 "Animals and Wildlife": 8,
 "Human Body": 4,
 "Technology and Computers": 8,
-"Famous Scientists": 5,
+"Famous Scientists": 6,
 "World Geography": 6,
 "Literature and Authors": 5,
-"Mythology": 7,
+"Mythology": 8,
 "Countries and Capitals": 5,
 "Movies and Cinema (general)": 6,
 "Ancient Civilizations": 6,
@@ -873,15 +893,15 @@
 "Biology": 4
 },
 "cats": {
-"History": 22,
+"History": 23,
 "Finance": 1,
-"Pop Culture": 22,
-"Math": 22,
-"Food & Culture": 22,
+"Pop Culture": 23,
+"Math": 23,
+"Food & Culture": 23,
 "Sports": 23,
 "Science": 23,
 "Geography": 23,
-"Nature": 22,
+"Nature": 23,
 "Technology": 23
 }
 }
