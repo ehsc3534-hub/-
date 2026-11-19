@@ -227,7 +227,12 @@
 "b07d060354777d1787dee886fe1bf02d7a740fac",
 "effb2f287df9b93c68c15f24bcd00e630903d408",
 "7fea1676ddcc09f0770e5d4e13b9cdeaea5e434f",
-"af764ff082d6c203d7880a47d86bdbdcf1396b06"
+"af764ff082d6c203d7880a47d86bdbdcf1396b06",
+"e3c29b9b206c64d437095cec3a74128cb4382063",
+"64a3e5f548c3ed77368b2687173b8cf813ac7983",
+"3548c2e93c8eea683d4b20bbeea99e2ce68de17c",
+"300a18cb8a9572c3644a959ed8279f4e61fc32fb",
+"1a275c0de2146a90bffc9b0db21f3558df38fc76"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -457,7 +462,12 @@
 "What causes the beautiful colors in a sunset?",
 "Who wrote the epic 'Agni' poetry?",
 "What country makes the Ferrari 488?",
-"What did Thomas Edison invent that made it easier to hear music?"
+"What did Thomas Edison invent that made it easier to hear music?",
+"What type of grass is cattail?",
+"What line on the subway map goes to Chinatown?",
+"What river passes through Tanzania and Uganda?",
+"What record was set by the Apollo 11 mission?",
+"What caused the mass extinction of dinosaurs?"
 ],
 "answers": [
 "picasso",
@@ -677,7 +687,12 @@
 "sunlight scattering",
 "unknown",
 "italy",
-"gramophone"
+"gramophone",
+"prairie grass",
+"d",
+"nile river",
+"first moon landing",
+"volcanic activity"
 ],
 "subjects": [
 "cubism",
@@ -897,7 +912,12 @@
 "sunset",
 "agni",
 "ferrari 488",
-"thomas edison"
+"thomas edison",
+"cattail",
+"subway map",
+"nile river",
+"apollo 11",
+"dinosaur extinction"
 ],
 "subtopics": {
 "World History": 6,
@@ -907,14 +927,14 @@
 "Languages and Alphabets": 8,
 "Sports and Olympics": 12,
 "Chemistry": 4,
-"Oceans, Rivers and Mountains": 6,
-"Plants and Trees": 8,
-"Transport and Vehicles": 8,
+"Oceans, Rivers and Mountains": 7,
+"Plants and Trees": 9,
+"Transport and Vehicles": 9,
 "Currencies and Flags": 6,
 "Everyday Science": 4,
 "Famous Inventions": 6,
 "Food and Drinks": 8,
-"World Records": 12,
+"World Records": 13,
 "Weather and Climate": 8,
 "Music": 6,
 "Architecture and Landmarks": 8,
@@ -930,7 +950,7 @@
 "Ancient Civilizations": 6,
 "Space and Astronomy": 4,
 "Physics": 4,
-"Biology": 4
+"Biology": 5
 },
 "cats": {
 "History": 25,
@@ -938,10 +958,10 @@
 "Pop Culture": 24,
 "Math": 24,
 "Food & Culture": 24,
-"Sports": 24,
-"Science": 24,
-"Geography": 24,
-"Nature": 24,
-"Technology": 24
+"Sports": 25,
+"Science": 25,
+"Geography": 25,
+"Nature": 25,
+"Technology": 25
 }
 }
