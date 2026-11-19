@@ -222,7 +222,12 @@
 "f782636a69cd74a22ba64d821b99c88d579e99d8",
 "cfe9877df833a608bd1319ba1825f398ad78aa69",
 "ae53653d57dc1e15e09d352b00a71d20fb16dd3a",
-"0cf290d1e0b8420463df591f98602d5440e53659"
+"0cf290d1e0b8420463df591f98602d5440e53659",
+"9bfa57df39c566367eb49cc6294eeaeb7f3f49b2",
+"b07d060354777d1787dee886fe1bf02d7a740fac",
+"effb2f287df9b93c68c15f24bcd00e630903d408",
+"7fea1676ddcc09f0770e5d4e13b9cdeaea5e434f",
+"af764ff082d6c203d7880a47d86bdbdcf1396b06"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -447,7 +452,12 @@
 "What type of vehicle is known for the term 'scooter'?",
 "What position did Kevin Durant play for Golden State Warriors?",
 "What type of Baozi is commonly served steamed?",
-"What do willow trees do in winter?"
+"What do willow trees do in winter?",
+"What shape is a regular tetrahedron?",
+"What causes the beautiful colors in a sunset?",
+"Who wrote the epic 'Agni' poetry?",
+"What country makes the Ferrari 488?",
+"What did Thomas Edison invent that made it easier to hear music?"
 ],
 "answers": [
 "picasso",
@@ -662,7 +672,12 @@
 "electric scooter",
 "sf",
 "steamed baozi",
-"stay green"
+"stay green",
+"triangular",
+"sunlight scattering",
+"unknown",
+"italy",
+"gramophone"
 ],
 "subjects": [
 "cubism",
@@ -877,13 +892,18 @@
 "scooter",
 "golden state warriors",
 "baozi",
-"willow tree"
+"willow tree",
+"euclidean geometry",
+"sunset",
+"agni",
+"ferrari 488",
+"thomas edison"
 ],
 "subtopics": {
 "World History": 6,
 "Business and Trade": 1,
 "Art and Painting": 6,
-"Mathematics": 23,
+"Mathematics": 24,
 "Languages and Alphabets": 8,
 "Sports and Olympics": 12,
 "Chemistry": 4,
@@ -891,7 +911,7 @@
 "Plants and Trees": 8,
 "Transport and Vehicles": 8,
 "Currencies and Flags": 6,
-"Everyday Science": 3,
+"Everyday Science": 4,
 "Famous Inventions": 6,
 "Food and Drinks": 8,
 "World Records": 12,
@@ -901,11 +921,11 @@
 "Animals and Wildlife": 8,
 "Human Body": 4,
 "Technology and Computers": 8,
-"Famous Scientists": 6,
+"Famous Scientists": 7,
 "World Geography": 6,
-"Literature and Authors": 5,
+"Literature and Authors": 6,
 "Mythology": 8,
-"Countries and Capitals": 5,
+"Countries and Capitals": 6,
 "Movies and Cinema (general)": 6,
 "Ancient Civilizations": 6,
 "Space and Astronomy": 4,
@@ -913,14 +933,14 @@
 "Biology": 4
 },
 "cats": {
-"History": 24,
+"History": 25,
 "Finance": 1,
-"Pop Culture": 23,
-"Math": 23,
+"Pop Culture": 24,
+"Math": 24,
 "Food & Culture": 24,
 "Sports": 24,
-"Science": 23,
-"Geography": 23,
+"Science": 24,
+"Geography": 24,
 "Nature": 24,
 "Technology": 24
 }
