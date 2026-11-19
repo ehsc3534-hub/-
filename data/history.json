@@ -232,7 +232,12 @@
 "64a3e5f548c3ed77368b2687173b8cf813ac7983",
 "3548c2e93c8eea683d4b20bbeea99e2ce68de17c",
 "300a18cb8a9572c3644a959ed8279f4e61fc32fb",
-"1a275c0de2146a90bffc9b0db21f3558df38fc76"
+"1a275c0de2146a90bffc9b0db21f3558df38fc76",
+"103f546ce4a6089fdef58db3f0ee176fc1c57cbd",
+"b302de815d8e06803ecb2f89c628d8cce7bb1452",
+"148ba5a5196a1d95eca11648f2986e70b606ddf3",
+"b839d0f4422a9e9eddca600e36b33b96dca7d236",
+"1e015fa58dc3a41cf1c9dfa680548b3271e91aac"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -467,7 +472,12 @@
 "What line on the subway map goes to Chinatown?",
 "What river passes through Tanzania and Uganda?",
 "What record was set by the Apollo 11 mission?",
-"What caused the mass extinction of dinosaurs?"
+"What caused the mass extinction of dinosaurs?",
+"What does a Fourier series represent?",
+"Which medieval poet wrote 'The Canterbury Tales'?",
+"What ingredient is used in making Mandu roll?",
+"What do giraffes use their long necks for?",
+"What does the kwanza banknote feature on the back?"
 ],
 "answers": [
 "picasso",
@@ -692,7 +702,12 @@
 "d",
 "nile river",
 "first moon landing",
-"volcanic activity"
+"volcanic activity",
+"a function",
+"chaucer",
+"vegetables",
+"drink water",
+"ngg wa thiongo portrait"
 ],
 "subjects": [
 "cubism",
@@ -917,33 +932,38 @@
 "subway map",
 "nile river",
 "apollo 11",
-"dinosaur extinction"
+"dinosaur extinction",
+"fourier transform",
+"medieval literature",
+"mandu roll",
+"giraffe neck",
+"kwanza banknote"
 ],
 "subtopics": {
 "World History": 6,
 "Business and Trade": 1,
 "Art and Painting": 6,
-"Mathematics": 24,
+"Mathematics": 25,
 "Languages and Alphabets": 8,
 "Sports and Olympics": 12,
 "Chemistry": 4,
 "Oceans, Rivers and Mountains": 7,
 "Plants and Trees": 9,
 "Transport and Vehicles": 9,
-"Currencies and Flags": 6,
+"Currencies and Flags": 7,
 "Everyday Science": 4,
 "Famous Inventions": 6,
-"Food and Drinks": 8,
+"Food and Drinks": 9,
 "World Records": 13,
 "Weather and Climate": 8,
 "Music": 6,
 "Architecture and Landmarks": 8,
-"Animals and Wildlife": 8,
+"Animals and Wildlife": 9,
 "Human Body": 4,
 "Technology and Computers": 8,
 "Famous Scientists": 7,
 "World Geography": 6,
-"Literature and Authors": 6,
+"Literature and Authors": 7,
 "Mythology": 8,
 "Countries and Capitals": 6,
 "Movies and Cinema (general)": 6,
@@ -955,13 +975,13 @@
 "cats": {
 "History": 25,
 "Finance": 1,
-"Pop Culture": 24,
-"Math": 24,
-"Food & Culture": 24,
+"Pop Culture": 25,
+"Math": 25,
+"Food & Culture": 25,
 "Sports": 25,
 "Science": 25,
-"Geography": 25,
-"Nature": 25,
+"Geography": 26,
+"Nature": 26,
 "Technology": 25
 }
 }
