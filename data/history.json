@@ -247,7 +247,12 @@
 "1fbff4f021c66ca5af846765a48f32626bd790df",
 "06a832bd1d06caa7bc6716dfef9dc71a80e15733",
 "e5dfa9a527d9be3a35306a83f749da49767a76bf",
-"92f9586b955c5c4ae97faaa4b582b8f266af3953"
+"92f9586b955c5c4ae97faaa4b582b8f266af3953",
+"72b04b8fdc82f8eb0e799eaf29ef6f910e20e9a7",
+"b57843976dc5ad446b9c9ef015587cf5383d8b0e",
+"fa3e8734ddbe0cdd0192dc72564bbe62b874e052",
+"07e61ce83f9ce73351b5312b854e6a86d1f1d6ad",
+"680d1a706fb046a02b5b1946ce99cbf647469c26"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -497,7 +502,12 @@
 "What is the area of a circle inscribed within a square with side length 10 units?",
 "What do giant squids primarily eat?",
 "How are ice cores dated to determine the age of ice?",
-"What is the height to width ratio of a hockey goal?"
+"What is the height to width ratio of a hockey goal?",
+"What is the Babbage's machine's purpose?",
+"What is a cineaste known for?",
+"What is the capital city of Kangaroo Island?",
+"What language does Rosetta Stone help users learn?",
+"Who painted the Naples Ceiling?"
 ],
 "answers": [
 "picasso",
@@ -737,7 +747,12 @@
 "785",
 "fish and small squid",
 "by air layers",
-"75"
+"75",
+"calculating",
+"critique",
+"adelaide",
+"french",
+"giovanni batista ramoni"
 ],
 "subjects": [
 "cubism",
@@ -977,14 +992,19 @@
 "gauss circle problem",
 "giant squid",
 "ice core dating",
-"hockey arena"
+"hockey arena",
+"babbages machine",
+"cineaste",
+"kangaroo island",
+"rosetta stone",
+"naples ceiling"
 ],
 "subtopics": {
 "World History": 6,
 "Business and Trade": 1,
 "Art and Painting": 7,
-"Mathematics": 26,
-"Languages and Alphabets": 8,
+"Mathematics": 27,
+"Languages and Alphabets": 9,
 "Sports and Olympics": 14,
 "Chemistry": 4,
 "Oceans, Rivers and Mountains": 7,
@@ -997,16 +1017,16 @@
 "World Records": 13,
 "Weather and Climate": 9,
 "Music": 6,
-"Architecture and Landmarks": 8,
+"Architecture and Landmarks": 9,
 "Animals and Wildlife": 9,
 "Human Body": 5,
 "Technology and Computers": 9,
 "Famous Scientists": 7,
-"World Geography": 6,
+"World Geography": 7,
 "Literature and Authors": 7,
 "Mythology": 9,
 "Countries and Capitals": 6,
-"Movies and Cinema (general)": 6,
+"Movies and Cinema (general)": 7,
 "Ancient Civilizations": 6,
 "Space and Astronomy": 4,
 "Physics": 4,
@@ -1015,13 +1035,13 @@
 "cats": {
 "History": 26,
 "Finance": 1,
-"Pop Culture": 26,
-"Math": 26,
-"Food & Culture": 26,
+"Pop Culture": 27,
+"Math": 27,
+"Food & Culture": 27,
 "Sports": 27,
 "Science": 27,
-"Geography": 26,
+"Geography": 27,
 "Nature": 27,
-"Technology": 26
+"Technology": 27
 }
 }
