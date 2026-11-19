@@ -237,7 +237,12 @@
 "b302de815d8e06803ecb2f89c628d8cce7bb1452",
 "148ba5a5196a1d95eca11648f2986e70b606ddf3",
 "b839d0f4422a9e9eddca600e36b33b96dca7d236",
-"1e015fa58dc3a41cf1c9dfa680548b3271e91aac"
+"1e015fa58dc3a41cf1c9dfa680548b3271e91aac",
+"f01b027cc241346443cce5de4dcdd3c3248324b8",
+"58342e3ff7be58b82bae282525d41acfbd432855",
+"f92ce1ae376321481fdbaf41c495b6bee74ccb06",
+"d1f115e323206c133e1989bf4fa27e4283d506c6",
+"cb4caed7d11fe0262bd875d290d458e7a7e011b2"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -477,7 +482,12 @@
 "Which medieval poet wrote 'The Canterbury Tales'?",
 "What ingredient is used in making Mandu roll?",
 "What do giraffes use their long necks for?",
-"What does the kwanza banknote feature on the back?"
+"What does the kwanza banknote feature on the back?",
+"What did the Incas use for their quipus counting system?",
+"What is the goal of a Canadian curling team?",
+"What did the ancients associate with Gaea's Earth in Greek mythology?",
+"What is the fastest internet speed in China?",
+"What blood type is known for Rh negativity?"
 ],
 "answers": [
 "picasso",
@@ -707,7 +717,12 @@
 "chaucer",
 "vegetables",
 "drink water",
-"ngg wa thiongo portrait"
+"ngg wa thiongo portrait",
+"knots",
+"win the championship",
+"gaia",
+"5g",
+"a"
 ],
 "subjects": [
 "cubism",
@@ -937,7 +952,12 @@
 "medieval literature",
 "mandu roll",
 "giraffe neck",
-"kwanza banknote"
+"kwanza banknote",
+"computer vision",
+"canadian curling",
+"gaeas earth",
+"internet",
+"blood type"
 ],
 "subtopics": {
 "World History": 6,
@@ -945,26 +965,26 @@
 "Art and Painting": 6,
 "Mathematics": 25,
 "Languages and Alphabets": 8,
-"Sports and Olympics": 12,
+"Sports and Olympics": 13,
 "Chemistry": 4,
 "Oceans, Rivers and Mountains": 7,
 "Plants and Trees": 9,
 "Transport and Vehicles": 9,
 "Currencies and Flags": 7,
 "Everyday Science": 4,
-"Famous Inventions": 6,
+"Famous Inventions": 7,
 "Food and Drinks": 9,
 "World Records": 13,
 "Weather and Climate": 8,
 "Music": 6,
 "Architecture and Landmarks": 8,
 "Animals and Wildlife": 9,
-"Human Body": 4,
-"Technology and Computers": 8,
+"Human Body": 5,
+"Technology and Computers": 9,
 "Famous Scientists": 7,
 "World Geography": 6,
 "Literature and Authors": 7,
-"Mythology": 8,
+"Mythology": 9,
 "Countries and Capitals": 6,
 "Movies and Cinema (general)": 6,
 "Ancient Civilizations": 6,
@@ -973,15 +993,15 @@
 "Biology": 5
 },
 "cats": {
-"History": 25,
+"History": 26,
 "Finance": 1,
 "Pop Culture": 25,
 "Math": 25,
-"Food & Culture": 25,
-"Sports": 25,
-"Science": 25,
+"Food & Culture": 26,
+"Sports": 26,
+"Science": 26,
 "Geography": 26,
 "Nature": 26,
-"Technology": 25
+"Technology": 26
 }
 }
