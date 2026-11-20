@@ -252,7 +252,12 @@
 "b57843976dc5ad446b9c9ef015587cf5383d8b0e",
 "fa3e8734ddbe0cdd0192dc72564bbe62b874e052",
 "07e61ce83f9ce73351b5312b854e6a86d1f1d6ad",
-"680d1a706fb046a02b5b1946ce99cbf647469c26"
+"680d1a706fb046a02b5b1946ce99cbf647469c26",
+"964e59adbb35637fb97b98b31fd5e55a4d94866d",
+"d8de50514d736db35f938aa17465561bff3280f0",
+"960a2337592e19644c101c3e6274b16b5f4c945c",
+"b7a8a7219b1e5c0fb84c3c8691343262f8c815f3",
+"f95db1017ac053178c202270df265b176caa2068"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -507,7 +512,12 @@
 "What is a cineaste known for?",
 "What is the capital city of Kangaroo Island?",
 "What language does Rosetta Stone help users learn?",
-"Who painted the Naples Ceiling?"
+"Who painted the Naples Ceiling?",
+"What caused the Black Death in the 14th century?",
+"What causes the speed of ice skating to vary?",
+"What number is the square root of 144?",
+"What ancient civilization wrote the Vedas?",
+"What capital was located in the Kremlin?"
 ],
 "answers": [
 "picasso",
@@ -752,7 +762,12 @@
 "critique",
 "adelaide",
 "french",
-"giovanni batista ramoni"
+"giovanni batista ramoni",
+"bubonic plague",
+"surface smoothness",
+"12",
+"india",
+"moscow"
 ],
 "subjects": [
 "cubism",
@@ -997,13 +1012,18 @@
 "cineaste",
 "kangaroo island",
 "rosetta stone",
-"naples ceiling"
+"naples ceiling",
+"bubonic plague",
+"ice skating",
+"waterloo bridge",
+"oldest book",
+"russian empire"
 ],
 "subtopics": {
-"World History": 6,
+"World History": 7,
 "Business and Trade": 1,
 "Art and Painting": 7,
-"Mathematics": 27,
+"Mathematics": 28,
 "Languages and Alphabets": 9,
 "Sports and Olympics": 14,
 "Chemistry": 4,
@@ -1014,7 +1034,7 @@
 "Everyday Science": 5,
 "Famous Inventions": 7,
 "Food and Drinks": 9,
-"World Records": 13,
+"World Records": 14,
 "Weather and Climate": 9,
 "Music": 6,
 "Architecture and Landmarks": 9,
@@ -1025,22 +1045,22 @@
 "World Geography": 7,
 "Literature and Authors": 7,
 "Mythology": 9,
-"Countries and Capitals": 6,
+"Countries and Capitals": 7,
 "Movies and Cinema (general)": 7,
 "Ancient Civilizations": 6,
 "Space and Astronomy": 4,
-"Physics": 4,
+"Physics": 5,
 "Biology": 5
 },
 "cats": {
-"History": 26,
+"History": 27,
 "Finance": 1,
 "Pop Culture": 27,
-"Math": 27,
+"Math": 28,
 "Food & Culture": 27,
-"Sports": 27,
-"Science": 27,
-"Geography": 27,
+"Sports": 28,
+"Science": 28,
+"Geography": 28,
 "Nature": 27,
 "Technology": 27
 }
