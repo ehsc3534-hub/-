@@ -257,7 +257,12 @@
 "d8de50514d736db35f938aa17465561bff3280f0",
 "960a2337592e19644c101c3e6274b16b5f4c945c",
 "b7a8a7219b1e5c0fb84c3c8691343262f8c815f3",
-"f95db1017ac053178c202270df265b176caa2068"
+"f95db1017ac053178c202270df265b176caa2068",
+"51b1d8af35d656b5568f013e4f69f726b22dc23d",
+"94f12d297490e628fc4f714025ca14413bf2ae4e",
+"368fcf862b58b4ea7380e868a8d0f093c60f6fa8",
+"1a35cefc5fdff11feab5b5bfc4b3dfaac8107199",
+"ce3b37e882063b409df65988eb793710ed54dec7"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -517,7 +522,12 @@
 "What causes the speed of ice skating to vary?",
 "What number is the square root of 144?",
 "What ancient civilization wrote the Vedas?",
-"What capital was located in the Kremlin?"
+"What capital was located in the Kremlin?",
+"What type of power does a trolleybus use?",
+"What animal used cuneiform to communicate with humans?",
+"What is the material of the Minotaur's horn in Greek mythology?",
+"Who composed the 'Fur Elise'?",
+"What did the Mayan Long Count calendar end in 2012?"
 ],
 "answers": [
 "picasso",
@@ -767,7 +777,12 @@
 "surface smoothness",
 "12",
 "india",
-"moscow"
+"moscow",
+"electricity",
+"hippopotamus",
+"bull horn",
+"ludwig van beethoven",
+"apocalypse"
 ],
 "subjects": [
 "cubism",
@@ -1017,7 +1032,12 @@
 "ice skating",
 "waterloo bridge",
 "oldest book",
-"russian empire"
+"russian empire",
+"trams",
+"cuneiform",
+"minotaurs horn",
+"classical",
+"maya calendar"
 ],
 "subtopics": {
 "World History": 7,
@@ -1029,39 +1049,39 @@
 "Chemistry": 4,
 "Oceans, Rivers and Mountains": 7,
 "Plants and Trees": 9,
-"Transport and Vehicles": 9,
+"Transport and Vehicles": 10,
 "Currencies and Flags": 7,
 "Everyday Science": 5,
 "Famous Inventions": 7,
 "Food and Drinks": 9,
 "World Records": 14,
 "Weather and Climate": 9,
-"Music": 6,
+"Music": 7,
 "Architecture and Landmarks": 9,
-"Animals and Wildlife": 9,
+"Animals and Wildlife": 10,
 "Human Body": 5,
 "Technology and Computers": 9,
 "Famous Scientists": 7,
 "World Geography": 7,
 "Literature and Authors": 7,
-"Mythology": 9,
+"Mythology": 10,
 "Countries and Capitals": 7,
 "Movies and Cinema (general)": 7,
-"Ancient Civilizations": 6,
+"Ancient Civilizations": 7,
 "Space and Astronomy": 4,
 "Physics": 5,
 "Biology": 5
 },
 "cats": {
-"History": 27,
+"History": 28,
 "Finance": 1,
-"Pop Culture": 27,
+"Pop Culture": 28,
 "Math": 28,
-"Food & Culture": 27,
+"Food & Culture": 28,
 "Sports": 28,
 "Science": 28,
 "Geography": 28,
-"Nature": 27,
-"Technology": 27
+"Nature": 28,
+"Technology": 28
 }
 }
