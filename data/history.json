@@ -272,7 +272,12 @@
 "bc59c37046f76a92bb2d03d932af6e2b35abfe18",
 "376652807011c38844d65a427fe99c20b4174e05",
 "80bbdfa1f70faadef125cf6b0ce2256fedf6d6b6",
-"ddf4b18d455a19595d777b31282ae7e94a747e1f"
+"ddf4b18d455a19595d777b31282ae7e94a747e1f",
+"8ddac8821edb53b398f3e033ef702f0b773e72f0",
+"83bcae165d1df170dcc5fa8f03a0bd6cea4b5f59",
+"10c7e9a16ca47ea52edabd586f49486f356eb48a",
+"eedfb65299b4b1792e829ff7303caed201200d2c",
+"8b028a3d232fe6127b65be33e580bc69a92a5a59"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -547,7 +552,12 @@
 "What Peking Opera facial makeup represents loyalty?",
 "What features the deepest point in the world's oceans?",
 "What architectural feature connects the poles of a royal tent?",
-"What theory suggested Earth was at the center of the universe?"
+"What theory suggested Earth was at the center of the universe?",
+"What vehicle transports two athletes in a bobsleigh?",
+"What currency uses the króna note?",
+"What is the quadratic formula used for?",
+"What gives sesame oil its distinctive flavor?",
+"What Cubist sculpture features a bull head?"
 ],
 "answers": [
 "picasso",
@@ -812,7 +822,12 @@
 "fu",
 "marianas trench",
 "polevaulting",
-"ptolemy geocentric model"
+"ptolemy geocentric model",
+"sled",
+"icelandic krna",
+"solve quadratic equations",
+"sesame seeds",
+"head of a bull"
 ],
 "subjects": [
 "cubism",
@@ -1077,23 +1092,28 @@
 "peking opera",
 "marianas trench",
 "royal tent",
-"ptolemy geocentric model"
+"ptolemy geocentric model",
+"bobsleigh event",
+"krona note",
+"quadratic formula",
+"sesame oil",
+"cubist sculpture"
 ],
 "subtopics": {
 "World History": 8,
 "Business and Trade": 1,
-"Art and Painting": 7,
-"Mathematics": 29,
+"Art and Painting": 8,
+"Mathematics": 30,
 "Languages and Alphabets": 10,
-"Sports and Olympics": 14,
+"Sports and Olympics": 15,
 "Chemistry": 4,
 "Oceans, Rivers and Mountains": 8,
 "Plants and Trees": 9,
 "Transport and Vehicles": 10,
-"Currencies and Flags": 7,
+"Currencies and Flags": 8,
 "Everyday Science": 5,
 "Famous Inventions": 7,
-"Food and Drinks": 9,
+"Food and Drinks": 10,
 "World Records": 15,
 "Weather and Climate": 10,
 "Music": 7,
@@ -1115,12 +1135,12 @@
 "cats": {
 "History": 30,
 "Finance": 1,
-"Pop Culture": 29,
-"Math": 29,
-"Food & Culture": 29,
-"Sports": 29,
+"Pop Culture": 30,
+"Math": 30,
+"Food & Culture": 30,
+"Sports": 30,
 "Science": 29,
-"Geography": 29,
+"Geography": 30,
 "Nature": 29,
 "Technology": 29
 }
