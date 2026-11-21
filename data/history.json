@@ -297,7 +297,12 @@
 "6e528c301cfee59926b1e36d09c57df27778f394",
 "f5b43e3f030a7fea2e1a59c1e1f0f04865c9b77d",
 "3557f60bed05310e9d4bd5b2f24c29b7d4aa97fc",
-"b62d5be9ae3d465800d3b1042530789aaafcb4d8"
+"b62d5be9ae3d465800d3b1042530789aaafcb4d8",
+"3cf66e02d651738870928f4bb50c8fccbd12f7c4",
+"a6cfc4ea675be1c3054e9ac083912a1518261a67",
+"82df8aa38001c42f45002634fb5baa3dd69151b0",
+"a1a962543d7fb008cf6ecea9d739317a0bc74721",
+"452a28051e96c91c0cd2c0f9098d205501fc8058"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -597,7 +602,12 @@
 "What country produces cheese with holes?",
 "What did Kung Fu Panda star in?",
 "What causes the strong wind in deserts?",
-"What did Triceratops use for transportation?"
+"What did Triceratops use for transportation?",
+"What Jupiter moon is known for its Great Red Spot?",
+"Who was Medusa's gaze said to turn onlookers to stone?",
+"Which author wrote 'Venus in Glare'?",
+"Which country's currency is most affected by Dollar weakness?",
+"Which British colony established the Royal Society in 1662?"
 ],
 "answers": [
 "picasso",
@@ -887,7 +897,12 @@
 "switzerland",
 "po",
 "hot air rising",
-"hooves"
+"hooves",
+"io",
+"perseus",
+"james joyces",
+"united states",
+"grenada"
 ],
 "subjects": [
 "cubism",
@@ -1177,10 +1192,15 @@
 "swiss cheese",
 "kung fu panda",
 "desert breeze",
-"triceratops"
+"triceratops",
+"jupiter moons",
+"medusa gaze",
+"venus symbol",
+"dollar weakness",
+"british colony"
 ],
 "subtopics": {
-"World History": 8,
+"World History": 9,
 "Business and Trade": 1,
 "Art and Painting": 8,
 "Mathematics": 32,
@@ -1190,7 +1210,7 @@
 "Oceans, Rivers and Mountains": 8,
 "Plants and Trees": 11,
 "Transport and Vehicles": 11,
-"Currencies and Flags": 8,
+"Currencies and Flags": 9,
 "Everyday Science": 5,
 "Famous Inventions": 8,
 "Food and Drinks": 11,
@@ -1203,24 +1223,24 @@
 "Technology and Computers": 11,
 "Famous Scientists": 8,
 "World Geography": 8,
-"Literature and Authors": 8,
-"Mythology": 10,
+"Literature and Authors": 9,
+"Mythology": 11,
 "Countries and Capitals": 8,
 "Movies and Cinema (general)": 8,
 "Ancient Civilizations": 8,
-"Space and Astronomy": 5,
+"Space and Astronomy": 6,
 "Physics": 5,
 "Biology": 6
 },
 "cats": {
-"History": 32,
+"History": 33,
 "Finance": 1,
-"Pop Culture": 32,
+"Pop Culture": 33,
 "Math": 32,
-"Food & Culture": 32,
+"Food & Culture": 33,
 "Sports": 32,
-"Science": 31,
-"Geography": 32,
+"Science": 32,
+"Geography": 33,
 "Nature": 32,
 "Technology": 32
 }
