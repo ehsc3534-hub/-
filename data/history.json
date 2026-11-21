@@ -307,7 +307,12 @@
 "887dc099dcd2cc49001e4767297374e658975ea2",
 "e9a348e5f764c8bdebc45ec6e18584423221c338",
 "543712c11aa9c2a3612de7aad3a23c72caed599b",
-"b71955efc9a8efc4550019a69d4408c2973002d2"
+"b71955efc9a8efc4550019a69d4408c2973002d2",
+"21f89843a25f5f3e96276cea0d61355f764802d2",
+"6e3e69467ae4691fca59074d8f3c3413c9e2401b",
+"b8c503d22278c5c4021eaf00ea6f135ec7eac553",
+"87401ce5932ee7e4c704abcf453c8298a15064d7",
+"d6ff1f0f5519cbc0afea76dd13fb27f7e995b631"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -617,7 +622,12 @@
 "What architectural marvel is Big Ben?",
 "What causes the seasons?",
 "What do wildebeest do during the annual migration?",
-"What record holds the most blades on a Swiss Army knife?"
+"What record holds the most blades on a Swiss Army knife?",
+"What prime number is also known as the Sieve of Eratosthenes?",
+"What style of painting features simple forms?",
+"What animal makes a distinct howling sound?",
+"What causes lahars after a volcanic eruption?",
+"What ancient script was used to write oracle bones?"
 ],
 "answers": [
 "picasso",
@@ -917,7 +927,12 @@
 "clock tower",
 "earths tilt",
 "cross rivers",
-"26 blades"
+"26 blades",
+"seventeen",
+"minimalist forms",
+"wolf",
+"lava flows",
+"shang dynasty script"
 ],
 "subjects": [
 "cubism",
@@ -1217,28 +1232,33 @@
 "clock tower",
 "newton gravity",
 "wildebeest migration",
-"swiss army knife"
+"swiss army knife",
+"zahlentheorie",
+"minimalist forms",
+"wolf pack",
+"volcano eruption",
+"chinese characters"
 ],
 "subtopics": {
 "World History": 9,
 "Business and Trade": 1,
-"Art and Painting": 8,
-"Mathematics": 33,
-"Languages and Alphabets": 11,
+"Art and Painting": 9,
+"Mathematics": 34,
+"Languages and Alphabets": 12,
 "Sports and Olympics": 16,
 "Chemistry": 5,
 "Oceans, Rivers and Mountains": 8,
 "Plants and Trees": 11,
 "Transport and Vehicles": 11,
 "Currencies and Flags": 9,
-"Everyday Science": 5,
+"Everyday Science": 6,
 "Famous Inventions": 8,
 "Food and Drinks": 11,
 "World Records": 17,
 "Weather and Climate": 11,
 "Music": 8,
 "Architecture and Landmarks": 11,
-"Animals and Wildlife": 11,
+"Animals and Wildlife": 12,
 "Human Body": 5,
 "Technology and Computers": 11,
 "Famous Scientists": 8,
@@ -1255,13 +1275,13 @@
 "cats": {
 "History": 33,
 "Finance": 1,
-"Pop Culture": 33,
-"Math": 33,
-"Food & Culture": 33,
+"Pop Culture": 34,
+"Math": 34,
+"Food & Culture": 34,
 "Sports": 33,
-"Science": 33,
+"Science": 34,
 "Geography": 33,
-"Nature": 33,
+"Nature": 34,
 "Technology": 33
 }
 }
