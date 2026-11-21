@@ -287,7 +287,12 @@
 "f94d3d955c1e86bcbeafef14d9bfb1b58cf8c26f",
 "20b6a4cdcb27a95f2895f028692133d993e84a49",
 "f9ac59a8c14929f9738ae061ff0ae944287beb0f",
-"9542b5202106933b7cd085173c7132c2d62c9e80"
+"9542b5202106933b7cd085173c7132c2d62c9e80",
+"f6175f7a1ad30b9a63860fc7e621a61f19f0f114",
+"ec6e1168cbe8e927406a346fe871312cb2a6b7dc",
+"6c5e75da7b9f4597beb2e6f74a032c1038581b1f",
+"6313ca39b44fed116684e767d077cc0d970159d9",
+"33ca21fed0299e3e48d14b8fd13bf677616487f5"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -577,7 +582,12 @@
 "What city is known as 'Cayenne'?",
 "What piece started Mozart's career as a professional pianist?",
 "What did Tesla invent that is now part of every phone?",
-"What shape is the base of a quincunx machine?"
+"What shape is the base of a quincunx machine?",
+"What do bats and vampires have in common?",
+"What does ancient Egyptians use papyrus for?",
+"What sport did Victor Hemerick compete in?",
+"What invention by Karl Benz is considered the first automobile?",
+"What is used to produce koji in sake brewing?"
 ],
 "answers": [
 "picasso",
@@ -857,7 +867,12 @@
 "guadeloupe",
 "little lessons",
 "alternating current ac",
-"square"
+"square",
+"nocturnal",
+"writing",
+"boxing",
+"motorcar",
+"malted rice"
 ],
 "subjects": [
 "cubism",
@@ -1137,7 +1152,12 @@
 "french riviera",
 "mozart piano",
 "nikola tesla",
-"quincunx machine"
+"quincunx machine",
+"vampire myths",
+"egyptian papyrus plant",
+"victor hemerick",
+"automobile",
+"sake brewing"
 ],
 "subtopics": {
 "World History": 8,
@@ -1145,15 +1165,15 @@
 "Art and Painting": 8,
 "Mathematics": 31,
 "Languages and Alphabets": 11,
-"Sports and Olympics": 15,
+"Sports and Olympics": 16,
 "Chemistry": 5,
 "Oceans, Rivers and Mountains": 8,
-"Plants and Trees": 10,
+"Plants and Trees": 11,
 "Transport and Vehicles": 10,
 "Currencies and Flags": 8,
 "Everyday Science": 5,
-"Famous Inventions": 7,
-"Food and Drinks": 10,
+"Famous Inventions": 8,
+"Food and Drinks": 11,
 "World Records": 16,
 "Weather and Climate": 10,
 "Music": 8,
@@ -1170,18 +1190,18 @@
 "Ancient Civilizations": 8,
 "Space and Astronomy": 5,
 "Physics": 5,
-"Biology": 5
+"Biology": 6
 },
 "cats": {
-"History": 31,
+"History": 32,
 "Finance": 1,
 "Pop Culture": 31,
 "Math": 31,
-"Food & Culture": 31,
-"Sports": 31,
-"Science": 30,
+"Food & Culture": 32,
+"Sports": 32,
+"Science": 31,
 "Geography": 31,
-"Nature": 30,
+"Nature": 31,
 "Technology": 31
 }
 }
