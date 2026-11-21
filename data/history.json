@@ -302,7 +302,12 @@
 "a6cfc4ea675be1c3054e9ac083912a1518261a67",
 "82df8aa38001c42f45002634fb5baa3dd69151b0",
 "a1a962543d7fb008cf6ecea9d739317a0bc74721",
-"452a28051e96c91c0cd2c0f9098d205501fc8058"
+"452a28051e96c91c0cd2c0f9098d205501fc8058",
+"1aa3279399e9c889ced1af3147b0432a936323bd",
+"887dc099dcd2cc49001e4767297374e658975ea2",
+"e9a348e5f764c8bdebc45ec6e18584423221c338",
+"543712c11aa9c2a3612de7aad3a23c72caed599b",
+"b71955efc9a8efc4550019a69d4408c2973002d2"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -607,7 +612,12 @@
 "Who was Medusa's gaze said to turn onlookers to stone?",
 "Which author wrote 'Venus in Glare'?",
 "Which country's currency is most affected by Dollar weakness?",
-"Which British colony established the Royal Society in 1662?"
+"Which British colony established the Royal Society in 1662?",
+"How many sides does a Möbius Strip have?",
+"What architectural marvel is Big Ben?",
+"What causes the seasons?",
+"What do wildebeest do during the annual migration?",
+"What record holds the most blades on a Swiss Army knife?"
 ],
 "answers": [
 "picasso",
@@ -902,7 +912,12 @@
 "perseus",
 "james joyces",
 "united states",
-"grenada"
+"grenada",
+"one and a half",
+"clock tower",
+"earths tilt",
+"cross rivers",
+"26 blades"
 ],
 "subjects": [
 "cubism",
@@ -1197,13 +1212,18 @@
 "medusa gaze",
 "venus symbol",
 "dollar weakness",
-"british colony"
+"british colony",
+"mbius strip",
+"clock tower",
+"newton gravity",
+"wildebeest migration",
+"swiss army knife"
 ],
 "subtopics": {
 "World History": 9,
 "Business and Trade": 1,
 "Art and Painting": 8,
-"Mathematics": 32,
+"Mathematics": 33,
 "Languages and Alphabets": 11,
 "Sports and Olympics": 16,
 "Chemistry": 5,
@@ -1214,11 +1234,11 @@
 "Everyday Science": 5,
 "Famous Inventions": 8,
 "Food and Drinks": 11,
-"World Records": 16,
+"World Records": 17,
 "Weather and Climate": 11,
 "Music": 8,
-"Architecture and Landmarks": 10,
-"Animals and Wildlife": 10,
+"Architecture and Landmarks": 11,
+"Animals and Wildlife": 11,
 "Human Body": 5,
 "Technology and Computers": 11,
 "Famous Scientists": 8,
@@ -1229,19 +1249,19 @@
 "Movies and Cinema (general)": 8,
 "Ancient Civilizations": 8,
 "Space and Astronomy": 6,
-"Physics": 5,
+"Physics": 6,
 "Biology": 6
 },
 "cats": {
 "History": 33,
 "Finance": 1,
 "Pop Culture": 33,
-"Math": 32,
+"Math": 33,
 "Food & Culture": 33,
-"Sports": 32,
-"Science": 32,
+"Sports": 33,
+"Science": 33,
 "Geography": 33,
-"Nature": 32,
-"Technology": 32
+"Nature": 33,
+"Technology": 33
 }
 }
