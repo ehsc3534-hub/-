@@ -277,7 +277,12 @@
 "83bcae165d1df170dcc5fa8f03a0bd6cea4b5f59",
 "10c7e9a16ca47ea52edabd586f49486f356eb48a",
 "eedfb65299b4b1792e829ff7303caed201200d2c",
-"8b028a3d232fe6127b65be33e580bc69a92a5a59"
+"8b028a3d232fe6127b65be33e580bc69a92a5a59",
+"544194a85b57bb867efb5ebb4e28110e4bc013a4",
+"9ea5f87825ac823d33f4e94a7d902fe32eb6358e",
+"f32010a30c8f59ad7f8657c06b801d50f4d499ac",
+"2f9983d080603c4352c857ba861048ce5e2c8f8f",
+"183c467d5870efb3a761ac519e1f64cd9d725c91"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -557,7 +562,12 @@
 "What currency uses the króna note?",
 "What is the quadratic formula used for?",
 "What gives sesame oil its distinctive flavor?",
-"What Cubist sculpture features a bull head?"
+"What Cubist sculpture features a bull head?",
+"What does a qubit represent in quantum computing?",
+"What is the atomic number of Germanium?",
+"What type of palm is the date palm?",
+"What caused the inhabitants of Pompeii to be instantly frozen in time?",
+"What is the longest recorded jump by a kangaroo?"
 ],
 "answers": [
 "picasso",
@@ -827,7 +837,12 @@
 "icelandic krna",
 "solve quadratic equations",
 "sesame seeds",
-"head of a bull"
+"head of a bull",
+"information state",
+"32",
+"phoenix dactylifera",
+"vulcanian eruption",
+"3239 meters"
 ],
 "subjects": [
 "cubism",
@@ -1097,7 +1112,12 @@
 "krona note",
 "quadratic formula",
 "sesame oil",
-"cubist sculpture"
+"cubist sculpture",
+"quantum computing",
+"germanium atom",
+"palm garden",
+"pompeii",
+"kangaroo jumping"
 ],
 "subtopics": {
 "World History": 8,
@@ -1106,42 +1126,42 @@
 "Mathematics": 30,
 "Languages and Alphabets": 10,
 "Sports and Olympics": 15,
-"Chemistry": 4,
+"Chemistry": 5,
 "Oceans, Rivers and Mountains": 8,
-"Plants and Trees": 9,
+"Plants and Trees": 10,
 "Transport and Vehicles": 10,
 "Currencies and Flags": 8,
 "Everyday Science": 5,
 "Famous Inventions": 7,
 "Food and Drinks": 10,
-"World Records": 15,
+"World Records": 16,
 "Weather and Climate": 10,
 "Music": 7,
 "Architecture and Landmarks": 10,
 "Animals and Wildlife": 10,
 "Human Body": 5,
-"Technology and Computers": 9,
+"Technology and Computers": 10,
 "Famous Scientists": 8,
 "World Geography": 7,
 "Literature and Authors": 8,
 "Mythology": 10,
 "Countries and Capitals": 7,
 "Movies and Cinema (general)": 7,
-"Ancient Civilizations": 7,
+"Ancient Civilizations": 8,
 "Space and Astronomy": 5,
 "Physics": 5,
 "Biology": 5
 },
 "cats": {
-"History": 30,
+"History": 31,
 "Finance": 1,
 "Pop Culture": 30,
 "Math": 30,
 "Food & Culture": 30,
-"Sports": 30,
-"Science": 29,
+"Sports": 31,
+"Science": 30,
 "Geography": 30,
-"Nature": 29,
-"Technology": 29
+"Nature": 30,
+"Technology": 30
 }
 }
