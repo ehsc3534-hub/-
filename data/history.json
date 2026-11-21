@@ -292,7 +292,12 @@
 "ec6e1168cbe8e927406a346fe871312cb2a6b7dc",
 "6c5e75da7b9f4597beb2e6f74a032c1038581b1f",
 "6313ca39b44fed116684e767d077cc0d970159d9",
-"33ca21fed0299e3e48d14b8fd13bf677616487f5"
+"33ca21fed0299e3e48d14b8fd13bf677616487f5",
+"9b693755ab671e5477429932bd78039d4456d973",
+"6e528c301cfee59926b1e36d09c57df27778f394",
+"f5b43e3f030a7fea2e1a59c1e1f0f04865c9b77d",
+"3557f60bed05310e9d4bd5b2f24c29b7d4aa97fc",
+"b62d5be9ae3d465800d3b1042530789aaafcb4d8"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -587,7 +592,12 @@
 "What does ancient Egyptians use papyrus for?",
 "What sport did Victor Hemerick compete in?",
 "What invention by Karl Benz is considered the first automobile?",
-"What is used to produce koji in sake brewing?"
+"What is used to produce koji in sake brewing?",
+"What shape is a simple pendulum's swing path?",
+"What country produces cheese with holes?",
+"What did Kung Fu Panda star in?",
+"What causes the strong wind in deserts?",
+"What did Triceratops use for transportation?"
 ],
 "answers": [
 "picasso",
@@ -872,7 +882,12 @@
 "writing",
 "boxing",
 "motorcar",
-"malted rice"
+"malted rice",
+"circular",
+"switzerland",
+"po",
+"hot air rising",
+"hooves"
 ],
 "subjects": [
 "cubism",
@@ -1157,25 +1172,30 @@
 "egyptian papyrus plant",
 "victor hemerick",
 "automobile",
-"sake brewing"
+"sake brewing",
+"newtons laws",
+"swiss cheese",
+"kung fu panda",
+"desert breeze",
+"triceratops"
 ],
 "subtopics": {
 "World History": 8,
 "Business and Trade": 1,
 "Art and Painting": 8,
-"Mathematics": 31,
+"Mathematics": 32,
 "Languages and Alphabets": 11,
 "Sports and Olympics": 16,
 "Chemistry": 5,
 "Oceans, Rivers and Mountains": 8,
 "Plants and Trees": 11,
-"Transport and Vehicles": 10,
+"Transport and Vehicles": 11,
 "Currencies and Flags": 8,
 "Everyday Science": 5,
 "Famous Inventions": 8,
 "Food and Drinks": 11,
 "World Records": 16,
-"Weather and Climate": 10,
+"Weather and Climate": 11,
 "Music": 8,
 "Architecture and Landmarks": 10,
 "Animals and Wildlife": 10,
@@ -1185,8 +1205,8 @@
 "World Geography": 8,
 "Literature and Authors": 8,
 "Mythology": 10,
-"Countries and Capitals": 7,
-"Movies and Cinema (general)": 7,
+"Countries and Capitals": 8,
+"Movies and Cinema (general)": 8,
 "Ancient Civilizations": 8,
 "Space and Astronomy": 5,
 "Physics": 5,
@@ -1195,13 +1215,13 @@
 "cats": {
 "History": 32,
 "Finance": 1,
-"Pop Culture": 31,
-"Math": 31,
+"Pop Culture": 32,
+"Math": 32,
 "Food & Culture": 32,
 "Sports": 32,
 "Science": 31,
-"Geography": 31,
-"Nature": 31,
-"Technology": 31
+"Geography": 32,
+"Nature": 32,
+"Technology": 32
 }
 }
