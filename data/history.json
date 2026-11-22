@@ -312,7 +312,12 @@
 "6e3e69467ae4691fca59074d8f3c3413c9e2401b",
 "b8c503d22278c5c4021eaf00ea6f135ec7eac553",
 "87401ce5932ee7e4c704abcf453c8298a15064d7",
-"d6ff1f0f5519cbc0afea76dd13fb27f7e995b631"
+"d6ff1f0f5519cbc0afea76dd13fb27f7e995b631",
+"e7b00491a2b8e0f137479d6e8644d27a4ff25523",
+"4401d6845077073a0ba760d0400fe7721053b893",
+"68f6435f0c2083df0bcbe6e4b17b7912738cdfde",
+"2d5bf767bcf0e37a8991374bf2362352b8c444e9",
+"fa4c504874bae5da969e840756978df8cf13c003"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -627,7 +632,12 @@
 "What style of painting features simple forms?",
 "What animal makes a distinct howling sound?",
 "What causes lahars after a volcanic eruption?",
-"What ancient script was used to write oracle bones?"
+"What ancient script was used to write oracle bones?",
+"Which country is home to the Venus de Milo statue?",
+"What sport did Usain Bolt specialize in?",
+"What technology powers GPT models?",
+"What did Louis Pasteur invent to combat lactic acid bacteria?",
+"What part of the body is affected by shibori dyeing patterns?"
 ],
 "answers": [
 "picasso",
@@ -932,7 +942,12 @@
 "minimalist forms",
 "wolf",
 "lava flows",
-"shang dynasty script"
+"shang dynasty script",
+"greece",
+"running",
+"ai",
+"sour wine killer",
+"skin"
 ],
 "subjects": [
 "cubism",
@@ -1237,7 +1252,12 @@
 "minimalist forms",
 "wolf pack",
 "volcano eruption",
-"chinese characters"
+"chinese characters",
+"venus de milo",
+"usain bolt",
+"gpt model",
+"louis pasteur",
+"shibori dyeing"
 ],
 "subtopics": {
 "World History": 9,
@@ -1245,7 +1265,7 @@
 "Art and Painting": 9,
 "Mathematics": 34,
 "Languages and Alphabets": 12,
-"Sports and Olympics": 16,
+"Sports and Olympics": 17,
 "Chemistry": 5,
 "Oceans, Rivers and Mountains": 8,
 "Plants and Trees": 11,
@@ -1259,13 +1279,13 @@
 "Music": 8,
 "Architecture and Landmarks": 11,
 "Animals and Wildlife": 12,
-"Human Body": 5,
-"Technology and Computers": 11,
-"Famous Scientists": 8,
+"Human Body": 6,
+"Technology and Computers": 12,
+"Famous Scientists": 9,
 "World Geography": 8,
 "Literature and Authors": 9,
 "Mythology": 11,
-"Countries and Capitals": 8,
+"Countries and Capitals": 9,
 "Movies and Cinema (general)": 8,
 "Ancient Civilizations": 8,
 "Space and Astronomy": 6,
@@ -1273,15 +1293,15 @@
 "Biology": 6
 },
 "cats": {
-"History": 33,
+"History": 34,
 "Finance": 1,
 "Pop Culture": 34,
 "Math": 34,
 "Food & Culture": 34,
-"Sports": 33,
-"Science": 34,
-"Geography": 33,
+"Sports": 34,
+"Science": 35,
+"Geography": 34,
 "Nature": 34,
-"Technology": 33
+"Technology": 34
 }
 }
