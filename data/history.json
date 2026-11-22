@@ -317,7 +317,12 @@
 "4401d6845077073a0ba760d0400fe7721053b893",
 "68f6435f0c2083df0bcbe6e4b17b7912738cdfde",
 "2d5bf767bcf0e37a8991374bf2362352b8c444e9",
-"fa4c504874bae5da969e840756978df8cf13c003"
+"fa4c504874bae5da969e840756978df8cf13c003",
+"b734f7de6a9c54f6adea97ed0e1a8e6fea8884de",
+"8be4f3c2569f9018eaeeac5b0856293802445a0d",
+"3c7cec46bf9fad224e94871895e9a0e9dd2287ff",
+"67d9d4b806a5c3cfd8718aa27c83b1f8b2e4c71a",
+"7abad1e176c8dd6f76a80896635182ac915c3d6e"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -637,7 +642,12 @@
 "What sport did Usain Bolt specialize in?",
 "What technology powers GPT models?",
 "What did Louis Pasteur invent to combat lactic acid bacteria?",
-"What part of the body is affected by shibori dyeing patterns?"
+"What part of the body is affected by shibori dyeing patterns?",
+"What causes nor'easter storms?",
+"What features the Hall of Mirrors in the Palace of Versailles?",
+"What ancient civilization constructed the Colosseum?",
+"What day of the Aztec calendar was known as Xiuhpohualli?",
+"What does a piccolo represent in relation to a flute?"
 ],
 "answers": [
 "picasso",
@@ -947,7 +957,12 @@
 "running",
 "ai",
 "sour wine killer",
-"skin"
+"skin",
+"cold air masses",
+"windows",
+"romans",
+"new fire",
+"half the size"
 ],
 "subjects": [
 "cubism",
@@ -1257,7 +1272,12 @@
 "usain bolt",
 "gpt model",
 "louis pasteur",
-"shibori dyeing"
+"shibori dyeing",
+"noreaster storm",
+"palace of versailles",
+"colosseum",
+"aztec calendar",
+"orchestra woodwind"
 ],
 "subtopics": {
 "World History": 9,
@@ -1275,33 +1295,33 @@
 "Famous Inventions": 8,
 "Food and Drinks": 11,
 "World Records": 17,
-"Weather and Climate": 11,
-"Music": 8,
-"Architecture and Landmarks": 11,
+"Weather and Climate": 12,
+"Music": 9,
+"Architecture and Landmarks": 12,
 "Animals and Wildlife": 12,
 "Human Body": 6,
 "Technology and Computers": 12,
 "Famous Scientists": 9,
-"World Geography": 8,
+"World Geography": 9,
 "Literature and Authors": 9,
 "Mythology": 11,
 "Countries and Capitals": 9,
 "Movies and Cinema (general)": 8,
-"Ancient Civilizations": 8,
+"Ancient Civilizations": 9,
 "Space and Astronomy": 6,
 "Physics": 6,
 "Biology": 6
 },
 "cats": {
-"History": 34,
+"History": 35,
 "Finance": 1,
-"Pop Culture": 34,
+"Pop Culture": 35,
 "Math": 34,
 "Food & Culture": 34,
 "Sports": 34,
 "Science": 35,
-"Geography": 34,
-"Nature": 34,
-"Technology": 34
+"Geography": 35,
+"Nature": 35,
+"Technology": 35
 }
 }
