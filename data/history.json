@@ -322,7 +322,12 @@
 "8be4f3c2569f9018eaeeac5b0856293802445a0d",
 "3c7cec46bf9fad224e94871895e9a0e9dd2287ff",
 "67d9d4b806a5c3cfd8718aa27c83b1f8b2e4c71a",
-"7abad1e176c8dd6f76a80896635182ac915c3d6e"
+"7abad1e176c8dd6f76a80896635182ac915c3d6e",
+"27bf2084d26fec769c309a0697d860c2fa0c3538",
+"04cc4493103c86bbe0d7e343ba668cc2135fe074",
+"19dd60b9cf9d340ec5fdbbb6b56dd655078441cc",
+"e251e90de6a130ce4c8655539cbfb6e93631a146",
+"da8c1f26f3980208fc0db685d4a6482f73c5d1db"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -647,7 +652,12 @@
 "What features the Hall of Mirrors in the Palace of Versailles?",
 "What ancient civilization constructed the Colosseum?",
 "What day of the Aztec calendar was known as Xiuhpohualli?",
-"What does a piccolo represent in relation to a flute?"
+"What does a piccolo represent in relation to a flute?",
+"What is the world's longest ice cream cone?",
+"What did Poseidon do when angry?",
+"What shape is a Venturi tube?",
+"What type of bicycle is BMX?",
+"What element is produced when charcoal burns in a Bunsen Burner?"
 ],
 "answers": [
 "picasso",
@@ -962,7 +972,12 @@
 "windows",
 "romans",
 "new fire",
-"half the size"
+"half the size",
+"12meter cone",
+"waves",
+"narrower then wider",
+"mountain bike",
+"carbon dioxide"
 ],
 "subjects": [
 "cubism",
@@ -1277,24 +1292,29 @@
 "palace of versailles",
 "colosseum",
 "aztec calendar",
-"orchestra woodwind"
+"orchestra woodwind",
+"ice cream cone",
+"poseidon waves",
+"bernoulli principle",
+"bmx",
+"bunsen burner"
 ],
 "subtopics": {
 "World History": 9,
 "Business and Trade": 1,
 "Art and Painting": 9,
-"Mathematics": 34,
+"Mathematics": 35,
 "Languages and Alphabets": 12,
 "Sports and Olympics": 17,
-"Chemistry": 5,
+"Chemistry": 6,
 "Oceans, Rivers and Mountains": 8,
 "Plants and Trees": 11,
-"Transport and Vehicles": 11,
+"Transport and Vehicles": 12,
 "Currencies and Flags": 9,
 "Everyday Science": 6,
 "Famous Inventions": 8,
 "Food and Drinks": 11,
-"World Records": 17,
+"World Records": 18,
 "Weather and Climate": 12,
 "Music": 9,
 "Architecture and Landmarks": 12,
@@ -1304,7 +1324,7 @@
 "Famous Scientists": 9,
 "World Geography": 9,
 "Literature and Authors": 9,
-"Mythology": 11,
+"Mythology": 12,
 "Countries and Capitals": 9,
 "Movies and Cinema (general)": 8,
 "Ancient Civilizations": 9,
@@ -1316,12 +1336,12 @@
 "History": 35,
 "Finance": 1,
 "Pop Culture": 35,
-"Math": 34,
-"Food & Culture": 34,
-"Sports": 34,
-"Science": 35,
+"Math": 35,
+"Food & Culture": 35,
+"Sports": 35,
+"Science": 36,
 "Geography": 35,
 "Nature": 35,
-"Technology": 35
+"Technology": 36
 }
 }
