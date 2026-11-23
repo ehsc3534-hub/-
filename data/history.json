@@ -332,7 +332,12 @@
 "c23b77bf2753c55314791293f4d2b4614d122f3c",
 "f409386c216a9602a936d9bf44e40a89bc0d7bd0",
 "ea0892267b9cdad70881f0a59e52eb80f197568b",
-"8d249c88113cdfb394a4f938c28b444540c38de2"
+"8d249c88113cdfb394a4f938c28b444540c38de2",
+"1b8425bc8b6e6404c6eb42b7939103690c94f686",
+"07ed2bdfde15f1354054dc6ac828fb89f3078e62",
+"127348f6504dae28f5125a338b970c22d199ffab",
+"8c7c05536eca9c3eca26ef02b79b387c79a8e548",
+"b25ac2b6a0357a8c74882fa1adef0c45515d3652"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -667,7 +672,12 @@
 "What did the bush fire destroy in 2019?",
 "Who invented Velcro?",
 "What number makes Euler's identity true?",
-"What is the source of the Karun River?"
+"What is the source of the Karun River?",
+"What did Monty Python troupe satirize?",
+"Who started the Olympic flame relay in 2004?",
+"What do electrolytes help maintain in the body?",
+"What type of rice is used in sushi?",
+"What does AR stand for in technology?"
 ],
 "answers": [
 "picasso",
@@ -992,7 +1002,12 @@
 "agriculture",
 "inventor george de mestral",
 "e",
-"tehran"
+"tehran",
+"religion",
+"athenians",
+"water balance",
+"short grain",
+"augmented reality"
 ],
 "subjects": [
 "cubism",
@@ -1317,7 +1332,12 @@
 "bush fire",
 "velcro",
 "eulers identity",
-"karun river"
+"karun river",
+"monty python troupe",
+"olympic flame",
+"electrolyte balance",
+"japanese sushi",
+"ar technology"
 ],
 "subtopics": {
 "World History": 9,
@@ -1325,7 +1345,7 @@
 "Art and Painting": 9,
 "Mathematics": 36,
 "Languages and Alphabets": 12,
-"Sports and Olympics": 17,
+"Sports and Olympics": 18,
 "Chemistry": 6,
 "Oceans, Rivers and Mountains": 9,
 "Plants and Trees": 12,
@@ -1333,20 +1353,20 @@
 "Currencies and Flags": 9,
 "Everyday Science": 6,
 "Famous Inventions": 9,
-"Food and Drinks": 12,
+"Food and Drinks": 13,
 "World Records": 18,
 "Weather and Climate": 12,
 "Music": 9,
 "Architecture and Landmarks": 12,
 "Animals and Wildlife": 12,
-"Human Body": 6,
-"Technology and Computers": 12,
+"Human Body": 7,
+"Technology and Computers": 13,
 "Famous Scientists": 9,
 "World Geography": 9,
 "Literature and Authors": 9,
 "Mythology": 12,
 "Countries and Capitals": 9,
-"Movies and Cinema (general)": 8,
+"Movies and Cinema (general)": 9,
 "Ancient Civilizations": 9,
 "Space and Astronomy": 6,
 "Physics": 6,
@@ -1355,13 +1375,13 @@
 "cats": {
 "History": 36,
 "Finance": 1,
-"Pop Culture": 35,
+"Pop Culture": 36,
 "Math": 36,
-"Food & Culture": 36,
-"Sports": 35,
-"Science": 36,
+"Food & Culture": 37,
+"Sports": 36,
+"Science": 37,
 "Geography": 36,
 "Nature": 36,
-"Technology": 36
+"Technology": 37
 }
 }
