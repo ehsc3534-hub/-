@@ -342,7 +342,12 @@
 "6f0c5e6f2493258fbde6ac51e38755609faf0638",
 "37b681e9c226464cf7bc6e8797cb42b5600684e0",
 "e36d090b2112a9d7349307bb989eaacebf80d073",
-"fc91d77d1af48006265f9bf8e5439f3b9b207e05"
+"fc91d77d1af48006265f9bf8e5439f3b9b207e05",
+"adec85e35acd4a0460654c8bd14cf2d8e30f2506",
+"469800327ee9a3b0368fcc55faf5104af0c5cf30",
+"cd9ab193c9b2773ab7a1b7930cb331299e6a37e5",
+"763a425cd87880a9768fced4c46a954f5279f860",
+"61690fa9d7b49dd300373df56fd263a9b005f024"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -687,7 +692,12 @@
 "What does a dugong eat?",
 "What invention did Copernicus introduce?",
 "What symphony by Beethoven features the 'William Tell Overture'?",
-"What does a Komodo Dragon prey on most frequently?"
+"What does a Komodo Dragon prey on most frequently?",
+"What does Judo use for its uniform?",
+"What causes a snow day in school?",
+"What ancient structure is located in Angkor Wat?",
+"Which map did J.R.R. Tolkien use for his 'The Lord of the Rings' series?",
+"What does the Nile Delta produce most of?"
 ],
 "answers": [
 "picasso",
@@ -1022,7 +1032,12 @@
 "seaweed",
 "heliocentrism",
 "symphony no 3",
-"small mammals"
+"small mammals",
+"gi",
+"cold front arrival",
+"temple tower",
+"proprietary map",
+"crops"
 ],
 "subjects": [
 "cubism",
@@ -1357,7 +1372,12 @@
 "dugong",
 "copernicuss heliocentrism",
 "beethoven symphony",
-"komodo dragon"
+"komodo dragon",
+"judo",
+"snow day",
+"temple tower",
+"jrr tolkien map",
+"nile delta"
 ],
 "subtopics": {
 "World History": 9,
@@ -1365,9 +1385,9 @@
 "Art and Painting": 9,
 "Mathematics": 37,
 "Languages and Alphabets": 12,
-"Sports and Olympics": 18,
+"Sports and Olympics": 19,
 "Chemistry": 6,
-"Oceans, Rivers and Mountains": 9,
+"Oceans, Rivers and Mountains": 10,
 "Plants and Trees": 12,
 "Transport and Vehicles": 12,
 "Currencies and Flags": 9,
@@ -1375,15 +1395,15 @@
 "Famous Inventions": 10,
 "Food and Drinks": 13,
 "World Records": 18,
-"Weather and Climate": 12,
+"Weather and Climate": 13,
 "Music": 10,
-"Architecture and Landmarks": 12,
+"Architecture and Landmarks": 13,
 "Animals and Wildlife": 13,
 "Human Body": 7,
 "Technology and Computers": 13,
 "Famous Scientists": 9,
 "World Geography": 10,
-"Literature and Authors": 9,
+"Literature and Authors": 10,
 "Mythology": 12,
 "Countries and Capitals": 9,
 "Movies and Cinema (general)": 9,
@@ -1395,13 +1415,13 @@
 "cats": {
 "History": 37,
 "Finance": 1,
-"Pop Culture": 37,
+"Pop Culture": 38,
 "Math": 37,
 "Food & Culture": 37,
-"Sports": 36,
+"Sports": 37,
 "Science": 37,
-"Geography": 37,
-"Nature": 37,
-"Technology": 37
+"Geography": 38,
+"Nature": 38,
+"Technology": 38
 }
 }
