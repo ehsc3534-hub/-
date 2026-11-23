@@ -352,7 +352,12 @@
 "ef0ea86014f6bce5a4878981bc6e2dacffd5783d",
 "74cbcf91d50d4eb8d9f1608457b3e343c7462c90",
 "df3aa105c207b4d57eebf7d503fe8d7332976b1c",
-"8105bdd9fdff0c43709de7750cf77dd2928609e4"
+"8105bdd9fdff0c43709de7750cf77dd2928609e4",
+"71e6835ad793fde88c6ee1072eebfb3b0a109c11",
+"48017e2a6f20c5f30f673e40824dda701de9d1e0",
+"a48fef57c43ab436f080859112dc5ba6c039d91f",
+"81785120222f6975efb49d75e0587ddfb14f52a3",
+"0c06b624e475f7a6a73dad3ae1da72434af9657c"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -707,7 +712,12 @@
 "What runic symbol represents the concept of 'all'?",
 "What type of rock is a meteorite made of?",
 "What does the Bernoulli number of order 2 equal to?",
-"What cheetah holds the record for the fastest land animal?"
+"What cheetah holds the record for the fastest land animal?",
+"Who was Vali in Norse mythology?",
+"What does CO2 do in the atmosphere?",
+"Which boat was used in the first Boat Race?",
+"What does the Chinese dragon symbolize?",
+"What does a phoenix flame represent in mythology?"
 ],
 "answers": [
 "picasso",
@@ -1052,7 +1062,12 @@
 "sn",
 "ironnickel",
 "16",
-"20"
+"20",
+"baldrs foster father",
+"keeps the earth warm",
+"harriers",
+"longevity",
+"regeneration"
 ],
 "subjects": [
 "cubism",
@@ -1397,19 +1412,24 @@
 "runic alphabet",
 "mtorite",
 "bernoulli numbers",
-"cheetah"
+"cheetah",
+"valhalla",
+"carbon cycle",
+"boat race",
+"chinese dragon",
+"phoenix flame"
 ],
 "subtopics": {
 "World History": 9,
 "Business and Trade": 1,
-"Art and Painting": 9,
+"Art and Painting": 10,
 "Mathematics": 38,
 "Languages and Alphabets": 13,
 "Sports and Olympics": 19,
 "Chemistry": 6,
 "Oceans, Rivers and Mountains": 10,
-"Plants and Trees": 12,
-"Transport and Vehicles": 12,
+"Plants and Trees": 13,
+"Transport and Vehicles": 13,
 "Currencies and Flags": 9,
 "Everyday Science": 7,
 "Famous Inventions": 10,
@@ -1424,24 +1444,24 @@
 "Famous Scientists": 9,
 "World Geography": 10,
 "Literature and Authors": 10,
-"Mythology": 12,
+"Mythology": 13,
 "Countries and Capitals": 9,
 "Movies and Cinema (general)": 9,
 "Ancient Civilizations": 10,
 "Space and Astronomy": 6,
 "Physics": 6,
-"Biology": 6
+"Biology": 7
 },
 "cats": {
 "History": 38,
 "Finance": 1,
-"Pop Culture": 38,
+"Pop Culture": 39,
 "Math": 38,
-"Food & Culture": 38,
+"Food & Culture": 39,
 "Sports": 38,
-"Science": 38,
+"Science": 39,
 "Geography": 38,
-"Nature": 38,
-"Technology": 38
+"Nature": 39,
+"Technology": 39
 }
 }
