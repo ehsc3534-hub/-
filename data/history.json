@@ -337,7 +337,12 @@
 "07ed2bdfde15f1354054dc6ac828fb89f3078e62",
 "127348f6504dae28f5125a338b970c22d199ffab",
 "8c7c05536eca9c3eca26ef02b79b387c79a8e548",
-"b25ac2b6a0357a8c74882fa1adef0c45515d3652"
+"b25ac2b6a0357a8c74882fa1adef0c45515d3652",
+"db782090807b5feae6195389a316fcd692426803",
+"6f0c5e6f2493258fbde6ac51e38755609faf0638",
+"37b681e9c226464cf7bc6e8797cb42b5600684e0",
+"e36d090b2112a9d7349307bb989eaacebf80d073",
+"fc91d77d1af48006265f9bf8e5439f3b9b207e05"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -677,7 +682,12 @@
 "Who started the Olympic flame relay in 2004?",
 "What do electrolytes help maintain in the body?",
 "What type of rice is used in sushi?",
-"What does AR stand for in technology?"
+"What does AR stand for in technology?",
+"What did Hipparchus use to determine the distance to stars?",
+"What does a dugong eat?",
+"What invention did Copernicus introduce?",
+"What symphony by Beethoven features the 'William Tell Overture'?",
+"What does a Komodo Dragon prey on most frequently?"
 ],
 "answers": [
 "picasso",
@@ -1007,7 +1017,12 @@
 "athenians",
 "water balance",
 "short grain",
-"augmented reality"
+"augmented reality",
+"celestial distances chart",
+"seaweed",
+"heliocentrism",
+"symphony no 3",
+"small mammals"
 ],
 "subjects": [
 "cubism",
@@ -1337,13 +1352,18 @@
 "olympic flame",
 "electrolyte balance",
 "japanese sushi",
-"ar technology"
+"ar technology",
+"hipparchus",
+"dugong",
+"copernicuss heliocentrism",
+"beethoven symphony",
+"komodo dragon"
 ],
 "subtopics": {
 "World History": 9,
 "Business and Trade": 1,
 "Art and Painting": 9,
-"Mathematics": 36,
+"Mathematics": 37,
 "Languages and Alphabets": 12,
 "Sports and Olympics": 18,
 "Chemistry": 6,
@@ -1352,17 +1372,17 @@
 "Transport and Vehicles": 12,
 "Currencies and Flags": 9,
 "Everyday Science": 6,
-"Famous Inventions": 9,
+"Famous Inventions": 10,
 "Food and Drinks": 13,
 "World Records": 18,
 "Weather and Climate": 12,
-"Music": 9,
+"Music": 10,
 "Architecture and Landmarks": 12,
-"Animals and Wildlife": 12,
+"Animals and Wildlife": 13,
 "Human Body": 7,
 "Technology and Computers": 13,
 "Famous Scientists": 9,
-"World Geography": 9,
+"World Geography": 10,
 "Literature and Authors": 9,
 "Mythology": 12,
 "Countries and Capitals": 9,
@@ -1373,15 +1393,15 @@
 "Biology": 6
 },
 "cats": {
-"History": 36,
+"History": 37,
 "Finance": 1,
-"Pop Culture": 36,
-"Math": 36,
+"Pop Culture": 37,
+"Math": 37,
 "Food & Culture": 37,
 "Sports": 36,
 "Science": 37,
-"Geography": 36,
-"Nature": 36,
+"Geography": 37,
+"Nature": 37,
 "Technology": 37
 }
 }
