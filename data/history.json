@@ -347,7 +347,12 @@
 "469800327ee9a3b0368fcc55faf5104af0c5cf30",
 "cd9ab193c9b2773ab7a1b7930cb331299e6a37e5",
 "763a425cd87880a9768fced4c46a954f5279f860",
-"61690fa9d7b49dd300373df56fd263a9b005f024"
+"61690fa9d7b49dd300373df56fd263a9b005f024",
+"d9f40d32716e02ca717c6cfe860547660d696b95",
+"ef0ea86014f6bce5a4878981bc6e2dacffd5783d",
+"74cbcf91d50d4eb8d9f1608457b3e343c7462c90",
+"df3aa105c207b4d57eebf7d503fe8d7332976b1c",
+"8105bdd9fdff0c43709de7750cf77dd2928609e4"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -697,7 +702,12 @@
 "What causes a snow day in school?",
 "What ancient structure is located in Angkor Wat?",
 "Which map did J.R.R. Tolkien use for his 'The Lord of the Rings' series?",
-"What does the Nile Delta produce most of?"
+"What does the Nile Delta produce most of?",
+"Who wrote the Book of Leviticus in the Old Testament?",
+"What runic symbol represents the concept of 'all'?",
+"What type of rock is a meteorite made of?",
+"What does the Bernoulli number of order 2 equal to?",
+"What cheetah holds the record for the fastest land animal?"
 ],
 "answers": [
 "picasso",
@@ -1037,7 +1047,12 @@
 "cold front arrival",
 "temple tower",
 "proprietary map",
-"crops"
+"crops",
+"moses",
+"sn",
+"ironnickel",
+"16",
+"20"
 ],
 "subjects": [
 "cubism",
@@ -1377,24 +1392,29 @@
 "snow day",
 "temple tower",
 "jrr tolkien map",
-"nile delta"
+"nile delta",
+"bible",
+"runic alphabet",
+"mtorite",
+"bernoulli numbers",
+"cheetah"
 ],
 "subtopics": {
 "World History": 9,
 "Business and Trade": 1,
 "Art and Painting": 9,
-"Mathematics": 37,
-"Languages and Alphabets": 12,
+"Mathematics": 38,
+"Languages and Alphabets": 13,
 "Sports and Olympics": 19,
 "Chemistry": 6,
 "Oceans, Rivers and Mountains": 10,
 "Plants and Trees": 12,
 "Transport and Vehicles": 12,
 "Currencies and Flags": 9,
-"Everyday Science": 6,
+"Everyday Science": 7,
 "Famous Inventions": 10,
 "Food and Drinks": 13,
-"World Records": 18,
+"World Records": 19,
 "Weather and Climate": 13,
 "Music": 10,
 "Architecture and Landmarks": 13,
@@ -1407,19 +1427,19 @@
 "Mythology": 12,
 "Countries and Capitals": 9,
 "Movies and Cinema (general)": 9,
-"Ancient Civilizations": 9,
+"Ancient Civilizations": 10,
 "Space and Astronomy": 6,
 "Physics": 6,
 "Biology": 6
 },
 "cats": {
-"History": 37,
+"History": 38,
 "Finance": 1,
 "Pop Culture": 38,
-"Math": 37,
-"Food & Culture": 37,
-"Sports": 37,
-"Science": 37,
+"Math": 38,
+"Food & Culture": 38,
+"Sports": 38,
+"Science": 38,
 "Geography": 38,
 "Nature": 38,
 "Technology": 38
