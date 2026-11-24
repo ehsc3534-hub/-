@@ -372,7 +372,12 @@
 "1ea8d0ae1b1d75ef92e2f8d5c4a937170d8bb47e",
 "066975f1cf35b4732b43ffb8c3602f72cb2f778d",
 "b384c1270827566c50e2a95642f6460950665351",
-"e05413c40637ab652859f1338d68157936af6806"
+"e05413c40637ab652859f1338d68157936af6806",
+"9ccdba251bfd355181dba569bebda4d01414197b",
+"c6a99e782dd4dbbd80e0813533a96e336a7327ed",
+"a109e10b97481b75f117144a50be5ce78288cc4b",
+"0aecabe84e3d912e9b6c10a16f543e14ce556fb8",
+"efbf2ee1c7ec892679c5ea1d43273aad8e6b4faf"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -747,7 +752,12 @@
 "What does 'Oeuf a l'orange' mean in French cuisine?",
 "What type of media was the LaserDisc primarily used for?",
 "What causes a funnel cloud to form?",
-"Who built Borobudur Temple in Indonesia?"
+"Who built Borobudur Temple in Indonesia?",
+"Who was Nyx's father in Greek mythology?",
+"Who built the Pyramid of Cestlán?",
+"What material is known for the deepest known sinkhole?",
+"Who composed 'Misty'?",
+"What imaginary unit has a real power of -1?"
 ],
 "answers": [
 "picasso",
@@ -1112,7 +1122,12 @@
 "orange egg",
 "movies",
 "turbulence",
-"king samaratungga"
+"king samaratungga",
+"uranus",
+"maya people",
+"lena hotspring",
+"george shearing",
+"i"
 ],
 "subjects": [
 "cubism",
@@ -1477,13 +1492,18 @@
 "oeuf a lorange",
 "laserdisc",
 "tornado",
-"borobudur temple"
+"borobudur temple",
+"nyx veil",
+"pyramid of cestln",
+"deeper than c",
+"jazz",
+"euler identity"
 ],
 "subtopics": {
 "World History": 10,
 "Business and Trade": 1,
 "Art and Painting": 10,
-"Mathematics": 40,
+"Mathematics": 41,
 "Languages and Alphabets": 13,
 "Sports and Olympics": 20,
 "Chemistry": 6,
@@ -1494,9 +1514,9 @@
 "Everyday Science": 7,
 "Famous Inventions": 10,
 "Food and Drinks": 14,
-"World Records": 20,
+"World Records": 21,
 "Weather and Climate": 14,
-"Music": 10,
+"Music": 11,
 "Architecture and Landmarks": 14,
 "Animals and Wildlife": 14,
 "Human Body": 7,
@@ -1504,21 +1524,21 @@
 "Famous Scientists": 10,
 "World Geography": 10,
 "Literature and Authors": 10,
-"Mythology": 13,
+"Mythology": 14,
 "Countries and Capitals": 10,
 "Movies and Cinema (general)": 10,
-"Ancient Civilizations": 10,
+"Ancient Civilizations": 11,
 "Space and Astronomy": 7,
 "Physics": 6,
 "Biology": 7
 },
 "cats": {
-"History": 40,
+"History": 41,
 "Finance": 1,
-"Pop Culture": 40,
-"Math": 40,
-"Food & Culture": 40,
-"Sports": 40,
+"Pop Culture": 41,
+"Math": 41,
+"Food & Culture": 41,
+"Sports": 41,
 "Science": 40,
 "Geography": 40,
 "Nature": 41,
