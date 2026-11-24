@@ -362,7 +362,12 @@
 "9b7878eb1b79f4cd7055923bf7a2870532df64a5",
 "f9b712913f5ba717c18cd723745cb73793a57ae1",
 "048fe5443c76e575a13906d117f4a81be0e26610",
-"502ac341eaa8e62b1aefe3bcd6e8db45ee3f6dee"
+"502ac341eaa8e62b1aefe3bcd6e8db45ee3f6dee",
+"9c8d06802f2db49b7cf177ccf93bf78985a43405",
+"9e811a5ab39b5fb755af0a58fe773d8481f3cbb5",
+"f8bab41fca1c8a45b0deb6b6d597512f07b67eab",
+"d7d9e5d059cb35e57b9d5103d852ad6ec27d0891",
+"11b0d7e9ba9a8acc764a1df938e9da6fb54cb591"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -727,7 +732,12 @@
 "Which country won the most medals in Tug of War at the Olympics?",
 "What did Fermat claim he proved but couldn't fit in margin?",
 "What flag is associated with Bitcoin?",
-"What year does Halley's Comet return?"
+"What year does Halley's Comet return?",
+"What makes a tiger roar?",
+"What did Sir Galahad do after the Holy Grail quest?",
+"Which theorem states that all right angles are equal?",
+"What rainbow trout record is the largest?",
+"What is the maximum speed of a stock car?"
 ],
 "answers": [
 "picasso",
@@ -1082,7 +1092,12 @@
 "usa",
 "no proof",
 "usa flag",
-"76"
+"76",
+"voicebox mechanism",
+"knighted",
+"anglesideangle",
+"world record largest",
+"200 mph"
 ],
 "subjects": [
 "cubism",
@@ -1437,28 +1452,33 @@
 "tug of war",
 "fermats last theorem",
 "bitcoin logo",
-"halleys comet"
+"halleys comet",
+"tiger roar",
+"medieval knights",
+"euclids proof",
+"rainbow trout",
+"race car"
 ],
 "subtopics": {
-"World History": 9,
+"World History": 10,
 "Business and Trade": 1,
 "Art and Painting": 10,
-"Mathematics": 39,
+"Mathematics": 40,
 "Languages and Alphabets": 13,
 "Sports and Olympics": 20,
 "Chemistry": 6,
 "Oceans, Rivers and Mountains": 10,
 "Plants and Trees": 13,
-"Transport and Vehicles": 13,
+"Transport and Vehicles": 14,
 "Currencies and Flags": 10,
 "Everyday Science": 7,
 "Famous Inventions": 10,
 "Food and Drinks": 13,
-"World Records": 19,
+"World Records": 20,
 "Weather and Climate": 13,
 "Music": 10,
 "Architecture and Landmarks": 13,
-"Animals and Wildlife": 13,
+"Animals and Wildlife": 14,
 "Human Body": 7,
 "Technology and Computers": 13,
 "Famous Scientists": 10,
@@ -1473,15 +1493,15 @@
 "Biology": 7
 },
 "cats": {
-"History": 39,
+"History": 40,
 "Finance": 1,
 "Pop Culture": 39,
-"Math": 39,
+"Math": 40,
 "Food & Culture": 39,
-"Sports": 39,
+"Sports": 40,
 "Science": 40,
 "Geography": 39,
-"Nature": 39,
-"Technology": 39
+"Nature": 40,
+"Technology": 40
 }
 }
