@@ -357,7 +357,12 @@
 "48017e2a6f20c5f30f673e40824dda701de9d1e0",
 "a48fef57c43ab436f080859112dc5ba6c039d91f",
 "81785120222f6975efb49d75e0587ddfb14f52a3",
-"0c06b624e475f7a6a73dad3ae1da72434af9657c"
+"0c06b624e475f7a6a73dad3ae1da72434af9657c",
+"c1c0ca21caff39401859ce3e334725085063ec93",
+"9b7878eb1b79f4cd7055923bf7a2870532df64a5",
+"f9b712913f5ba717c18cd723745cb73793a57ae1",
+"048fe5443c76e575a13906d117f4a81be0e26610",
+"502ac341eaa8e62b1aefe3bcd6e8db45ee3f6dee"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -717,7 +722,12 @@
 "What does CO2 do in the atmosphere?",
 "Which boat was used in the first Boat Race?",
 "What does the Chinese dragon symbolize?",
-"What does a phoenix flame represent in mythology?"
+"What does a phoenix flame represent in mythology?",
+"What did Isaac Newton invent that changed the world?",
+"Which country won the most medals in Tug of War at the Olympics?",
+"What did Fermat claim he proved but couldn't fit in margin?",
+"What flag is associated with Bitcoin?",
+"What year does Halley's Comet return?"
 ],
 "answers": [
 "picasso",
@@ -1067,7 +1077,12 @@
 "keeps the earth warm",
 "harriers",
 "longevity",
-"regeneration"
+"regeneration",
+"prism",
+"usa",
+"no proof",
+"usa flag",
+"76"
 ],
 "subjects": [
 "cubism",
@@ -1417,20 +1432,25 @@
 "carbon cycle",
 "boat race",
 "chinese dragon",
-"phoenix flame"
+"phoenix flame",
+"isaac newton",
+"tug of war",
+"fermats last theorem",
+"bitcoin logo",
+"halleys comet"
 ],
 "subtopics": {
 "World History": 9,
 "Business and Trade": 1,
 "Art and Painting": 10,
-"Mathematics": 38,
+"Mathematics": 39,
 "Languages and Alphabets": 13,
-"Sports and Olympics": 19,
+"Sports and Olympics": 20,
 "Chemistry": 6,
 "Oceans, Rivers and Mountains": 10,
 "Plants and Trees": 13,
 "Transport and Vehicles": 13,
-"Currencies and Flags": 9,
+"Currencies and Flags": 10,
 "Everyday Science": 7,
 "Famous Inventions": 10,
 "Food and Drinks": 13,
@@ -1441,26 +1461,26 @@
 "Animals and Wildlife": 13,
 "Human Body": 7,
 "Technology and Computers": 13,
-"Famous Scientists": 9,
+"Famous Scientists": 10,
 "World Geography": 10,
 "Literature and Authors": 10,
 "Mythology": 13,
 "Countries and Capitals": 9,
 "Movies and Cinema (general)": 9,
 "Ancient Civilizations": 10,
-"Space and Astronomy": 6,
+"Space and Astronomy": 7,
 "Physics": 6,
 "Biology": 7
 },
 "cats": {
-"History": 38,
+"History": 39,
 "Finance": 1,
 "Pop Culture": 39,
-"Math": 38,
+"Math": 39,
 "Food & Culture": 39,
-"Sports": 38,
-"Science": 39,
-"Geography": 38,
+"Sports": 39,
+"Science": 40,
+"Geography": 39,
 "Nature": 39,
 "Technology": 39
 }
