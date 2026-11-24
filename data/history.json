@@ -377,7 +377,12 @@
 "c6a99e782dd4dbbd80e0813533a96e336a7327ed",
 "a109e10b97481b75f117144a50be5ce78288cc4b",
 "0aecabe84e3d912e9b6c10a16f543e14ce556fb8",
-"efbf2ee1c7ec892679c5ea1d43273aad8e6b4faf"
+"efbf2ee1c7ec892679c5ea1d43273aad8e6b4faf",
+"49dff50bff30df62b806b694020bbe0e6e83939b",
+"7697db999dd033fad2ddb93cdfd6614c12c33dd5",
+"1c53c9aae0894b40db60fd703f9d4066ba8c8be6",
+"e49da14915863bd2b8c1f1be1722f3dae23b2941",
+"a6051776893b347b5dcd8668814608e823bfa6be"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -757,7 +762,12 @@
 "Who built the Pyramid of Cestlán?",
 "What material is known for the deepest known sinkhole?",
 "Who composed 'Misty'?",
-"What imaginary unit has a real power of -1?"
+"What imaginary unit has a real power of -1?",
+"What is the decay product of uranium-238?",
+"What currency was used on Alcatraz?",
+"What family does Phalaenopsis belong to?",
+"What does Java use for its name origin in technology?",
+"What is the density of water in grams per cubic centimeter?"
 ],
 "answers": [
 "picasso",
@@ -1127,7 +1137,12 @@
 "maya people",
 "lena hotspring",
 "george shearing",
-"i"
+"i",
+"thallium",
+"usd",
+"orchidaceae",
+"ganjifa",
+"1"
 ],
 "subjects": [
 "cubism",
@@ -1497,20 +1512,25 @@
 "pyramid of cestln",
 "deeper than c",
 "jazz",
-"euler identity"
+"euler identity",
+"uranium decay",
+"alcatraz escape",
+"orchid",
+"java lang",
+"archimedes principle"
 ],
 "subtopics": {
 "World History": 10,
 "Business and Trade": 1,
 "Art and Painting": 10,
-"Mathematics": 41,
+"Mathematics": 42,
 "Languages and Alphabets": 13,
 "Sports and Olympics": 20,
-"Chemistry": 6,
+"Chemistry": 7,
 "Oceans, Rivers and Mountains": 10,
-"Plants and Trees": 13,
+"Plants and Trees": 14,
 "Transport and Vehicles": 14,
-"Currencies and Flags": 10,
+"Currencies and Flags": 11,
 "Everyday Science": 7,
 "Famous Inventions": 10,
 "Food and Drinks": 14,
@@ -1520,7 +1540,7 @@
 "Architecture and Landmarks": 14,
 "Animals and Wildlife": 14,
 "Human Body": 7,
-"Technology and Computers": 13,
+"Technology and Computers": 14,
 "Famous Scientists": 10,
 "World Geography": 10,
 "Literature and Authors": 10,
@@ -1536,12 +1556,12 @@
 "History": 41,
 "Finance": 1,
 "Pop Culture": 41,
-"Math": 41,
+"Math": 42,
 "Food & Culture": 41,
 "Sports": 41,
-"Science": 40,
-"Geography": 40,
-"Nature": 41,
-"Technology": 41
+"Science": 41,
+"Geography": 41,
+"Nature": 42,
+"Technology": 42
 }
 }
