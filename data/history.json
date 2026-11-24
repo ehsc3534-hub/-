@@ -382,7 +382,12 @@
 "7697db999dd033fad2ddb93cdfd6614c12c33dd5",
 "1c53c9aae0894b40db60fd703f9d4066ba8c8be6",
 "e49da14915863bd2b8c1f1be1722f3dae23b2941",
-"a6051776893b347b5dcd8668814608e823bfa6be"
+"a6051776893b347b5dcd8668814608e823bfa6be",
+"d9c426fe436cfc992490459c6970656dc5a7b55f",
+"53e6cd71e2c4c97a2cf6ba85073aca8ed54ca883",
+"d5cabbe3908c59ae78ebb8200af106939b89c05d",
+"2dcddc9b1db97ad5c9efc29534a01daf35b16941",
+"4691fe1db6147f6229b4965bd6dee0883abd697f"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -767,7 +772,12 @@
 "What currency was used on Alcatraz?",
 "What family does Phalaenopsis belong to?",
 "What does Java use for its name origin in technology?",
-"What is the density of water in grams per cubic centimeter?"
+"What is the density of water in grams per cubic centimeter?",
+"What does a yellow swimming lane represent?",
+"What country sank the Titanic?",
+"What causes a supernova explosion?",
+"What type of art is Renaissance stained glass?",
+"What year did television become popular in the US?"
 ],
 "answers": [
 "picasso",
@@ -1142,7 +1152,12 @@
 "usd",
 "orchidaceae",
 "ganjifa",
-"1"
+"1",
+"no swim",
+"england",
+"a stars core collapse",
+"glass art",
+"1948"
 ],
 "subjects": [
 "cubism",
@@ -1517,22 +1532,27 @@
 "alcatraz escape",
 "orchid",
 "java lang",
-"archimedes principle"
+"archimedes principle",
+"swimming lane",
+"titanic ship",
+"supernova explosion",
+"renaissance stained glass",
+"television"
 ],
 "subtopics": {
 "World History": 10,
 "Business and Trade": 1,
-"Art and Painting": 10,
+"Art and Painting": 11,
 "Mathematics": 42,
 "Languages and Alphabets": 13,
-"Sports and Olympics": 20,
+"Sports and Olympics": 21,
 "Chemistry": 7,
 "Oceans, Rivers and Mountains": 10,
 "Plants and Trees": 14,
 "Transport and Vehicles": 14,
 "Currencies and Flags": 11,
 "Everyday Science": 7,
-"Famous Inventions": 10,
+"Famous Inventions": 11,
 "Food and Drinks": 14,
 "World Records": 21,
 "Weather and Climate": 14,
@@ -1545,22 +1565,22 @@
 "World Geography": 10,
 "Literature and Authors": 10,
 "Mythology": 14,
-"Countries and Capitals": 10,
+"Countries and Capitals": 11,
 "Movies and Cinema (general)": 10,
 "Ancient Civilizations": 11,
 "Space and Astronomy": 7,
-"Physics": 6,
+"Physics": 7,
 "Biology": 7
 },
 "cats": {
-"History": 41,
+"History": 42,
 "Finance": 1,
-"Pop Culture": 41,
+"Pop Culture": 42,
 "Math": 42,
 "Food & Culture": 41,
-"Sports": 41,
-"Science": 41,
-"Geography": 41,
+"Sports": 42,
+"Science": 42,
+"Geography": 42,
 "Nature": 42,
 "Technology": 42
 }
