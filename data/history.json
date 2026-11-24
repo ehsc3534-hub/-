@@ -367,7 +367,12 @@
 "9e811a5ab39b5fb755af0a58fe773d8481f3cbb5",
 "f8bab41fca1c8a45b0deb6b6d597512f07b67eab",
 "d7d9e5d059cb35e57b9d5103d852ad6ec27d0891",
-"11b0d7e9ba9a8acc764a1df938e9da6fb54cb591"
+"11b0d7e9ba9a8acc764a1df938e9da6fb54cb591",
+"d8ac5fb28e41fd4262ffa908ff9293fa32514ab6",
+"1ea8d0ae1b1d75ef92e2f8d5c4a937170d8bb47e",
+"066975f1cf35b4732b43ffb8c3602f72cb2f778d",
+"b384c1270827566c50e2a95642f6460950665351",
+"e05413c40637ab652859f1338d68157936af6806"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -737,7 +742,12 @@
 "What did Sir Galahad do after the Holy Grail quest?",
 "Which theorem states that all right angles are equal?",
 "What rainbow trout record is the largest?",
-"What is the maximum speed of a stock car?"
+"What is the maximum speed of a stock car?",
+"What does a Peruvian condor eat primarily?",
+"What does 'Oeuf a l'orange' mean in French cuisine?",
+"What type of media was the LaserDisc primarily used for?",
+"What causes a funnel cloud to form?",
+"Who built Borobudur Temple in Indonesia?"
 ],
 "answers": [
 "picasso",
@@ -1097,7 +1107,12 @@
 "knighted",
 "anglesideangle",
 "world record largest",
-"200 mph"
+"200 mph",
+"insects",
+"orange egg",
+"movies",
+"turbulence",
+"king samaratungga"
 ],
 "subjects": [
 "cubism",
@@ -1457,7 +1472,12 @@
 "medieval knights",
 "euclids proof",
 "rainbow trout",
-"race car"
+"race car",
+"peruvian condor",
+"oeuf a lorange",
+"laserdisc",
+"tornado",
+"borobudur temple"
 ],
 "subtopics": {
 "World History": 10,
@@ -1473,11 +1493,11 @@
 "Currencies and Flags": 10,
 "Everyday Science": 7,
 "Famous Inventions": 10,
-"Food and Drinks": 13,
+"Food and Drinks": 14,
 "World Records": 20,
-"Weather and Climate": 13,
+"Weather and Climate": 14,
 "Music": 10,
-"Architecture and Landmarks": 13,
+"Architecture and Landmarks": 14,
 "Animals and Wildlife": 14,
 "Human Body": 7,
 "Technology and Computers": 13,
@@ -1485,8 +1505,8 @@
 "World Geography": 10,
 "Literature and Authors": 10,
 "Mythology": 13,
-"Countries and Capitals": 9,
-"Movies and Cinema (general)": 9,
+"Countries and Capitals": 10,
+"Movies and Cinema (general)": 10,
 "Ancient Civilizations": 10,
 "Space and Astronomy": 7,
 "Physics": 6,
@@ -1495,13 +1515,13 @@
 "cats": {
 "History": 40,
 "Finance": 1,
-"Pop Culture": 39,
+"Pop Culture": 40,
 "Math": 40,
-"Food & Culture": 39,
+"Food & Culture": 40,
 "Sports": 40,
 "Science": 40,
-"Geography": 39,
-"Nature": 40,
-"Technology": 40
+"Geography": 40,
+"Nature": 41,
+"Technology": 41
 }
 }
