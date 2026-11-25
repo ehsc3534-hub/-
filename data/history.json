@@ -407,7 +407,12 @@
 "9058094bdc60b0e2a64f4a11267c10fce5d10bee",
 "6951f5213140a5f7bf7a90417a5202397f91f1e4",
 "d1d3f89482fda9b9f490ab1240420175effdebda",
-"e67ccaec4996c26ad28ef83ed46391f622ec2735"
+"e67ccaec4996c26ad28ef83ed46391f622ec2735",
+"125b8069a5a41befced2bf428f81a223f016f564",
+"fea9dbaaa17c790fc74156e251618405b1959860",
+"c0684ebc0792ad65ceab9ee099af96c523ee1aa7",
+"ae3f0b194fba92006b16eb0703a49f207b047086",
+"8754ca78af63917ed3685fceb2a7df42cc156ba7"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -817,7 +822,12 @@
 "What causes a haze event in the atmosphere?",
 "Which Avril song topped the charts in 2003?",
 "What did early Cuban soccer teams use for a goal?",
-"What did Medusa mane do in Greek mythology?"
+"What did Medusa mane do in Greek mythology?",
+"What instrument creates a hip-hop beat?",
+"Which tower did the World Trade Center stand next to?",
+"What type of wolf has a white coat?",
+"How many regions are in a standard Sudoku puzzle?",
+"Who was the chief advisor to Pharaoh Tutankhamun?"
 ],
 "answers": [
 "picasso",
@@ -1217,7 +1227,12 @@
 "pollution",
 "runaway",
 "a net",
-"turned people to stone"
+"turned people to stone",
+"dj",
+"freedom tower",
+"arctic wolf",
+"9",
+"ay"
 ],
 "subjects": [
 "cubism",
@@ -1617,13 +1632,18 @@
 "haze event",
 "avril",
 "cuban soccer",
-"medusa mane"
+"medusa mane",
+"hiphop beat",
+"twin towers",
+"wolf",
+"sudoku puzzle",
+"pharaoh tutankhamun"
 ],
 "subtopics": {
-"World History": 11,
+"World History": 12,
 "Business and Trade": 1,
 "Art and Painting": 11,
-"Mathematics": 44,
+"Mathematics": 45,
 "Languages and Alphabets": 15,
 "Sports and Olympics": 22,
 "Chemistry": 7,
@@ -1636,9 +1656,9 @@
 "Food and Drinks": 15,
 "World Records": 22,
 "Weather and Climate": 15,
-"Music": 11,
-"Architecture and Landmarks": 14,
-"Animals and Wildlife": 14,
+"Music": 12,
+"Architecture and Landmarks": 15,
+"Animals and Wildlife": 15,
 "Human Body": 8,
 "Technology and Computers": 15,
 "Famous Scientists": 11,
@@ -1653,15 +1673,15 @@
 "Biology": 7
 },
 "cats": {
-"History": 44,
+"History": 45,
 "Finance": 1,
-"Pop Culture": 44,
-"Math": 44,
+"Pop Culture": 45,
+"Math": 45,
 "Food & Culture": 45,
 "Sports": 44,
 "Science": 44,
 "Geography": 44,
-"Nature": 44,
-"Technology": 44
+"Nature": 45,
+"Technology": 45
 }
 }
