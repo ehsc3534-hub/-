@@ -402,7 +402,12 @@
 "8c002639feedf0f6bb3be5e3a82b3a9604783cde",
 "e5734505c455bc36271a8a0c79cbaca61ccd39cd",
 "59c4cb40bb51500de4d8935d8bc1115b6c2f0f83",
-"29de8f02b08dcb0f3fac5e11ba1a8fab33f36c3c"
+"29de8f02b08dcb0f3fac5e11ba1a8fab33f36c3c",
+"38fb6d97a4fddba0d5469eed200cc31598753ce1",
+"9058094bdc60b0e2a64f4a11267c10fce5d10bee",
+"6951f5213140a5f7bf7a90417a5202397f91f1e4",
+"d1d3f89482fda9b9f490ab1240420175effdebda",
+"e67ccaec4996c26ad28ef83ed46391f622ec2735"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -807,7 +812,12 @@
 "What does a periscope allow submarines to do?",
 "Which runestone represents the 'U' sound?",
 "What celestial body launched Voyager 1?",
-"What did ELSA THUE discover?"
+"What did ELSA THUE discover?",
+"What does the Sahara Desert cover?",
+"What causes a haze event in the atmosphere?",
+"Which Avril song topped the charts in 2003?",
+"What did early Cuban soccer teams use for a goal?",
+"What did Medusa mane do in Greek mythology?"
 ],
 "answers": [
 "picasso",
@@ -1202,7 +1212,12 @@
 "see above water",
 "rk",
 "jupiter",
-"thue codes"
+"thue codes",
+"oneeighth of africa",
+"pollution",
+"runaway",
+"a net",
+"turned people to stone"
 ],
 "subjects": [
 "cubism",
@@ -1597,7 +1612,12 @@
 "submarine periscope",
 "runestones",
 "voyager 1",
-"elsa thue"
+"elsa thue",
+"sahara desert",
+"haze event",
+"avril",
+"cuban soccer",
+"medusa mane"
 ],
 "subtopics": {
 "World History": 11,
@@ -1605,7 +1625,7 @@
 "Art and Painting": 11,
 "Mathematics": 44,
 "Languages and Alphabets": 15,
-"Sports and Olympics": 21,
+"Sports and Olympics": 22,
 "Chemistry": 7,
 "Oceans, Rivers and Mountains": 11,
 "Plants and Trees": 15,
@@ -1615,18 +1635,18 @@
 "Famous Inventions": 11,
 "Food and Drinks": 15,
 "World Records": 22,
-"Weather and Climate": 14,
+"Weather and Climate": 15,
 "Music": 11,
 "Architecture and Landmarks": 14,
 "Animals and Wildlife": 14,
 "Human Body": 8,
 "Technology and Computers": 15,
 "Famous Scientists": 11,
-"World Geography": 10,
+"World Geography": 11,
 "Literature and Authors": 11,
-"Mythology": 14,
+"Mythology": 15,
 "Countries and Capitals": 11,
-"Movies and Cinema (general)": 10,
+"Movies and Cinema (general)": 11,
 "Ancient Civilizations": 11,
 "Space and Astronomy": 8,
 "Physics": 7,
@@ -1635,13 +1655,13 @@
 "cats": {
 "History": 44,
 "Finance": 1,
-"Pop Culture": 43,
+"Pop Culture": 44,
 "Math": 44,
-"Food & Culture": 44,
-"Sports": 43,
+"Food & Culture": 45,
+"Sports": 44,
 "Science": 44,
-"Geography": 43,
-"Nature": 43,
+"Geography": 44,
+"Nature": 44,
 "Technology": 44
 }
 }
