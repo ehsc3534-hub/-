@@ -392,7 +392,12 @@
 "5a01af3da775003ec38acf9a1451e919c9ac2d8d",
 "80261a648500c80111267dcb375751d55772db63",
 "f563218aee1aa99676e9691a861af5d63aaa4b4d",
-"b77682f6b57e12a30d88bc5bab128f7b2f280374"
+"b77682f6b57e12a30d88bc5bab128f7b2f280374",
+"9008794b3401f850bdf749c809d01bfe86dc0315",
+"14a542a215094b0c6b84238ce32239d4a825e048",
+"143db1a6f8544c377ad7ed31ece7291dfa1c63c8",
+"60bddea5d556bdcf907dcb80793b8f1c96e0d914",
+"0706ea38ed715009f5435247887de134ddc98d84"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -787,7 +792,12 @@
 "What has the longest Venus transit sequence?",
 "What do monarch butterflies lay their eggs on?",
 "What is located in the Lagoon of Þingvellir?",
-"What led to the decline of Mughal Empire?"
+"What led to the decline of Mughal Empire?",
+"What controls your heartbeat?",
+"What causes cheese curdling?",
+"What is the integral of x^3?",
+"What did Link do in the Dark World?",
+"Who wrote 'Romeo and Juliet'?"
 ],
 "answers": [
 "picasso",
@@ -1172,7 +1182,12 @@
 "8",
 "monarch milkweed",
 "ingvellir church",
-"overreach and internal strife"
+"overreach and internal strife",
+"a pacemaker",
+"protein coagulation",
+"14 x4",
+"teleported",
+"william shakespeare"
 ],
 "subjects": [
 "cubism",
@@ -1557,13 +1572,18 @@
 "venus transit",
 "monarch butterfly",
 "icelandic lagoon",
-"british india"
+"british india",
+"heart rate",
+"cheese curdling",
+"ferrari v8",
+"zelda",
+"romeo montague"
 ],
 "subtopics": {
 "World History": 11,
 "Business and Trade": 1,
 "Art and Painting": 11,
-"Mathematics": 42,
+"Mathematics": 43,
 "Languages and Alphabets": 14,
 "Sports and Olympics": 21,
 "Chemistry": 7,
@@ -1573,17 +1593,17 @@
 "Currencies and Flags": 11,
 "Everyday Science": 7,
 "Famous Inventions": 11,
-"Food and Drinks": 14,
+"Food and Drinks": 15,
 "World Records": 22,
 "Weather and Climate": 14,
 "Music": 11,
 "Architecture and Landmarks": 14,
 "Animals and Wildlife": 14,
-"Human Body": 7,
-"Technology and Computers": 14,
+"Human Body": 8,
+"Technology and Computers": 15,
 "Famous Scientists": 10,
 "World Geography": 10,
-"Literature and Authors": 10,
+"Literature and Authors": 11,
 "Mythology": 14,
 "Countries and Capitals": 11,
 "Movies and Cinema (general)": 10,
@@ -1595,13 +1615,13 @@
 "cats": {
 "History": 43,
 "Finance": 1,
-"Pop Culture": 42,
-"Math": 42,
-"Food & Culture": 42,
+"Pop Culture": 43,
+"Math": 43,
+"Food & Culture": 43,
 "Sports": 43,
-"Science": 42,
+"Science": 43,
 "Geography": 43,
 "Nature": 43,
-"Technology": 42
+"Technology": 43
 }
 }
