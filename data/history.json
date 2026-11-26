@@ -422,7 +422,12 @@
 "3cf2526fa3b2429e52b5b76fed279a62b53a789e",
 "fe46b82ab2e0e5dd36417792b3f63efa6f3fb994",
 "75819c20d731de47939352ba7d96e3a8ab8511ae",
-"9ab35ce053b7e69bc782511edb2ef1c4bb258439"
+"9ab35ce053b7e69bc782511edb2ef1c4bb258439",
+"d9fd37cc871d6c550817f3c5a3f9b1608be1df1e",
+"c9af94696f7472e599a2fc83e7366371445c1c51",
+"54b415a742cec240c5cade244f30d998fbd0d9a5",
+"4a76b0d7d3cd6eff15054b4d55f224747657f489",
+"bd08af7dfb9d20c0463f6a7d1d8ac411465c5484"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -847,7 +852,12 @@
 "What caused the Titanic's sinking?",
 "What did the kanji originate from?",
 "What do fern fronds do during spore dispersal?",
-"What happens when a photon interacts with an electron?"
+"What happens when a photon interacts with an electron?",
+"How many pyramids are there at Chichen Itza?",
+"What is the probability of winning by switching doors in the Monty Hall problem?",
+"What did Alan Turing break during WWII?",
+"What architectural landmark observes the night sky?",
+"What does a kapok seed resemble?"
 ],
 "answers": [
 "picasso",
@@ -1262,7 +1272,12 @@
 "iceberg collision",
 "ancient chinese writing",
 "release spores",
-"absorption"
+"absorption",
+"7",
+"23",
+"enigma machine",
+"observatory",
+"a bird"
 ],
 "subjects": [
 "cubism",
@@ -1677,13 +1692,18 @@
 "titanic sinking",
 "japanese kanji history",
 "fern fronds",
-"photon interaction"
+"photon interaction",
+"chichen itza",
+"monty hall problem",
+"alan turing",
+"observatory",
+"ecological footprint"
 ],
 "subtopics": {
 "World History": 12,
 "Business and Trade": 1,
 "Art and Painting": 11,
-"Mathematics": 45,
+"Mathematics": 46,
 "Languages and Alphabets": 16,
 "Sports and Olympics": 23,
 "Chemistry": 8,
@@ -1694,14 +1714,14 @@
 "Everyday Science": 7,
 "Famous Inventions": 12,
 "Food and Drinks": 15,
-"World Records": 22,
+"World Records": 23,
 "Weather and Climate": 15,
 "Music": 12,
-"Architecture and Landmarks": 15,
+"Architecture and Landmarks": 16,
 "Animals and Wildlife": 15,
 "Human Body": 8,
 "Technology and Computers": 16,
-"Famous Scientists": 11,
+"Famous Scientists": 12,
 "World Geography": 12,
 "Literature and Authors": 12,
 "Mythology": 15,
@@ -1710,18 +1730,18 @@
 "Ancient Civilizations": 11,
 "Space and Astronomy": 8,
 "Physics": 8,
-"Biology": 7
+"Biology": 8
 },
 "cats": {
-"History": 46,
+"History": 47,
 "Finance": 1,
 "Pop Culture": 46,
-"Math": 45,
+"Math": 46,
 "Food & Culture": 46,
-"Sports": 45,
-"Science": 46,
+"Sports": 46,
+"Science": 47,
 "Geography": 46,
 "Nature": 46,
-"Technology": 46
+"Technology": 47
 }
 }
