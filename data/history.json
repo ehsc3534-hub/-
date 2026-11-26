@@ -437,7 +437,12 @@
 "c9c117203e0446c01de8c5b73219155388c09762",
 "166bc4de6595ff77c5d240fd9e33e04bbb5a8cdc",
 "cb928013c1a770ea991dc26cdd4aab9ab93ce1c8",
-"156fa7a204416cf1d7e772d9567e35b3673917ea"
+"156fa7a204416cf1d7e772d9567e35b3673917ea",
+"dd6f173d096478033c1edb12d14ba803470b6476",
+"2b44571bec2c57ae1212dc4784e52600d6da28ae",
+"8e219edf8892cacb71264e9a8248082c5195aa0b",
+"a0663f755f82bb0fb68bf19bff317bb882543cee",
+"5ae1dec53537286f4aae51fe3cd670b1d06e8fa2"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -877,7 +882,12 @@
 "Who created the myth of Cerberus in Greek mythology?",
 "What causes ocean tides on Earth?",
 "What propelled the Apollo missions to the moon?",
-"Who directed 'Fantasia'?"
+"Who directed 'Fantasia'?",
+"Which country's capital is Stalingrad?",
+"What shape is a planet's orbit according to Kepler's First Law?",
+"What causes storm surge?",
+"Who created the Indus Script?",
+"What did Elon Musk achieve with Space X that no one else has?"
 ],
 "answers": [
 "picasso",
@@ -1307,7 +1317,12 @@
 "hades",
 "moon gravity",
 "nuclearpowered space shuttle",
-"andrew v sarris"
+"andrew v sarris",
+"russia",
+"eccentric",
+"tides",
+"ancient indians",
+"first mars landing"
 ],
 "subjects": [
 "cubism",
@@ -1737,13 +1752,18 @@
 "mythical wisdom",
 "sailing",
 "space shuttle",
-"fantasia"
+"fantasia",
+"stalin",
+"keplers laws",
+"storm surge",
+"indus script",
+"space x"
 ],
 "subtopics": {
 "World History": 12,
 "Business and Trade": 1,
 "Art and Painting": 12,
-"Mathematics": 47,
+"Mathematics": 48,
 "Languages and Alphabets": 16,
 "Sports and Olympics": 24,
 "Chemistry": 8,
@@ -1754,8 +1774,8 @@
 "Everyday Science": 8,
 "Famous Inventions": 12,
 "Food and Drinks": 16,
-"World Records": 23,
-"Weather and Climate": 15,
+"World Records": 24,
+"Weather and Climate": 16,
 "Music": 12,
 "Architecture and Landmarks": 16,
 "Animals and Wildlife": 16,
@@ -1765,23 +1785,23 @@
 "World Geography": 12,
 "Literature and Authors": 12,
 "Mythology": 16,
-"Countries and Capitals": 11,
+"Countries and Capitals": 12,
 "Movies and Cinema (general)": 12,
-"Ancient Civilizations": 11,
+"Ancient Civilizations": 12,
 "Space and Astronomy": 8,
 "Physics": 8,
 "Biology": 8
 },
 "cats": {
-"History": 47,
+"History": 48,
 "Finance": 1,
 "Pop Culture": 48,
-"Math": 47,
+"Math": 48,
 "Food & Culture": 48,
-"Sports": 47,
+"Sports": 48,
 "Science": 48,
-"Geography": 47,
-"Nature": 47,
+"Geography": 48,
+"Nature": 48,
 "Technology": 48
 }
 }
