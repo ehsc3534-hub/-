@@ -417,7 +417,12 @@
 "52c41853b078a9e303b1eb936413ec91ce19290f",
 "6ea137c17cd0effddacef74d01a8617209495d55",
 "944f88630ab2cb3162d71b1230a9b0af6d557785",
-"3c19cf42215c1e26708e32c13c99557c5c5fa23f"
+"3c19cf42215c1e26708e32c13c99557c5c5fa23f",
+"2969652f3036baaac5cd510bea161c49793fe9d5",
+"3cf2526fa3b2429e52b5b76fed279a62b53a789e",
+"fe46b82ab2e0e5dd36417792b3f63efa6f3fb994",
+"75819c20d731de47939352ba7d96e3a8ab8511ae",
+"9ab35ce053b7e69bc782511edb2ef1c4bb258439"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -837,7 +842,12 @@
 "Where do Amur leopards live?",
 "What does sulfuric acid smell like?",
 "What invention created Chinese ink painting brushes?",
-"What HTML5 tag is used for defining a horizontal rule?"
+"What HTML5 tag is used for defining a horizontal rule?",
+"Who wrote 'Leviathan'?",
+"What caused the Titanic's sinking?",
+"What did the kanji originate from?",
+"What do fern fronds do during spore dispersal?",
+"What happens when a photon interacts with an electron?"
 ],
 "answers": [
 "picasso",
@@ -1247,7 +1257,12 @@
 "eastern russia",
 "foul",
 "mi gongs brushes",
-"hr"
+"hr",
+"thomas hobbes",
+"iceberg collision",
+"ancient chinese writing",
+"release spores",
+"absorption"
 ],
 "subjects": [
 "cubism",
@@ -1657,18 +1672,23 @@
 "amur leopard",
 "spain football",
 "chinese ink painting brush",
-"html5 tags"
+"html5 tags",
+"hobbes leviathan",
+"titanic sinking",
+"japanese kanji history",
+"fern fronds",
+"photon interaction"
 ],
 "subtopics": {
 "World History": 12,
 "Business and Trade": 1,
 "Art and Painting": 11,
 "Mathematics": 45,
-"Languages and Alphabets": 15,
+"Languages and Alphabets": 16,
 "Sports and Olympics": 23,
 "Chemistry": 8,
-"Oceans, Rivers and Mountains": 11,
-"Plants and Trees": 15,
+"Oceans, Rivers and Mountains": 12,
+"Plants and Trees": 16,
 "Transport and Vehicles": 15,
 "Currencies and Flags": 11,
 "Everyday Science": 7,
@@ -1683,25 +1703,25 @@
 "Technology and Computers": 16,
 "Famous Scientists": 11,
 "World Geography": 12,
-"Literature and Authors": 11,
+"Literature and Authors": 12,
 "Mythology": 15,
 "Countries and Capitals": 11,
 "Movies and Cinema (general)": 11,
 "Ancient Civilizations": 11,
 "Space and Astronomy": 8,
-"Physics": 7,
+"Physics": 8,
 "Biology": 7
 },
 "cats": {
 "History": 46,
 "Finance": 1,
-"Pop Culture": 45,
+"Pop Culture": 46,
 "Math": 45,
-"Food & Culture": 45,
+"Food & Culture": 46,
 "Sports": 45,
-"Science": 45,
-"Geography": 45,
-"Nature": 45,
+"Science": 46,
+"Geography": 46,
+"Nature": 46,
 "Technology": 46
 }
 }
