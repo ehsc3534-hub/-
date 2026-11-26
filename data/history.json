@@ -432,7 +432,12 @@
 "5dbf2a68baac46485a856da705d03345d7661f2b",
 "1cf7c125470c759de6f1dedb43f8372570a32b71",
 "2c2b52bdc711074f4c7c349e4ac8745aa87c1d87",
-"8ebcf3418cad059f71c4149783c1f7d214e8818f"
+"8ebcf3418cad059f71c4149783c1f7d214e8818f",
+"05dde2bddb8f7bccd39909aed4e7db50cedba90a",
+"c9c117203e0446c01de8c5b73219155388c09762",
+"166bc4de6595ff77c5d240fd9e33e04bbb5a8cdc",
+"cb928013c1a770ea991dc26cdd4aab9ab93ce1c8",
+"156fa7a204416cf1d7e772d9567e35b3673917ea"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -867,7 +872,12 @@
 "What fruit is commonly used in cheesecake?",
 "What is the name of the country's flag featuring a red, white, and green stripe?",
 "What do tiger stripes look like on a Bengal Tiger's skin?",
-"Who painted the Lascaux Cave animals in France?"
+"Who painted the Lascaux Cave animals in France?",
+"What material are tennis rackets traditionally made of?",
+"Who created the myth of Cerberus in Greek mythology?",
+"What causes ocean tides on Earth?",
+"What propelled the Apollo missions to the moon?",
+"Who directed 'Fantasia'?"
 ],
 "answers": [
 "picasso",
@@ -1292,7 +1302,12 @@
 "strawberry",
 "mexico",
 "striped",
-"prehistoric people"
+"prehistoric people",
+"racket wood",
+"hades",
+"moon gravity",
+"nuclearpowered space shuttle",
+"andrew v sarris"
 ],
 "subjects": [
 "cubism",
@@ -1717,7 +1732,12 @@
 "cheesecake slice",
 "mexican flag",
 "tiger stripes",
-"primitive cave painting"
+"primitive cave painting",
+"tennis racket",
+"mythical wisdom",
+"sailing",
+"space shuttle",
+"fantasia"
 ],
 "subtopics": {
 "World History": 12,
@@ -1725,13 +1745,13 @@
 "Art and Painting": 12,
 "Mathematics": 47,
 "Languages and Alphabets": 16,
-"Sports and Olympics": 23,
+"Sports and Olympics": 24,
 "Chemistry": 8,
 "Oceans, Rivers and Mountains": 12,
 "Plants and Trees": 16,
-"Transport and Vehicles": 15,
+"Transport and Vehicles": 16,
 "Currencies and Flags": 12,
-"Everyday Science": 7,
+"Everyday Science": 8,
 "Famous Inventions": 12,
 "Food and Drinks": 16,
 "World Records": 23,
@@ -1744,9 +1764,9 @@
 "Famous Scientists": 12,
 "World Geography": 12,
 "Literature and Authors": 12,
-"Mythology": 15,
+"Mythology": 16,
 "Countries and Capitals": 11,
-"Movies and Cinema (general)": 11,
+"Movies and Cinema (general)": 12,
 "Ancient Civilizations": 11,
 "Space and Astronomy": 8,
 "Physics": 8,
@@ -1755,13 +1775,13 @@
 "cats": {
 "History": 47,
 "Finance": 1,
-"Pop Culture": 47,
+"Pop Culture": 48,
 "Math": 47,
-"Food & Culture": 47,
-"Sports": 46,
-"Science": 47,
+"Food & Culture": 48,
+"Sports": 47,
+"Science": 48,
 "Geography": 47,
 "Nature": 47,
-"Technology": 47
+"Technology": 48
 }
 }
