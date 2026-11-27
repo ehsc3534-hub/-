@@ -447,7 +447,12 @@
 "c7facf489042f80083de883c7fc1197b840e3fd0",
 "f8b0da2c8d53eccb9d98ca4d4b4a1378d71cb92c",
 "375f6e9d999ff366cfe89c42f3f62360e01d9ca9",
-"4fcf2044144ac4f78602bb9704a867f1aa82d4c5"
+"4fcf2044144ac4f78602bb9704a867f1aa82d4c5",
+"1bdc7932a528723b28c64a3a1d118804cf9a0de0",
+"860f51ef45c705d4a8fd585f56a1c2c2a284c1c0",
+"4f7353ec504cebf54b604d9aac914d19e08b820a",
+"bf67733eb820544695cdd34f422cf572fb5eea37",
+"953fe33ce2927a21b11e96da5de5a37817469ab8"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -897,7 +902,12 @@
 "What penguin huddle record was set in 2020?",
 "What is the Mona Lisa's most recognized facial feature?",
 "What does a Celtic Cross symbolize?",
-"What Anglo-Saxon rune means 'A'?"
+"What Anglo-Saxon rune means 'A'?",
+"What currency has the Rial Dragon on its flag?",
+"What freezes roads and power lines during an ice storm?",
+"What is the diameter of a circle with a circumference of 2π?",
+"What is the function of the minaret in a mosque?",
+"What did Mayans sacrifice to the gods in exchange for rain?"
 ],
 "answers": [
 "picasso",
@@ -1337,7 +1347,12 @@
 "34",
 "her smile",
 "crossing",
-"ae"
+"ae",
+"iranian rial",
+"water",
+"2",
+"call to prayer",
+"humans"
 ],
 "subjects": [
 "cubism",
@@ -1777,27 +1792,32 @@
 "penguin huddle",
 "mona lisa smile",
 "celtic cross",
-"anglosaxon runes"
+"anglosaxon runes",
+"rial dragon",
+"ice storm",
+"pi constant",
+"mosque minaret",
+"mayan sacrifice"
 ],
 "subtopics": {
 "World History": 13,
 "Business and Trade": 1,
 "Art and Painting": 13,
-"Mathematics": 48,
+"Mathematics": 49,
 "Languages and Alphabets": 17,
 "Sports and Olympics": 24,
 "Chemistry": 8,
 "Oceans, Rivers and Mountains": 12,
 "Plants and Trees": 16,
 "Transport and Vehicles": 16,
-"Currencies and Flags": 12,
+"Currencies and Flags": 13,
 "Everyday Science": 8,
 "Famous Inventions": 12,
 "Food and Drinks": 16,
 "World Records": 25,
-"Weather and Climate": 16,
+"Weather and Climate": 17,
 "Music": 12,
-"Architecture and Landmarks": 16,
+"Architecture and Landmarks": 17,
 "Animals and Wildlife": 16,
 "Human Body": 9,
 "Technology and Computers": 16,
@@ -1807,21 +1827,21 @@
 "Mythology": 16,
 "Countries and Capitals": 12,
 "Movies and Cinema (general)": 12,
-"Ancient Civilizations": 12,
+"Ancient Civilizations": 13,
 "Space and Astronomy": 8,
 "Physics": 8,
 "Biology": 8
 },
 "cats": {
-"History": 49,
+"History": 50,
 "Finance": 1,
 "Pop Culture": 49,
-"Math": 48,
+"Math": 49,
 "Food & Culture": 49,
 "Sports": 49,
 "Science": 49,
-"Geography": 48,
-"Nature": 48,
-"Technology": 48
+"Geography": 49,
+"Nature": 49,
+"Technology": 49
 }
 }
