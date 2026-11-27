@@ -472,7 +472,12 @@
 "70026a43ffc9946103eb4996270c94fe31b4d9e4",
 "e638c1729f9c6a9b4df74319e58a8ea35ca6cbae",
 "f4535f509bb3ebe01e9410ed8f57830a5dd1991f",
-"4daf85b051fd2ba811e70eba7149e10187ae608e"
+"4daf85b051fd2ba811e70eba7149e10187ae608e",
+"be7d296af22481a34de0ffe42d2e22b88ebaf065",
+"d152bc6d08ed9fb419de5338f05784dc8cb220a8",
+"c12ec0362a34d4ca742a2f15bf1c033ab87a8977",
+"2bf47878329d2ae39f0bbc4d51ee5fa9604cc395",
+"23a3afca87720fb654b4f4a00207d5e6bd8f612b"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -947,7 +952,12 @@
 "What shape are helicopter blades to reduce noise?",
 "What species of animals are tigers in the wild?",
 "What country was Queen Victoria's empire centered in?",
-"Which Shakespeare play features a character named 'Falstaff'?"
+"Which Shakespeare play features a character named 'Falstaff'?",
+"What is the purpose of the kerf in an autocross event?",
+"How many levels does the Eiffel Tower have?",
+"What item is served with French fries at McDonald's?",
+"What property of sets does Zermelo theorem ensure?",
+"Which subatomic particles exhibit quantum entanglement?"
 ],
 "answers": [
 "picasso",
@@ -1412,7 +1422,12 @@
 "fan shaped",
 "carnivores",
 "uk",
-"henry iv part 1"
+"henry iv part 1",
+"measuring distance",
+"73",
+"coke",
+"wellordering",
+"photons"
 ],
 "subjects": [
 "cubism",
@@ -1877,24 +1892,29 @@
 "helicopter blades",
 "tiger cub",
 "british empire",
-"william shakespeare"
+"william shakespeare",
+"autocross event",
+"eiffel tower",
+"mcdonalds",
+"zermelo theorem",
+"quantum entanglement"
 ],
 "subtopics": {
 "World History": 13,
 "Business and Trade": 1,
 "Art and Painting": 13,
-"Mathematics": 51,
+"Mathematics": 52,
 "Languages and Alphabets": 17,
 "Sports and Olympics": 26,
 "Chemistry": 8,
 "Oceans, Rivers and Mountains": 13,
 "Plants and Trees": 17,
-"Transport and Vehicles": 17,
+"Transport and Vehicles": 18,
 "Currencies and Flags": 13,
 "Everyday Science": 8,
 "Famous Inventions": 12,
-"Food and Drinks": 17,
-"World Records": 25,
+"Food and Drinks": 18,
+"World Records": 26,
 "Weather and Climate": 17,
 "Music": 13,
 "Architecture and Landmarks": 17,
@@ -1909,19 +1929,19 @@
 "Movies and Cinema (general)": 13,
 "Ancient Civilizations": 13,
 "Space and Astronomy": 9,
-"Physics": 8,
+"Physics": 9,
 "Biology": 9
 },
 "cats": {
 "History": 51,
 "Finance": 1,
 "Pop Culture": 52,
-"Math": 51,
-"Food & Culture": 51,
-"Sports": 51,
-"Science": 51,
+"Math": 52,
+"Food & Culture": 52,
+"Sports": 52,
+"Science": 52,
 "Geography": 52,
 "Nature": 52,
-"Technology": 51
+"Technology": 52
 }
 }
