@@ -467,7 +467,12 @@
 "fb79e1d90751de5f017cd45bcc0d2a4955d0f618",
 "6d8ce6fe937eca6e704f9ac7b72f7403b125bf77",
 "01835d04840621406ed7aeb63b61c0674b0ffb9c",
-"1e284e3b9ad5b3b45db5cf16811ab7f558ec00ea"
+"1e284e3b9ad5b3b45db5cf16811ab7f558ec00ea",
+"27e603725b90f26f281dae58975fddc1494901ef",
+"70026a43ffc9946103eb4996270c94fe31b4d9e4",
+"e638c1729f9c6a9b4df74319e58a8ea35ca6cbae",
+"f4535f509bb3ebe01e9410ed8f57830a5dd1991f",
+"4daf85b051fd2ba811e70eba7149e10187ae608e"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -937,7 +942,12 @@
 "What does a maple leaf do in autumn?",
 "What mathematical operation does the Feynman Check involve?",
 "What causes an asteroid to enter Earth's atmosphere?",
-"What did Shrek and Donkey fight over in the second movie?"
+"What did Shrek and Donkey fight over in the second movie?",
+"What race do Vikings participate in?",
+"What shape are helicopter blades to reduce noise?",
+"What species of animals are tigers in the wild?",
+"What country was Queen Victoria's empire centered in?",
+"Which Shakespeare play features a character named 'Falstaff'?"
 ],
 "answers": [
 "picasso",
@@ -1397,7 +1407,12 @@
 "changes color",
 "division",
 "heat from friction",
-"fairy godmothers baby"
+"fairy godmothers baby",
+"none",
+"fan shaped",
+"carnivores",
+"uk",
+"henry iv part 1"
 ],
 "subjects": [
 "cubism",
@@ -1857,7 +1872,12 @@
 "maple leaf dance",
 "feynman check",
 "asteroid impact hazard",
-"shrek"
+"shrek",
+"viking longship",
+"helicopter blades",
+"tiger cub",
+"british empire",
+"william shakespeare"
 ],
 "subtopics": {
 "World History": 13,
@@ -1865,11 +1885,11 @@
 "Art and Painting": 13,
 "Mathematics": 51,
 "Languages and Alphabets": 17,
-"Sports and Olympics": 25,
+"Sports and Olympics": 26,
 "Chemistry": 8,
 "Oceans, Rivers and Mountains": 13,
 "Plants and Trees": 17,
-"Transport and Vehicles": 16,
+"Transport and Vehicles": 17,
 "Currencies and Flags": 13,
 "Everyday Science": 8,
 "Famous Inventions": 12,
@@ -1878,14 +1898,14 @@
 "Weather and Climate": 17,
 "Music": 13,
 "Architecture and Landmarks": 17,
-"Animals and Wildlife": 17,
+"Animals and Wildlife": 18,
 "Human Body": 9,
 "Technology and Computers": 17,
 "Famous Scientists": 13,
 "World Geography": 13,
-"Literature and Authors": 12,
+"Literature and Authors": 13,
 "Mythology": 17,
-"Countries and Capitals": 12,
+"Countries and Capitals": 13,
 "Movies and Cinema (general)": 13,
 "Ancient Civilizations": 13,
 "Space and Astronomy": 9,
@@ -1895,13 +1915,13 @@
 "cats": {
 "History": 51,
 "Finance": 1,
-"Pop Culture": 51,
+"Pop Culture": 52,
 "Math": 51,
 "Food & Culture": 51,
-"Sports": 50,
+"Sports": 51,
 "Science": 51,
-"Geography": 51,
-"Nature": 51,
-"Technology": 50
+"Geography": 52,
+"Nature": 52,
+"Technology": 51
 }
 }
