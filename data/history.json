@@ -452,7 +452,12 @@
 "860f51ef45c705d4a8fd585f56a1c2c2a284c1c0",
 "4f7353ec504cebf54b604d9aac914d19e08b820a",
 "bf67733eb820544695cdd34f422cf572fb5eea37",
-"953fe33ce2927a21b11e96da5de5a37817469ab8"
+"953fe33ce2927a21b11e96da5de5a37817469ab8",
+"84582e7b052c7a27ea8c24cc41e205c5dd7b0e14",
+"edcb50d9b85d1f1a7e56577156941d18f0f404bc",
+"150ec98ae3dda26ccd05cac02bf112e47fdb57ed",
+"1b16204fb4c7bcfa02cd8c9f61196cd5e9782c90",
+"f2e45514fd9873caa7cc78f90ee114a42f824e46"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -907,7 +912,12 @@
 "What freezes roads and power lines during an ice storm?",
 "What is the diameter of a circle with a circumference of 2π?",
 "What is the function of the minaret in a mosque?",
-"What did Mayans sacrifice to the gods in exchange for rain?"
+"What did Mayans sacrifice to the gods in exchange for rain?",
+"What causes leaf vein patterns?",
+"What programming language uses Linux kernel?",
+"What is the largest known Euclid number?",
+"What does a hyena use its large ears for?",
+"What causes the Blue Ridge Mountains to form?"
 ],
 "answers": [
 "picasso",
@@ -1352,7 +1362,12 @@
 "water",
 "2",
 "call to prayer",
-"humans"
+"humans",
+"genetics",
+"c",
+"41",
+"communicate",
+"tectonic movement"
 ],
 "subjects": [
 "cubism",
@@ -1797,13 +1812,18 @@
 "ice storm",
 "pi constant",
 "mosque minaret",
-"mayan sacrifice"
+"mayan sacrifice",
+"leaf vein pattern",
+"linux kernel",
+"euclid number",
+"hyena",
+"blue ridge mountains"
 ],
 "subtopics": {
 "World History": 13,
 "Business and Trade": 1,
 "Art and Painting": 13,
-"Mathematics": 49,
+"Mathematics": 50,
 "Languages and Alphabets": 17,
 "Sports and Olympics": 24,
 "Chemistry": 8,
@@ -1818,11 +1838,11 @@
 "Weather and Climate": 17,
 "Music": 12,
 "Architecture and Landmarks": 17,
-"Animals and Wildlife": 16,
+"Animals and Wildlife": 17,
 "Human Body": 9,
-"Technology and Computers": 16,
+"Technology and Computers": 17,
 "Famous Scientists": 12,
-"World Geography": 12,
+"World Geography": 13,
 "Literature and Authors": 12,
 "Mythology": 16,
 "Countries and Capitals": 12,
@@ -1830,18 +1850,18 @@
 "Ancient Civilizations": 13,
 "Space and Astronomy": 8,
 "Physics": 8,
-"Biology": 8
+"Biology": 9
 },
 "cats": {
 "History": 50,
 "Finance": 1,
 "Pop Culture": 49,
-"Math": 49,
+"Math": 50,
 "Food & Culture": 49,
 "Sports": 49,
-"Science": 49,
-"Geography": 49,
-"Nature": 49,
-"Technology": 49
+"Science": 50,
+"Geography": 50,
+"Nature": 50,
+"Technology": 50
 }
 }
