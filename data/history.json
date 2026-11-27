@@ -462,7 +462,12 @@
 "7098710715fd1b78f26f53615a871363710783a1",
 "cc2ae51c807843aa2916061271409b0ffbbabc4d",
 "d56df23fc1d18ad225c9815cb7d858fba19ae17d",
-"db84550b350ba073152de0dbee2a0ba59139b193"
+"db84550b350ba073152de0dbee2a0ba59139b193",
+"4f9a5dac2041f9025343dea135b6c5feeef605e8",
+"fb79e1d90751de5f017cd45bcc0d2a4955d0f618",
+"6d8ce6fe937eca6e704f9ac7b72f7403b125bf77",
+"01835d04840621406ed7aeb63b61c0674b0ffb9c",
+"1e284e3b9ad5b3b45db5cf16811ab7f558ec00ea"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -927,7 +932,12 @@
 "Who created the classic Caesar dressing?",
 "What instrument was invented by Debussy?",
 "Which astronomer used the telescope to confirm the phases of Venus?",
-"What shape is a river delta?"
+"What shape is a river delta?",
+"What mythical creature hides in the gryphon hideout?",
+"What does a maple leaf do in autumn?",
+"What mathematical operation does the Feynman Check involve?",
+"What causes an asteroid to enter Earth's atmosphere?",
+"What did Shrek and Donkey fight over in the second movie?"
 ],
 "answers": [
 "picasso",
@@ -1382,7 +1392,12 @@
 "chef auguste escoffier",
 "piano",
 "galileo galilei",
-"triangle"
+"triangle",
+"griffin",
+"changes color",
+"division",
+"heat from friction",
+"fairy godmothers baby"
 ],
 "subjects": [
 "cubism",
@@ -1837,18 +1852,23 @@
 "caesar salad",
 "impressionist painting",
 "galileo galilei",
-"river delta"
+"river delta",
+"gryphon hideout",
+"maple leaf dance",
+"feynman check",
+"asteroid impact hazard",
+"shrek"
 ],
 "subtopics": {
 "World History": 13,
 "Business and Trade": 1,
 "Art and Painting": 13,
-"Mathematics": 50,
+"Mathematics": 51,
 "Languages and Alphabets": 17,
 "Sports and Olympics": 25,
 "Chemistry": 8,
 "Oceans, Rivers and Mountains": 13,
-"Plants and Trees": 16,
+"Plants and Trees": 17,
 "Transport and Vehicles": 16,
 "Currencies and Flags": 13,
 "Everyday Science": 8,
@@ -1864,24 +1884,24 @@
 "Famous Scientists": 13,
 "World Geography": 13,
 "Literature and Authors": 12,
-"Mythology": 16,
+"Mythology": 17,
 "Countries and Capitals": 12,
-"Movies and Cinema (general)": 12,
+"Movies and Cinema (general)": 13,
 "Ancient Civilizations": 13,
-"Space and Astronomy": 8,
+"Space and Astronomy": 9,
 "Physics": 8,
 "Biology": 9
 },
 "cats": {
 "History": 51,
 "Finance": 1,
-"Pop Culture": 50,
-"Math": 50,
-"Food & Culture": 50,
+"Pop Culture": 51,
+"Math": 51,
+"Food & Culture": 51,
 "Sports": 50,
-"Science": 50,
+"Science": 51,
 "Geography": 51,
-"Nature": 50,
+"Nature": 51,
 "Technology": 50
 }
 }
