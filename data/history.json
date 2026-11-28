@@ -487,7 +487,12 @@
 "83c55b72970f5f7ac93cedc4246905977c3bf78f",
 "f0c0f3794a52117ee2ab0f12418b71dbe0b4f61c",
 "a297a9d0c857aa05b9d11b9df26bbf3858e35d14",
-"aae12dc0e180e8747292744b91c7d4ff8cb93254"
+"aae12dc0e180e8747292744b91c7d4ff8cb93254",
+"2ba93aec87c4cd83779354dca215cebb55753ca6",
+"9bf5eb4645d17bd61632b7bf591998e21375c4dc",
+"2133bab69b38565cbaf3bc4836c308e891cb30e6",
+"3074df36351f5d26539d8884e98dc0d76e5d1ab8",
+"eb047a37a0a04d64f708015918bb2d4a81f42bc6"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -977,7 +982,12 @@
 "What does a robot arm do?",
 "What mask did Hades wear to trick souls into following him?",
 "What did Aztecs sacrifice to the rain god Quetzalcoatl?",
-"Which director's 'The Gold Rush' features an iconic scene with actors Charlie Chaplin and Mack Sennett?"
+"Which director's 'The Gold Rush' features an iconic scene with actors Charlie Chaplin and Mack Sennett?",
+"What did Watson invent with Morse's telegraph?",
+"What symbol represents the Japanese word for 'rice' in shogi?",
+"What type of building is a fountain?",
+"Which key on a piano produces a dominant 7th chord?",
+"What is Sweden's capital?"
 ],
 "answers": [
 "picasso",
@@ -1457,7 +1467,12 @@
 "pick up objects",
 "kerchief",
 "human beings",
-"goldie wilson"
+"goldie wilson",
+"telegraph key",
+"r",
+"architectural landmark",
+"bb",
+"stockholm"
 ],
 "subjects": [
 "cubism",
@@ -1937,14 +1952,19 @@
 "robotics",
 "hades mask",
 "aztec sacrifice",
-"golden age"
+"golden age",
+"inventor samual watson",
+"japanese shogi",
+"fountains",
+"vocals",
+"sweden"
 ],
 "subtopics": {
 "World History": 13,
 "Business and Trade": 1,
 "Art and Painting": 13,
 "Mathematics": 53,
-"Languages and Alphabets": 17,
+"Languages and Alphabets": 18,
 "Sports and Olympics": 26,
 "Chemistry": 8,
 "Oceans, Rivers and Mountains": 14,
@@ -1952,12 +1972,12 @@
 "Transport and Vehicles": 18,
 "Currencies and Flags": 13,
 "Everyday Science": 9,
-"Famous Inventions": 13,
+"Famous Inventions": 14,
 "Food and Drinks": 18,
 "World Records": 27,
 "Weather and Climate": 18,
-"Music": 13,
-"Architecture and Landmarks": 17,
+"Music": 14,
+"Architecture and Landmarks": 18,
 "Animals and Wildlife": 18,
 "Human Body": 9,
 "Technology and Computers": 18,
@@ -1965,7 +1985,7 @@
 "World Geography": 13,
 "Literature and Authors": 13,
 "Mythology": 18,
-"Countries and Capitals": 13,
+"Countries and Capitals": 14,
 "Movies and Cinema (general)": 14,
 "Ancient Civilizations": 14,
 "Space and Astronomy": 9,
@@ -1973,15 +1993,15 @@
 "Biology": 9
 },
 "cats": {
-"History": 53,
+"History": 54,
 "Finance": 1,
-"Pop Culture": 53,
+"Pop Culture": 54,
 "Math": 53,
-"Food & Culture": 53,
+"Food & Culture": 54,
 "Sports": 53,
 "Science": 53,
-"Geography": 53,
+"Geography": 54,
 "Nature": 53,
-"Technology": 53
+"Technology": 54
 }
 }
