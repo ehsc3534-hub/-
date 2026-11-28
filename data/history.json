@@ -477,7 +477,12 @@
 "d152bc6d08ed9fb419de5338f05784dc8cb220a8",
 "c12ec0362a34d4ca742a2f15bf1c033ab87a8977",
 "2bf47878329d2ae39f0bbc4d51ee5fa9604cc395",
-"23a3afca87720fb654b4f4a00207d5e6bd8f612b"
+"23a3afca87720fb654b4f4a00207d5e6bd8f612b",
+"c2ca4ce82dd4a2fac84d67973c25b9ac3d0b2430",
+"ba652ea3f5f310a229de2a95d303f665e57d489d",
+"29ad59fa74630bc4beb1c408ede8f90bcee697ed",
+"eeda52ff166272f9a412d872dde38232fb864b8d",
+"44f9d2105f08a568ac01caf2479bca0feaa91652"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -957,7 +962,12 @@
 "How many levels does the Eiffel Tower have?",
 "What item is served with French fries at McDonald's?",
 "What property of sets does Zermelo theorem ensure?",
-"Which subatomic particles exhibit quantum entanglement?"
+"Which subatomic particles exhibit quantum entanglement?",
+"Who designed the Wright Flyer airplane?",
+"When does snowfall occur in the Northern Hemisphere?",
+"What body of water separates the Greek mainland from the island of Crete?",
+"What baking soda record stands at 10 meters?",
+"What is the highest score possible in a single throw on a dartboard?"
 ],
 "answers": [
 "picasso",
@@ -1427,7 +1437,12 @@
 "73",
 "coke",
 "wellordering",
-"photons"
+"photons",
+"orville wright",
+"winter months",
+"sea of crete",
+"jumping",
+"50"
 ],
 "subjects": [
 "cubism",
@@ -1897,25 +1912,30 @@
 "eiffel tower",
 "mcdonalds",
 "zermelo theorem",
-"quantum entanglement"
+"quantum entanglement",
+"airplane",
+"snowfall",
+"aegean sea",
+"baking soda",
+"dartboard"
 ],
 "subtopics": {
 "World History": 13,
 "Business and Trade": 1,
 "Art and Painting": 13,
-"Mathematics": 52,
+"Mathematics": 53,
 "Languages and Alphabets": 17,
 "Sports and Olympics": 26,
 "Chemistry": 8,
-"Oceans, Rivers and Mountains": 13,
+"Oceans, Rivers and Mountains": 14,
 "Plants and Trees": 17,
 "Transport and Vehicles": 18,
 "Currencies and Flags": 13,
 "Everyday Science": 8,
-"Famous Inventions": 12,
+"Famous Inventions": 13,
 "Food and Drinks": 18,
-"World Records": 26,
-"Weather and Climate": 17,
+"World Records": 27,
+"Weather and Climate": 18,
 "Music": 13,
 "Architecture and Landmarks": 17,
 "Animals and Wildlife": 18,
@@ -1933,15 +1953,15 @@
 "Biology": 9
 },
 "cats": {
-"History": 51,
+"History": 52,
 "Finance": 1,
 "Pop Culture": 52,
-"Math": 52,
+"Math": 53,
 "Food & Culture": 52,
-"Sports": 52,
+"Sports": 53,
 "Science": 52,
-"Geography": 52,
-"Nature": 52,
+"Geography": 53,
+"Nature": 53,
 "Technology": 52
 }
 }
