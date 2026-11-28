@@ -482,7 +482,12 @@
 "ba652ea3f5f310a229de2a95d303f665e57d489d",
 "29ad59fa74630bc4beb1c408ede8f90bcee697ed",
 "eeda52ff166272f9a412d872dde38232fb864b8d",
-"44f9d2105f08a568ac01caf2479bca0feaa91652"
+"44f9d2105f08a568ac01caf2479bca0feaa91652",
+"462f59a0b1463e4e290a54dd28132a5fd9a7361a",
+"83c55b72970f5f7ac93cedc4246905977c3bf78f",
+"f0c0f3794a52117ee2ab0f12418b71dbe0b4f61c",
+"a297a9d0c857aa05b9d11b9df26bbf3858e35d14",
+"aae12dc0e180e8747292744b91c7d4ff8cb93254"
 ],
 "questions": [
 "What type of tree invented the process of photosynthesis?",
@@ -967,7 +972,12 @@
 "When does snowfall occur in the Northern Hemisphere?",
 "What body of water separates the Greek mainland from the island of Crete?",
 "What baking soda record stands at 10 meters?",
-"What is the highest score possible in a single throw on a dartboard?"
+"What is the highest score possible in a single throw on a dartboard?",
+"What does the bionic eye improve for blind people?",
+"What does a robot arm do?",
+"What mask did Hades wear to trick souls into following him?",
+"What did Aztecs sacrifice to the rain god Quetzalcoatl?",
+"Which director's 'The Gold Rush' features an iconic scene with actors Charlie Chaplin and Mack Sennett?"
 ],
 "answers": [
 "picasso",
@@ -1442,7 +1452,12 @@
 "winter months",
 "sea of crete",
 "jumping",
-"50"
+"50",
+"sight",
+"pick up objects",
+"kerchief",
+"human beings",
+"goldie wilson"
 ],
 "subjects": [
 "cubism",
@@ -1917,7 +1932,12 @@
 "snowfall",
 "aegean sea",
 "baking soda",
-"dartboard"
+"dartboard",
+"bionic eye",
+"robotics",
+"hades mask",
+"aztec sacrifice",
+"golden age"
 ],
 "subtopics": {
 "World History": 13,
@@ -1931,7 +1951,7 @@
 "Plants and Trees": 17,
 "Transport and Vehicles": 18,
 "Currencies and Flags": 13,
-"Everyday Science": 8,
+"Everyday Science": 9,
 "Famous Inventions": 13,
 "Food and Drinks": 18,
 "World Records": 27,
@@ -1940,28 +1960,28 @@
 "Architecture and Landmarks": 17,
 "Animals and Wildlife": 18,
 "Human Body": 9,
-"Technology and Computers": 17,
+"Technology and Computers": 18,
 "Famous Scientists": 13,
 "World Geography": 13,
 "Literature and Authors": 13,
-"Mythology": 17,
+"Mythology": 18,
 "Countries and Capitals": 13,
-"Movies and Cinema (general)": 13,
-"Ancient Civilizations": 13,
+"Movies and Cinema (general)": 14,
+"Ancient Civilizations": 14,
 "Space and Astronomy": 9,
 "Physics": 9,
 "Biology": 9
 },
 "cats": {
-"History": 52,
+"History": 53,
 "Finance": 1,
-"Pop Culture": 52,
+"Pop Culture": 53,
 "Math": 53,
-"Food & Culture": 52,
+"Food & Culture": 53,
 "Sports": 53,
-"Science": 52,
+"Science": 53,
 "Geography": 53,
 "Nature": 53,
-"Technology": 52
+"Technology": 53
 }
 }
